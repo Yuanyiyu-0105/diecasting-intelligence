@@ -1,0 +1,27 @@
+# 压铸行业情报日报（{{ date }}）
+
+## 摘要
+{% for s in summary %}- {{ s }}
+{% endfor %}
+
+## 一、采集概况
+- 本次采集源：{{ sources | join("、") }}
+- 原始文章数：{{ stats.raw_count }} ｜ 过滤后保留：{{ stats.kept_count }} ｜ 被过滤：{{ stats.filtered_count }}
+- 抽取结构化指标：{{ stats.metric_count }} 条
+- 抓取方式：{{ "实时抓取" if not used_sample else "样例数据（网络不可达自动回退，保证可跑通）" }}
+
+## 二、结构化指标
+| 主体 | 事件 | 数值 | 单位 | 同比 | 来源 |
+|---|---|---|---|---|---|
+{% for m in metrics %}| {{ m.subject }} | {{ m.event }} | {{ m.value }} | {{ m.unit }} | {{ m.yoy or "—" }} | {{ m.source }} |
+{% endfor %}
+
+## 三、图表
+{% if charts %}{% for c in charts %}- ![{{ c.title }}]({{ c.path }})  {{ c.title }}
+{% endfor %}{% else %}- 暂无同单位多样本图表（多日/多源累积后自动生成）
+{% endif %}
+
+## 附录：数据来源与口径说明
+- 单位已按规则归一化（万辆→辆、万台→台等），同口径才并图，不强行合并跨源指标。
+- 数值回查：见同目录 `qa_report.json`。
+- 本报告由「压铸行业全链路情报采集与分析系统 MVP」自动生成。

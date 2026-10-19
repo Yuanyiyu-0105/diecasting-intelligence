@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T13:36:21.952960",
+  "news_total": 105,
+  "metrics_total": 71,
+  "news_ok": 86,
+  "prefilter_pass": 86,
+  "news_by_source": {
+    "OICA": 23,
+    "cninfo": 36,
+    "IDC": 6,
+    "BCN": 40
+  },
+  "metrics_by_source": {
+    "OICA": 26,
+    "巨潮资讯网": 38,
+    "IDC": 6,
+    "BCN": 1
+  }
+}

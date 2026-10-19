@@ -1,0 +1,30 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ---------- 密钥(绝不入库) ----------
+.env
+
+# ---------- 浏览器登录态(含搜狗/微信 Cookie,绝不入库) ----------
+data/wechat_profile/
+wechat_profile/
+*.pma
+
+# ---------- WorkBuddy 会话/记忆数据(本地私有) ----------
+.workbuddy/
+
+# ---------- 运行产物 ----------
+logs/
+*.tmp
+*.bak
+output_backup_*/
+output/
+
+# ---------- 编辑器 / 系统 ----------
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

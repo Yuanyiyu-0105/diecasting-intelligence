@@ -1,0 +1,3670 @@
+{
+  "https://asia.nikkei.com/business/automobiles/china-s-toyota-joint-ventures-to-be-put-under-one-roof-to-help-ailing-gac": {
+    "url": "https://asia.nikkei.com/business/automobiles/china-s-toyota-joint-ventures-to-be-put-under-one-roof-to-help-ailing-gac",
+    "title": "China’s Toyota joint ventures to be put under one roof to help ailing GAC",
+    "media": "Nikkei Asia",
+    "status": "ok",
+    "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F0%2F1%2F3%2F13253108-1-eng-GB%2F39bc02758a13-GettyImages-1470154614.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+    "first_seen": "2026-10-15T11:10:24.629290",
+    "analyzed_at": "2026-10-17T16:23:12.007258",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://www.automobilwoche.de/technologie/batterie/amw-batterie-deal-mit-chinesen-warum-volkswagen-das-buendnis-mit-gotion-vertieft/": {
+    "url": "https://www.automobilwoche.de/technologie/batterie/amw-batterie-deal-mit-chinesen-warum-volkswagen-das-buendnis-mit-gotion-vertieft/",
+    "title": "Volkswagen: New Battery Deal with Chinese Partners — to Become More Independent",
+    "media": "Automobilwoche",
+    "status": "blocked",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:10:28.300521",
+    "analyzed_at": "2026-10-17T16:23:12.008259",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://www.autonews.com/retail/ane-china-exports-europe-outpace-official-data-0927/": {
+    "url": "https://www.autonews.com/retail/ane-china-exports-europe-outpace-official-data-0927/",
+    "title": "Europe’s Chinese car challenge is bigger than policymakers realize, UBS says",
+    "media": "Automotive News",
+    "status": "blocked",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:10:31.695131",
+    "analyzed_at": "2026-10-17T16:23:12.014299",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://autonews.gasgoo.com/articles/news/cpca-passenger-car-retail-sales-for-sept-1-20-down-22-year-on-year-2103058060179615745": {
+    "url": "https://autonews.gasgoo.com/articles/news/cpca-passenger-car-retail-sales-for-sept-1-20-down-22-year-on-year-2103058060179615745",
+    "title": "China passenger car retail sales for Sept 1-20 down 22% year-on-year",
+    "media": "Gasgoo",
+    "status": "ok",
+    "image_url": "https://gascloud.gasgoo.com/production/2026/09/0f4523da-11a5-43c8-92f0-5d25425e1006-1790268870.png",
+    "first_seen": "2026-10-15T11:10:34.440273",
+    "analyzed_at": "2026-10-19T10:34:03.366185",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "中国乘用车及新能源车零售/批发销量数据直接影响压铸件用量，属于下游汽车销量数据。",
+    "category": "下游-汽车销量",
+    "summary_zh": "9月1-20日中国乘用车零售87.8万辆，同比降22%；新能源零售59.6万辆，同比降9%，渗透率67.9%。批发100.1万辆，同比降19%。",
+    "bullets": [
+      "9月1-20日乘用车零售87.8万辆，同比-22%，环比+8%",
+      "新能源零售59.6万辆，同比-9%，渗透率67.9%",
+      "纯燃油轻型车产量同比-52%，混动/插混产量26.5万辆，同比-23%"
+    ],
+    "event": {
+      "date": "2026-09-20",
+      "subject": "中国乘用车市场信息联席会(CPCA)",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "中国乘用车零售量",
+        "period": "2026-09-01/2026-09-20",
+        "value": 878000.0,
+        "unit": "辆",
+        "value_normalized": 878000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国乘用车零售量同比",
+        "period": "2026-09-01/2026-09-20",
+        "value": -22.0,
+        "unit": "%",
+        "value_normalized": -22.0,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国乘用车批发量",
+        "period": "2026-09-01/2026-09-20",
+        "value": 1001000.0,
+        "unit": "辆",
+        "value_normalized": 1001000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国乘用车批发量同比",
+        "period": "2026-09-01/2026-09-20",
+        "value": -19.0,
+        "unit": "%",
+        "value_normalized": -19.0,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国乘用车零售量",
+        "period": "2026",
+        "value": 12593000.0,
+        "unit": "辆",
+        "value_normalized": 12593000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国乘用车批发量",
+        "period": "2026",
+        "value": 18184000.0,
+        "unit": "辆",
+        "value_normalized": 18184000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国新能源乘用车零售量",
+        "period": "2026-09-01/2026-09-20",
+        "value": 596000.0,
+        "unit": "辆",
+        "value_normalized": 596000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国新能源乘用车零售量同比",
+        "period": "2026-09-01/2026-09-20",
+        "value": -9.0,
+        "unit": "%",
+        "value_normalized": -9.0,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国新能源乘用车批发量",
+        "period": "2026-09-01/2026-09-20",
+        "value": 740000.0,
+        "unit": "辆",
+        "value_normalized": 740000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国新能源乘用车批发量同比",
+        "period": "2026-09-01/2026-09-20",
+        "value": 8.0,
+        "unit": "%",
+        "value_normalized": 8.0,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国新能源乘用车零售量",
+        "period": "2026",
+        "value": 7270000.0,
+        "unit": "辆",
+        "value_normalized": 7270000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国新能源乘用车批发量",
+        "period": "2026",
+        "value": 10518000.0,
+        "unit": "辆",
+        "value_normalized": 10518000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "新能源乘用车零售渗透率",
+        "period": "2026-09-01/2026-09-20",
+        "value": 67.9,
+        "unit": "%",
+        "value_normalized": 67.9,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "混动及插混车型产量",
+        "period": "2026-09-01/2026-09-20",
+        "value": 265000.0,
+        "unit": "辆",
+        "value_normalized": 265000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://www.ft.com/content/3ab2c236-eae3-4756-bc59-0852ae57d6a0?syn-25a6b1a6=1": {
+    "url": "https://www.ft.com/content/3ab2c236-eae3-4756-bc59-0852ae57d6a0?syn-25a6b1a6=1",
+    "title": "How Chinese cars are taking over Britain’s roads",
+    "media": "Financial Times",
+    "status": "failed",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:10:39.699811",
+    "analyzed_at": "2026-10-19T10:34:06.032009",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/china-urges-eu-to-keep-auto-markets-open-avoid-protectionism": {
+    "url": "https://www.bloomberg.com/news/articles/2026-09-22/china-urges-eu-to-keep-auto-markets-open-avoid-protectionism",
+    "title": "China Urges EU to Keep Auto Markets Open, Avoid Protectionism",
+    "media": "Bloomberg",
+    "status": "failed",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:10:44.014967",
+    "analyzed_at": "2026-10-19T10:34:06.033026",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/first-time-car-buyers-make-a-comeback-as-lower-gst-boosts-small-vehicle-demand/134400519": {
+    "url": "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/first-time-car-buyers-make-a-comeback-as-lower-gst-boosts-small-vehicle-demand/134400519",
+    "title": "Indian first-time car buyers make a comeback as lower taxes boosts small-vehicle demand",
+    "media": "auto.economictimes.indiatimes.com",
+    "status": "failed",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:10:48.924355",
+    "analyzed_at": "2026-10-19T10:34:06.034029",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://www.autonews.com/manufacturing/automakers/ane-china-commercial-vehicle-push-europe-0918/": {
+    "url": "https://www.autonews.com/manufacturing/automakers/ane-china-commercial-vehicle-push-europe-0918/",
+    "title": "The Chinese commercial vehicle industry is challenging the European industry’s tariff consensus.",
+    "media": "Automotive News",
+    "status": "blocked",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:10:51.559875",
+    "analyzed_at": "2026-10-19T10:34:06.034541",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://www.ft.com/content/0b45cb01-7f62-41c5-8c48-10c47f2e1ae6?syn-25a6b1a6=1": {
+    "url": "https://www.ft.com/content/0b45cb01-7f62-41c5-8c48-10c47f2e1ae6?syn-25a6b1a6=1",
+    "title": "EU asks China to voluntarily limit hybrid car exports",
+    "media": "Financial Times",
+    "status": "failed",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:10:55.144641",
+    "analyzed_at": "2026-10-19T10:34:06.036048",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://www.automobilwoche.de/autohersteller/amw-china-flottenziele-und-co-die-groessten-herausforderungen-der-truck-branche/": {
+    "url": "https://www.automobilwoche.de/autohersteller/amw-china-flottenziele-und-co-die-groessten-herausforderungen-der-truck-branche/",
+    "title": "2026 IAA Transportation: China, Fleet Goals, and More: The Biggest Challenges Facing the Trucking Industry",
+    "media": "Automobilwoche",
+    "status": "blocked",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:10:57.891175",
+    "analyzed_at": "2026-10-19T10:34:06.036791",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://www.latribunadeautomocion.es/2026/09/susana-solis-eurodiputada-del-pp-las-negociaciones-del-paquete-de-automocion-estan-estancadas-en-el-parlamento/": {
+    "url": "https://www.latribunadeautomocion.es/2026/09/susana-solis-eurodiputada-del-pp-las-negociaciones-del-paquete-de-automocion-estan-estancadas-en-el-parlamento/",
+    "title": "Negotiations on emissions under the Automotive Package “are at a standstill” in the European Parliament",
+    "media": "www.latribunadeautomocion.es",
+    "status": "ok",
+    "image_url": "https://www.latribunadeautomocion.es/wp-content/uploads/2026/09/La-eurodiputada-del-PP-Susana-Solis-dcha.-durante-su-intervencion-en-el-foro.jpeg",
+    "first_seen": "2026-10-15T11:11:02.003757",
+    "analyzed_at": "2026-10-19T10:34:06.037794",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/china-sets-70-ev-goal-for-new-car-sales-in-five-year-plan": {
+    "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-sets-70-ev-goal-for-new-car-sales-in-five-year-plan",
+    "title": "China Sets 70% EV Goal for New Car Sales in Five-Year Plan",
+    "media": "Bloomberg",
+    "status": "failed",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:11:04.810432",
+    "analyzed_at": "2026-10-19T10:34:06.038301",
+    "basis": "title_only",
+    "relevant": true,
+    "relevance_reason": "中国设定新能源车销量占比目标，直接影响压铸件（尤其一体化压铸）用量",
+    "category": "下游-汽车销量",
+    "summary_zh": "中国五年规划提出新能源车占新车销量70%的目标，将显著拉动压铸件需求。",
+    "bullets": [
+      "中国设定新能源车销量占比70%目标",
+      "目标覆盖五年规划期",
+      "新能源车渗透率提升利好压铸件用量"
+    ],
+    "event": {
+      "date": null,
+      "subject": "中国政府",
+      "amount": 70.0,
+      "amount_unit": "%",
+      "amount_normalized": 70.0,
+      "amount_base_unit": "%"
+    },
+    "metrics": [
+      {
+        "name": "中国新能源车新车销量占比目标",
+        "period": "",
+        "value": 70.0,
+        "unit": "%",
+        "value_normalized": 70.0,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://www.reuters.com/business/retail-consumer/italian-lobby-group-calls-80-eu-tariff-chinese-cars-parts-2026-09-09/": {
+    "url": "https://www.reuters.com/business/retail-consumer/italian-lobby-group-calls-80-eu-tariff-chinese-cars-parts-2026-09-09/",
+    "title": "The Italian ANFIA calls for 80% EU tariff on Chinese cars and parts",
+    "media": "Reuters",
+    "status": "failed",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:11:07.453703",
+    "analyzed_at": "2026-10-19T10:34:07.462580",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-08/duffy-lashes-out-at-ford-over-ties-to-chinese-auto-companies": {
+    "url": "https://www.bloomberg.com/news/articles/2026-09-08/duffy-lashes-out-at-ford-over-ties-to-chinese-auto-companies",
+    "title": "Ford Rebuked by Trump Cabinet Member Over Chinese Auto Ties",
+    "media": "Bloomberg",
+    "status": "failed",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:11:10.369457",
+    "analyzed_at": "2026-10-19T10:34:07.464082",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://www.reuters.com/business/world-at-work/jaguar-land-rover-cut-4000-jobs-globally-over-next-two-years-2026-09-07/": {
+    "url": "https://www.reuters.com/business/world-at-work/jaguar-land-rover-cut-4000-jobs-globally-over-next-two-years-2026-09-07/",
+    "title": "UK’s Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan",
+    "media": "Reuters",
+    "status": "failed",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:11:12.703296",
+    "analyzed_at": "2026-10-19T10:34:07.465087",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-03/vw-board-gives-ceo-blume-unanimous-backing-to-overhaul-carmaker?srnd=homepage-europe": {
+    "url": "https://www.bloomberg.com/news/articles/2026-09-03/vw-board-gives-ceo-blume-unanimous-backing-to-overhaul-carmaker?srnd=homepage-europe",
+    "title": "VW Approves Plan to Cut 50,000 More Jobs in Broad Overhaul",
+    "media": "Bloomberg",
+    "status": "failed",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:11:15.774268",
+    "analyzed_at": "2026-10-19T10:34:07.466092",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://www.lefigaro.fr/conjoncture/apres-un-echange-avec-elon-musk-la-france-autorise-les-essais-sur-route-du-systeme-de-conduite-autonome-de-tesla-20260902": {
+    "url": "https://www.lefigaro.fr/conjoncture/apres-un-echange-avec-elon-musk-la-france-autorise-les-essais-sur-route-du-systeme-de-conduite-autonome-de-tesla-20260902",
+    "title": "Following a meeting with Elon Musk, France has authorized “road tests” of Tesla’s supervised autonomous driving system",
+    "media": "www.lefigaro.fr",
+    "status": "ok",
+    "image_url": "https://i.f1g.fr/media/cms/1200x630_crop/2026/09/03/1bc980a8332efa556d4650404a39fbd991c0cd90bea44e9fcd4133cffc8003d8.JPG",
+    "first_seen": "2026-10-15T11:11:19.628369",
+    "analyzed_at": "2026-10-19T10:34:07.467097",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://www.reuters.com/business/autos-transportation/honda-tells-suppliers-cut-costs-9-billion-push-fend-off-china-documents-show-2026-09-02/": {
+    "url": "https://www.reuters.com/business/autos-transportation/honda-tells-suppliers-cut-costs-9-billion-push-fend-off-china-documents-show-2026-09-02/",
+    "title": "Honda tells suppliers to cut costs in $9 billion push to fend off China, documents show",
+    "media": "Reuters",
+    "status": "failed",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:11:21.913003",
+    "analyzed_at": "2026-10-19T10:34:07.468670",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://www.autonews.com/renault/ane-renault-h1-2026-profit-rise-0729/": {
+    "url": "https://www.autonews.com/renault/ane-renault-h1-2026-profit-rise-0729/",
+    "title": "Renault swings to first-half profit on EVs despite rise of Chinese rivals",
+    "media": "Automotive News",
+    "status": "blocked",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:11:25.003774",
+    "analyzed_at": "2026-10-19T10:34:07.469174",
+    "basis": "title_only",
+    "relevant": false,
+    "relevance_reason": "该新闻仅涉及雷诺扭亏为盈的财务表现，未提供整车销量或产量数据，与压铸件用量无直接关系。",
+    "category": "其他",
+    "summary_zh": "雷诺上半年扭亏为盈，电动车业务表现改善，但未披露具体销量数据。",
+    "bullets": [
+      "雷诺上半年实现盈利",
+      "电动车业务推动业绩改善",
+      "未提供整车销量或产量数据"
+    ],
+    "event": {
+      "date": null,
+      "subject": "Renault",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": []
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/ford-raises-earnings-outlook-on-strong-sales-of-profit-rich-suvs": {
+    "url": "https://www.bloomberg.com/news/articles/2026-07-28/ford-raises-earnings-outlook-on-strong-sales-of-profit-rich-suvs",
+    "title": "Ford Boosts Outlook on Strong Demand for Profit-Rich SUVs",
+    "media": "Bloomberg",
+    "status": "failed",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:11:27.728162",
+    "analyzed_at": "2026-10-19T10:34:08.702482",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://www.automobilwoche.de/autohersteller/volkswagen/porsche/amw-porsche-baut-5000-jobs-ab-und-garantiert-standorte-bis-2035/": {
+    "url": "https://www.automobilwoche.de/autohersteller/volkswagen/porsche/amw-porsche-baut-5000-jobs-ab-und-garantiert-standorte-bis-2035/",
+    "title": "Porsche to Cut 5,000 Jobs and Invest 2.1 billion Euros",
+    "media": "Automobilwoche",
+    "status": "blocked",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:11:30.373826",
+    "analyzed_at": "2026-10-19T10:34:08.703544",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://www.automobilwoche.de/autohersteller/volkswagen/amw-analyse-volkswagen-macht-den-konzernumbau-messbar/": {
+    "url": "https://www.automobilwoche.de/autohersteller/volkswagen/amw-analyse-volkswagen-macht-den-konzernumbau-messbar/",
+    "title": "Volkswagen Makes Its Corporate Restructuring Measurable",
+    "media": "Automobilwoche",
+    "status": "blocked",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:11:32.988076",
+    "analyzed_at": "2026-10-19T10:34:08.704635",
+    "basis": "prefilter",
+    "relevant": false,
+    "relevance_reason": "关键词预筛未命中(未调用LLM)",
+    "category": "其他",
+    "summary_zh": "",
+    "bullets": [],
+    "event": {},
+    "metrics": []
+  },
+  "https://www.reuters.com/business/autos-transportation/renault-first-half-sales-volumes-slip-04-vs-year-ago-period-2026-07-23/": {
+    "url": "https://www.reuters.com/business/autos-transportation/renault-first-half-sales-volumes-slip-04-vs-year-ago-period-2026-07-23/",
+    "title": "Renault’s hit EV helps fend off Chinese rivals as quarterly sales rebound",
+    "media": "Reuters",
+    "status": "failed",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:11:35.264451",
+    "analyzed_at": "2026-10-19T10:34:08.705650",
+    "basis": "title_only",
+    "relevant": false,
+    "relevance_reason": "标题仅涉及雷诺电动车销量回升与竞争格局，未提供整车销量/产量数据，与压铸件用量无直接关系。",
+    "category": "其他",
+    "summary_zh": "雷诺热销电动车助其抵御中国竞争对手，季度销量回升。",
+    "bullets": [
+      "雷诺季度销量反弹",
+      "热销电动车帮助抵御中国竞争对手"
+    ],
+    "event": {
+      "date": null,
+      "subject": "Renault",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": []
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-08-21/1225486673.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225486673.PDF",
+    "title": "文灿股份:2026年半年度报告摘要",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:19.556422",
+    "analyzed_at": "2026-10-19T10:34:10.019499",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "文灿股份为压铸行业头部企业，其半年度财报属于压铸同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "文灿集团2026年上半年营收27.995亿元，同比基本持平；归母净利润亏损2.159亿元，同比大幅转亏，利润总额同比下降516.81%。",
+    "bullets": [
+      "营业收入27.995亿元，同比微降0.11%",
+      "归母净利润-2.159亿元，上年同期为0.131亿元",
+      "利润总额-1.966亿元，同比下降516.81%",
+      "经营活动现金流净额-1.771亿元，同比下降557.43%"
+    ],
+    "event": {
+      "date": null,
+      "subject": "文灿集团股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "文灿股份营业收入",
+        "period": "2026-H1",
+        "value": 2799543682.78,
+        "unit": "元",
+        "value_normalized": 2799543682.78,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "文灿股份归母净利润",
+        "period": "2026-H1",
+        "value": -215901954.17,
+        "unit": "元",
+        "value_normalized": -215901954.17,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "文灿股份利润总额",
+        "period": "2026-H1",
+        "value": -196553251.72,
+        "unit": "元",
+        "value_normalized": -196553251.72,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "文灿股份营业收入同比",
+        "period": "2026-H1",
+        "value": -0.11,
+        "unit": "%",
+        "value_normalized": -0.11,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "文灿股份归母净利润同比",
+        "period": "2026-H1",
+        "value": -1746.84,
+        "unit": "%",
+        "value_normalized": -1746.84,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "文灿股份总资产",
+        "period": "2026-H1",
+        "value": 9475439095.15,
+        "unit": "元",
+        "value_normalized": 9475439095.15,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-04-29/1225240538.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225240538.PDF",
+    "title": "文灿股份:2025年年度报告摘要",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:21.065227",
+    "analyzed_at": "2026-10-19T10:34:12.214711",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "文灿股份是压铸行业头部企业，其年报摘要包含公司经营情况、一体化压铸技术进展及下游汽车产销数据，与压铸上下游产业链直接相关。",
+    "category": "同行企业动态",
+    "summary_zh": "文灿股份2025年营收净利亏损3.48亿元，但一体化压铸车身结构件已量产，拥有9000T以上压铸机8台，客户包括赛力斯、蔚来、理想等。",
+    "bullets": [
+      "2025年归属于上市公司股东净利润为-34,795.11万元，不派发现金红利。",
+      "公司拥有9000T及以上压铸机8台、7000T压铸机3台、6000T压铸机2台。",
+      "一体化车身结构件良率超95%，主要客户包括赛力斯、蔚来汽车、理想汽车、江淮汽车等。",
+      "2025年中国汽车产销分别完成3,453.1万辆和3,440万辆，同比分别增长10.4%和9.4%。"
+    ],
+    "event": {
+      "date": null,
+      "subject": "文灿集团股份有限公司",
+      "amount": -34795.11,
+      "amount_unit": "万元",
+      "amount_normalized": -347951100.0,
+      "amount_base_unit": "CNY"
+    },
+    "metrics": [
+      {
+        "name": "中国汽车产量",
+        "period": "2025",
+        "value": 3453.1,
+        "unit": "万辆",
+        "value_normalized": 34531000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国汽车销量",
+        "period": "2025",
+        "value": 3440.0,
+        "unit": "万辆",
+        "value_normalized": 34400000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国乘用车产量",
+        "period": "2025",
+        "value": 3027.0,
+        "unit": "万辆",
+        "value_normalized": 30270000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国乘用车销量",
+        "period": "2025",
+        "value": 3010.3,
+        "unit": "万辆",
+        "value_normalized": 30103000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国新能源汽车产量",
+        "period": "2025",
+        "value": 1662.6,
+        "unit": "万辆",
+        "value_normalized": 16626000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国新能源汽车销量",
+        "period": "2025",
+        "value": 1649.0,
+        "unit": "万辆",
+        "value_normalized": 16490000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "全球主要国家新能源汽车销量",
+        "period": "2025",
+        "value": 1812.4,
+        "unit": "万辆",
+        "value_normalized": 18124000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国新能源汽车渗透率",
+        "period": "2025",
+        "value": 47.9,
+        "unit": "%",
+        "value_normalized": 47.9,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国燃油车单车用铝量",
+        "period": "2025",
+        "value": 179.0,
+        "unit": "Kg",
+        "value_normalized": 179.0,
+        "base_unit": "Kg",
+        "unit_recognized": false
+      },
+      {
+        "name": "中国纯电动汽车单车用铝量",
+        "period": "2025",
+        "value": 226.0,
+        "unit": "Kg",
+        "value_normalized": 226.0,
+        "base_unit": "Kg",
+        "unit_recognized": false
+      },
+      {
+        "name": "欧洲汽车平均铝用量",
+        "period": "2022",
+        "value": 205.0,
+        "unit": "Kg",
+        "value_normalized": 205.0,
+        "base_unit": "Kg",
+        "unit_recognized": false
+      },
+      {
+        "name": "欧洲汽车平均铝用量",
+        "period": "2026",
+        "value": 237.0,
+        "unit": "Kg",
+        "value_normalized": 237.0,
+        "base_unit": "Kg",
+        "unit_recognized": false
+      },
+      {
+        "name": "欧洲汽车平均铝用量",
+        "period": "2030",
+        "value": 256.0,
+        "unit": "Kg",
+        "value_normalized": 256.0,
+        "base_unit": "Kg",
+        "unit_recognized": false
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-04-29/1225240514.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225240514.PDF",
+    "title": "文灿股份:2026年第一季度报告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:22.578258",
+    "analyzed_at": "2026-10-19T10:34:14.806396",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "文灿股份是压铸行业头部企业，其季度财报属于压铸同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "文灿股份2026年一季度营收13.12亿元同比增3.26%，但归母净利润亏损7977.58万元，主因铝价上涨成本传导滞后、部分客户订单回落及新项目爬坡毛利率偏低。",
+    "bullets": [
+      "一季度营业收入13.12亿元，同比增长3.26%",
+      "归母净利润亏损7977.58万元，同比大幅转亏",
+      "亏损主因铝价显著上涨、成本传导滞后及客户订单回落"
+    ],
+    "event": {
+      "date": "2026-03-31",
+      "subject": "文灿集团股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "营业收入",
+        "period": "2026-Q1",
+        "value": 1311697785.0,
+        "unit": "元",
+        "value_normalized": 1311697785.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "营业收入同比",
+        "period": "2026-Q1",
+        "value": 3.26,
+        "unit": "%",
+        "value_normalized": 3.26,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "归属于上市公司股东的净利润",
+        "period": "2026-Q1",
+        "value": -79775797.11,
+        "unit": "元",
+        "value_normalized": -79775797.11,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "归属于上市公司股东的净利润同比",
+        "period": "2026-Q1",
+        "value": -2166.56,
+        "unit": "%",
+        "value_normalized": -2166.56,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2025-10-29/1224755702.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2025-10-29/1224755702.PDF",
+    "title": "文灿股份:2025年第三季度报告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:24.089349",
+    "analyzed_at": "2026-10-19T10:34:16.623465",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "文灿股份是压铸行业头部企业，其季度财报属于压铸同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "文灿股份2025年第三季度营收15.36亿元同比降5.57%，归母净利润亏损1075万元同比降170%，主因天津工厂火灾及子公司百炼集团海外市场亏损。",
+    "bullets": [
+      "第三季度营业收入15.36亿元，同比下降5.57%；年初至报告期末营收43.38亿元，同比下降7.73%。",
+      "第三季度归母净利润亏损1075.27万元，同比下降170.02%；年初至报告期末净利润235.74万元，同比下降97.57%。",
+      "业绩下滑主因：天津雄邦压铸后处理车间火灾导致交付延迟，以及子公司百炼集团受欧洲/北美汽车市场变动和新老项目切换影响亏损。"
+    ],
+    "event": {
+      "date": "2025-10-30",
+      "subject": "文灿集团股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "文灿股份营业收入",
+        "period": "2025-Q3",
+        "value": 1535774155.0,
+        "unit": "元",
+        "value_normalized": 1535774155.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "文灿股份营业收入",
+        "period": "2025-01至2025-09",
+        "value": 4338341014.09,
+        "unit": "元",
+        "value_normalized": 4338341014.09,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "文灿股份归母净利润",
+        "period": "2025-Q3",
+        "value": -10752678.49,
+        "unit": "元",
+        "value_normalized": -10752678.49,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "文灿股份归母净利润",
+        "period": "2025-01至2025-09",
+        "value": 2357368.06,
+        "unit": "元",
+        "value_normalized": 2357368.06,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "文灿股份营业收入同比",
+        "period": "2025-Q3",
+        "value": -5.57,
+        "unit": "%",
+        "value_normalized": -5.57,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "文灿股份营业收入同比",
+        "period": "2025-01至2025-09",
+        "value": -7.73,
+        "unit": "%",
+        "value_normalized": -7.73,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "文灿股份归母净利润同比",
+        "period": "2025-Q3",
+        "value": -170.02,
+        "unit": "%",
+        "value_normalized": -170.02,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "文灿股份归母净利润同比",
+        "period": "2025-01至2025-09",
+        "value": -97.57,
+        "unit": "%",
+        "value_normalized": -97.57,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520334.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520334.PDF",
+    "title": "旭升集团:宁波旭升集团股份有限公司2026年半年度报告摘要",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:29.261809",
+    "analyzed_at": "2026-10-19T10:34:18.896425",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "旭升集团为铝制压铸件及汽车零部件企业，其半年度财报属于压铸同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "旭升集团2026年上半年营收24.28亿元，同比增长15.86%；归母净利润2.38亿元，同比增长18.48%；控股股东变更为广州工控集团。",
+    "bullets": [
+      "2026年上半年营业收入24.28亿元，同比增长15.86%",
+      "归母净利润2.38亿元，同比增长18.48%",
+      "控股股东变更为广州工业投资控股集团，实际控制人变更为广州市人民政府"
+    ],
+    "event": {
+      "date": "2026-08-27",
+      "subject": "宁波旭升集团股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "旭升集团营业收入",
+        "period": "2026-H1",
+        "value": 2428363333.34,
+        "unit": "元",
+        "value_normalized": 2428363333.34,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "旭升集团归母净利润",
+        "period": "2026-H1",
+        "value": 237709912.21,
+        "unit": "元",
+        "value_normalized": 237709912.21,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "旭升集团营业收入同比",
+        "period": "2026-H1",
+        "value": 15.86,
+        "unit": "%",
+        "value_normalized": 15.86,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "旭升集团归母净利润同比",
+        "period": "2026-H1",
+        "value": 18.48,
+        "unit": "%",
+        "value_normalized": 18.48,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-04-29/1225226853.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225226853.PDF",
+    "title": "旭升集团:宁波旭升集团股份有限公司2026年第一季度报告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:30.773558",
+    "analyzed_at": "2026-10-19T10:34:20.488546",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "旭升集团为铝压铸汽车零部件企业，其季报营收利润数据属压铸同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "旭升集团2026年一季度营收12.19亿元同比增16.45%，归母净利润1.25亿元同比增30.87%，扣非净利增39.94%，主因业务增长收入增加。",
+    "bullets": [
+      "一季度营业收入12.19亿元，同比增长16.45%",
+      "归母净利润1.25亿元，同比增长30.87%；扣非净利1.14亿元，增39.94%",
+      "经营活动现金流净额2.08亿元，同比下降30.13%",
+      "控股股东变更为广州工控集团，实控人变更为广州市人民政府"
+    ],
+    "event": {
+      "date": "2026-03-31",
+      "subject": "宁波旭升集团股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "旭升集团营业收入",
+        "period": "2026-Q1",
+        "value": 1218635720.93,
+        "unit": "元",
+        "value_normalized": 1218635720.93,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "旭升集团归母净利润",
+        "period": "2026-Q1",
+        "value": 125170087.08,
+        "unit": "元",
+        "value_normalized": 125170087.08,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "旭升集团营业收入同比",
+        "period": "2026-Q1",
+        "value": 16.45,
+        "unit": "%",
+        "value_normalized": 16.45,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "旭升集团归母净利润同比",
+        "period": "2026-Q1",
+        "value": 30.87,
+        "unit": "%",
+        "value_normalized": 30.87,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-04-23/1225146591.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-23/1225146591.PDF",
+    "title": "旭升集团:宁波旭升集团股份有限公司2025年年度报告摘要",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:32.278496",
+    "analyzed_at": "2026-10-19T10:34:22.121839",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "旭升集团为铝制压铸件及精密铝合金汽车零部件企业，其年报属于压铸同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "旭升集团2025年年报显示，营业收入44.50亿元，同比微增0.93%；归母净利润3.65亿元，同比下降12.28%；总资产131.03亿元，同比下降6.33%。",
+    "bullets": [
+      "2025年营业收入44.50亿元，同比增0.93%",
+      "归母净利润3.65亿元，同比降12.28%",
+      "总资产131.03亿元，同比降6.33%",
+      "经营活动现金流净额6.73亿元，同比降44.64%"
+    ],
+    "event": {
+      "date": null,
+      "subject": "宁波旭升集团股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "营业收入",
+        "period": "2025",
+        "value": 4449584218.57,
+        "unit": "元",
+        "value_normalized": 4449584218.57,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "营业收入同比",
+        "period": "2025",
+        "value": 0.93,
+        "unit": "%",
+        "value_normalized": 0.93,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "归母净利润",
+        "period": "2025",
+        "value": 365124181.04,
+        "unit": "元",
+        "value_normalized": 365124181.04,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "归母净利润同比",
+        "period": "2025",
+        "value": -12.28,
+        "unit": "%",
+        "value_normalized": -12.28,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "总资产",
+        "period": "2025",
+        "value": 13103114206.08,
+        "unit": "元",
+        "value_normalized": 13103114206.08,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "总资产同比",
+        "period": "2025",
+        "value": -6.33,
+        "unit": "%",
+        "value_normalized": -6.33,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "经营活动现金流量净额",
+        "period": "2025",
+        "value": 672894960.26,
+        "unit": "元",
+        "value_normalized": 672894960.26,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "基本每股收益",
+        "period": "2025",
+        "value": 0.38,
+        "unit": "元/股",
+        "value_normalized": 0.38,
+        "base_unit": "元/股",
+        "unit_recognized": false
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2025-10-31/1224770405.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2025-10-31/1224770405.PDF",
+    "title": "旭升集团:宁波旭升集团股份有限公司2025年第三季度报告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:33.790971",
+    "analyzed_at": "2026-10-19T10:34:24.305848",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "旭升集团是压铸行业同行企业，其季度财报属于同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "旭升集团2025年第三季度报告显示，本报告期营业收入11.30亿元，同比增0.41%；归母净利润0.99亿元，同比增70.43%。",
+    "bullets": [
+      "第三季度营业收入11.30亿元，同比增0.41%",
+      "第三季度归母净利润0.99亿元，同比增70.43%",
+      "年初至报告期末营业收入32.26亿元，同比降1.48%"
+    ],
+    "event": {
+      "date": "2025-09-30",
+      "subject": "宁波旭升集团股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "营业收入",
+        "period": "2025-Q3",
+        "value": 1129711744.61,
+        "unit": "元",
+        "value_normalized": 1129711744.61,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "营业收入",
+        "period": "2025-Q1至Q3",
+        "value": 3225691880.85,
+        "unit": "元",
+        "value_normalized": 3225691880.85,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "归属于上市公司股东的净利润",
+        "period": "2025-Q3",
+        "value": 99213180.27,
+        "unit": "元",
+        "value_normalized": 99213180.27,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "归属于上市公司股东的净利润",
+        "period": "2025-Q1至Q3",
+        "value": 299845217.1,
+        "unit": "元",
+        "value_normalized": 299845217.1,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596476.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596476.PDF",
+    "title": "旭升集团:宁波旭升集团股份有限公司关于使用部分闲置募集资金进行现金管理到期赎回的公告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:35.303861",
+    "analyzed_at": "2026-10-19T10:34:25.713864",
+    "basis": "fulltext",
+    "relevant": false,
+    "relevance_reason": "该公告仅为旭升集团使用闲置募集资金进行现金管理到期赎回的财务操作，属于泛财经信息，与压铸件生产、订单、产能或下游用量无直接关系。",
+    "category": "其他",
+    "summary_zh": "旭升集团公告部分闲置募集资金现金管理产品到期赎回，本金5000万元及收益25.27万元已归还募集资金专户。",
+    "bullets": [
+      "赎回宁波银行结构性存款本金5000万元，收益25.27万元",
+      "尚未到期理财金额9.5亿元，单日最高投入10亿元",
+      "前十二个月累计理财收益2116.87万元"
+    ],
+    "event": {
+      "date": "2026-10-08",
+      "subject": "宁波旭升集团股份有限公司",
+      "amount": 5000.0,
+      "amount_unit": "万元",
+      "amount_normalized": 50000000.0,
+      "amount_base_unit": "CNY"
+    },
+    "metrics": [
+      {
+        "name": "闲置募集资金理财赎回本金",
+        "period": "2026-10-08",
+        "value": 5000.0,
+        "unit": "万元",
+        "value_normalized": 50000000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "闲置募集资金理财赎回收益",
+        "period": "2026-10-08",
+        "value": 25.27,
+        "unit": "万元",
+        "value_normalized": 252700.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "闲置募集资金理财尚未到期金额",
+        "period": "2026-10-09",
+        "value": 95000.0,
+        "unit": "万元",
+        "value_normalized": 950000000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-09-23/1225577608.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-23/1225577608.PDF",
+    "title": "旭升集团:宁波旭升集团股份有限公司关于参加广州工业投资控股集团有限公司2026年集体投资者会议情况的公告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:36.809173",
+    "analyzed_at": "2026-10-19T10:34:27.289329",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "旭升集团是压铸行业企业，公告披露其储能压铸结构件营收、海外产能及机器人零部件布局，属于同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "旭升集团在投资者会议上披露，储能压铸结构件业务2025年营收近5.7亿元、2026年上半年2.9亿元，占比超10%；墨西哥基地产能爬坡，泰国基地基建完成，并布局机器人零部件。",
+    "bullets": [
+      "储能业务2025年营收近5.7亿元，2026年上半年2.9亿元，营收占比突破10%",
+      "墨西哥基地已进入产能爬坡，泰国基地厂房基建完成，投产筹备推进",
+      "依托铝镁合金与半固态注射成形技术，开发机器人执行器壳体、躯干结构件等产品"
+    ],
+    "event": {
+      "date": "2026-09-22",
+      "subject": "宁波旭升集团股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "旭升集团储能业务营收",
+        "period": "2025",
+        "value": 5.7,
+        "unit": "亿元",
+        "value_normalized": 570000000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "旭升集团储能业务营收",
+        "period": "2026-H1",
+        "value": 2.9,
+        "unit": "亿元",
+        "value_normalized": 290000000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-09-17/1225567180.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225567180.PDF",
+    "title": "旭升集团:宁波旭升集团股份有限公司关于参加广州工业投资控股集团有限公司2026年集体投资者会议的公告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:38.320961",
+    "analyzed_at": "2026-10-19T10:34:28.989955",
+    "basis": "fulltext",
+    "relevant": false,
+    "relevance_reason": "该公告仅为旭升集团参加控股股东集体投资者会议的会务安排通知，未涉及产能、订单、财报数据或压铸行业供需信息，属于与压铸件用量无直接关系的公司事务性公告。",
+    "category": "其他",
+    "summary_zh": "旭升集团公告将于2026年9月22日参加控股股东广州工控的集体投资者会议，就2026年半年度经营成果与投资者交流，属会务安排通知。",
+    "bullets": [
+      "会议时间2026年9月22日下午14:00-17:30，视频与网络文字互动结合",
+      "会议目的为解读2026年半年度报告经营成果与财务状况",
+      "参会人员包括董事长张靖、财务总监段辉泉、董秘罗亚华"
+    ],
+    "event": {
+      "date": "2026-09-22",
+      "subject": "宁波旭升集团股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": []
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-08-28/1225519248.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225519248.PDF",
+    "title": "爱柯迪:2026年半年度报告摘要",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:43.456097",
+    "analyzed_at": "2026-10-19T10:34:30.558798",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "爱柯迪为压铸行业头部企业，其半年度财报属于压铸同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "爱柯迪2026年上半年营收42.92亿元，同比增长24.42%；归母净利润4.77亿元，同比下降16.70%，呈现增收不增利。",
+    "bullets": [
+      "营业收入42.92亿元，同比增长24.42%",
+      "归母净利润4.77亿元，同比下降16.70%",
+      "经营活动现金流净额6.97亿元，同比下降37.37%"
+    ],
+    "event": {
+      "date": null,
+      "subject": "爱柯迪股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "爱柯迪营业收入",
+        "period": "2026-H1",
+        "value": 4291900023.41,
+        "unit": "元",
+        "value_normalized": 4291900023.41,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "爱柯迪营业收入同比",
+        "period": "2026-H1",
+        "value": 24.42,
+        "unit": "%",
+        "value_normalized": 24.42,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "爱柯迪归母净利润",
+        "period": "2026-H1",
+        "value": 477394088.37,
+        "unit": "元",
+        "value_normalized": 477394088.37,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "爱柯迪归母净利润同比",
+        "period": "2026-H1",
+        "value": -16.7,
+        "unit": "%",
+        "value_normalized": -16.7,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "爱柯迪总资产",
+        "period": "2026-H1",
+        "value": 17692053521.44,
+        "unit": "元",
+        "value_normalized": 17692053521.44,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-04-30/1225261161.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225261161.PDF",
+    "title": "爱柯迪:2025年年度报告摘要",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:44.963722",
+    "analyzed_at": "2026-10-19T10:34:32.066662",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "爱柯迪是压铸行业头部企业，其年报披露营收、净利润等经营数据，属于压铸同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "爱柯迪发布2025年年报，营业收入74.13亿元，同比增长9.89%；归母净利润11.71亿元，同比增长24.69%；总资产173.68亿元，增长21.68%。",
+    "bullets": [
+      "2025年营业收入74.13亿元，同比增长9.89%",
+      "归母净利润11.71亿元，同比增长24.69%",
+      "总资产173.68亿元，较上年末增长21.68%"
+    ],
+    "event": {
+      "date": "2025-12-31",
+      "subject": "爱柯迪股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "营业收入",
+        "period": "2025",
+        "value": 7413175929.8,
+        "unit": "元",
+        "value_normalized": 7413175929.8,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "归属于上市公司股东的净利润",
+        "period": "2025",
+        "value": 1171469577.5,
+        "unit": "元",
+        "value_normalized": 1171469577.5,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "总资产",
+        "period": "2025",
+        "value": 17368302651.29,
+        "unit": "元",
+        "value_normalized": 17368302651.29,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "营业收入同比",
+        "period": "2025",
+        "value": 9.89,
+        "unit": "%",
+        "value_normalized": 9.89,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "归母净利润同比",
+        "period": "2025",
+        "value": 24.69,
+        "unit": "%",
+        "value_normalized": 24.69,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-04-30/1225261083.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225261083.PDF",
+    "title": "爱柯迪:2026年第一季度报告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:46.470448",
+    "analyzed_at": "2026-10-19T10:34:33.619792",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "爱柯迪是压铸行业头部企业，其季度财报属于压铸同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "爱柯迪2026年一季度营收19.22亿元，同比增15.40%；净利润2.19亿元，同比降14.89%，主因原材料涨价及汇兑损失。",
+    "bullets": [
+      "一季度营业收入19.22亿元，同比增长15.40%",
+      "归母净利润2.19亿元，同比下降14.89%",
+      "利润下滑因原材料价格上涨、汇兑损失增加及新业务管理费用增加"
+    ],
+    "event": {
+      "date": "2026-03-31",
+      "subject": "爱柯迪股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "营业收入",
+        "period": "2026-Q1",
+        "value": 1922096730.63,
+        "unit": "元",
+        "value_normalized": 1922096730.63,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "营业收入同比",
+        "period": "2026-Q1",
+        "value": 15.4,
+        "unit": "%",
+        "value_normalized": 15.4,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "利润总额",
+        "period": "2026-Q1",
+        "value": 277372228.77,
+        "unit": "元",
+        "value_normalized": 277372228.77,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "利润总额同比",
+        "period": "2026-Q1",
+        "value": -9.61,
+        "unit": "%",
+        "value_normalized": -9.61,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "归母净利润",
+        "period": "2026-Q1",
+        "value": 218955336.56,
+        "unit": "元",
+        "value_normalized": 218955336.56,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "归母净利润同比",
+        "period": "2026-Q1",
+        "value": -14.89,
+        "unit": "%",
+        "value_normalized": -14.89,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "扣非净利润",
+        "period": "2026-Q1",
+        "value": 194072295.9,
+        "unit": "元",
+        "value_normalized": 194072295.9,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "扣非净利润同比",
+        "period": "2026-Q1",
+        "value": -17.78,
+        "unit": "%",
+        "value_normalized": -17.78,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2025-10-30/1224758093.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2025-10-30/1224758093.PDF",
+    "title": "爱柯迪:2025年第三季度报告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:47.981654",
+    "analyzed_at": "2026-10-19T10:34:35.587066",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "爱柯迪是压铸行业头部企业，其季度财报属于同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "爱柯迪2025年第三季度营收18.60亿元，同比增长7.86%；归母净利润3.22亿元，同比增长10.36%。前三季度营收53.10亿元，归母净利润8.95亿元。",
+    "bullets": [
+      "第三季度营业收入18.60亿元，同比增长7.86%",
+      "第三季度归母净利润3.22亿元，同比增长10.36%",
+      "前三季度营业收入53.10亿元，同比增长6.75%"
+    ],
+    "event": {
+      "date": "2025-09-30",
+      "subject": "爱柯迪股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "营业收入",
+        "period": "2025-Q3",
+        "value": 1860410929.62,
+        "unit": "元",
+        "value_normalized": 1860410929.62,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "营业收入",
+        "period": "2025-Q1-Q3",
+        "value": 5310060841.18,
+        "unit": "元",
+        "value_normalized": 5310060841.18,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "归属于上市公司股东的净利润",
+        "period": "2025-Q3",
+        "value": 322257805.34,
+        "unit": "元",
+        "value_normalized": 322257805.34,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "归属于上市公司股东的净利润",
+        "period": "2025-Q1-Q3",
+        "value": 895336668.25,
+        "unit": "元",
+        "value_normalized": 895336668.25,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "营业收入同比",
+        "period": "2025-Q3",
+        "value": 7.86,
+        "unit": "%",
+        "value_normalized": 7.86,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "营业收入同比",
+        "period": "2025-Q1-Q3",
+        "value": 6.75,
+        "unit": "%",
+        "value_normalized": 6.75,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "归母净利润同比",
+        "period": "2025-Q3",
+        "value": 10.36,
+        "unit": "%",
+        "value_normalized": 10.36,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "归母净利润同比",
+        "period": "2025-Q1-Q3",
+        "value": 20.7,
+        "unit": "%",
+        "value_normalized": 20.7,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584687.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584687.PDF",
+    "title": "爱柯迪:国金证券关于爱柯迪发行股份及支付现金购买资产并募集配套资金之部分限售股上市流通事项的核查意见",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:49.491487",
+    "analyzed_at": "2026-10-19T10:34:37.523105",
+    "basis": "fulltext",
+    "relevant": false,
+    "relevance_reason": "该公告仅涉及爱柯迪发行股份购买资产的限售股上市流通与锁定期安排，属于资本运作与股份解禁事项，不涉及压铸产能、订单、技术或下游用量数据。",
+    "category": "其他",
+    "summary_zh": "国金证券就爱柯迪发行股份购买资产并募集配套资金的部分限售股上市流通事项出具核查意见，说明股份登记与分期解锁安排。",
+    "bullets": [
+      "爱柯迪向卓尔博71%股权持有人非公开发行44,893,247股",
+      "配套募资不超过5.2亿元",
+      "限售股分三期解锁，与业绩补偿义务挂钩"
+    ],
+    "event": {
+      "date": "2025-10-10",
+      "subject": "爱柯迪股份有限公司",
+      "amount": 52000.0,
+      "amount_unit": "万元",
+      "amount_normalized": 520000000.0,
+      "amount_base_unit": "CNY"
+    },
+    "metrics": [
+      {
+        "name": "新增股份数",
+        "period": "2025-10-10",
+        "value": 44893247.0,
+        "unit": "股",
+        "value_normalized": 44893247.0,
+        "base_unit": "股",
+        "unit_recognized": false
+      },
+      {
+        "name": "配套募集资金上限",
+        "period": "2025",
+        "value": 52000.0,
+        "unit": "万元",
+        "value_normalized": 520000000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584669.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584669.PDF",
+    "title": "爱柯迪:关于发行股份及支付现金购买资产并募集配套资金之部分限售股上市流通的公告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:51.000535",
+    "analyzed_at": "2026-10-19T10:34:39.156303",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "爱柯迪为压铸行业头部企业，其发行股份购买资产及限售股解禁属于同行企业资本运作动态。",
+    "category": "同行企业动态",
+    "summary_zh": "爱柯迪发行股份及支付现金收购卓尔博71%股权，向交易对方非公开发行44,893,247股，其中13,467,974股限售股将于2026年10月12日上市流通。",
+    "bullets": [
+      "爱柯迪以发行股份及支付现金方式收购卓尔博71%股权",
+      "向王成勇、王卓星、周益平合计发行44,893,247股，募集配套资金不超过5.2亿元",
+      "本次解禁限售股13,467,974股，上市流通日为2026年10月12日"
+    ],
+    "event": {
+      "date": "2026-10-12",
+      "subject": "爱柯迪股份有限公司",
+      "amount": 13467974.0,
+      "amount_unit": "股",
+      "amount_normalized": 13467974.0,
+      "amount_base_unit": "股"
+    },
+    "metrics": [
+      {
+        "name": "爱柯迪解禁限售股数量",
+        "period": "2026-10-12",
+        "value": 13467974.0,
+        "unit": "股",
+        "value_normalized": 13467974.0,
+        "base_unit": "股",
+        "unit_recognized": false
+      },
+      {
+        "name": "爱柯迪发行股份购买资产新增股份",
+        "period": "2025-10-10",
+        "value": 44893247.0,
+        "unit": "股",
+        "value_normalized": 44893247.0,
+        "base_unit": "股",
+        "unit_recognized": false
+      },
+      {
+        "name": "爱柯迪募集配套资金上限",
+        "period": "2025",
+        "value": 52000.0,
+        "unit": "万元",
+        "value_normalized": 520000000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579914.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579914.PDF",
+    "title": "爱柯迪:关于部分募集资金专户销户及转为一般账户的公告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:52.512647",
+    "analyzed_at": "2026-10-19T10:34:40.978358",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "爱柯迪为压铸同行企业，公告披露募集资金变更投向年产450万件镁合金精密压铸件项目，属同行企业动态与镁合金压铸产能信息",
+    "category": "同行企业动态",
+    "summary_zh": "爱柯迪将原智能制造科技产业园项目部分募集资金变更投向年产450万件镁合金精密压铸件项目，并完成部分募集资金专户销户及转一般账户手续。",
+    "bullets": [
+      "爱柯迪变更部分可转债募集资金投向，用于年产450万件镁合金精密压铸件项目",
+      "原募投项目为爱柯迪智能制造科技产业园项目",
+      "公司已完成部分募集资金专户销户，部分转为一般账户"
+    ],
+    "event": {
+      "date": "2026-04-08",
+      "subject": "爱柯迪股份有限公司",
+      "amount": 450.0,
+      "amount_unit": "万件",
+      "amount_normalized": 450.0,
+      "amount_base_unit": "万件"
+    },
+    "metrics": [
+      {
+        "name": "可转债募集资金总额",
+        "period": "2022",
+        "value": 1570000000.0,
+        "unit": "元",
+        "value_normalized": 1570000000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "可转债募集资金净额",
+        "period": "2022",
+        "value": 1552792924.53,
+        "unit": "元",
+        "value_normalized": 1552792924.53,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "镁合金精密压铸件项目年产能",
+        "period": "",
+        "value": 450.0,
+        "unit": "万件",
+        "value_normalized": 450.0,
+        "base_unit": "万件",
+        "unit_recognized": false
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-08-25/1225499665.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225499665.PDF",
+    "title": "广东鸿图:2026年半年度报告摘要",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:57.710324",
+    "analyzed_at": "2026-10-19T10:34:42.672475",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "广东鸿图是压铸行业头部企业，其半年报披露营收利润、原材料价格与汽车产销数据，属同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "广东鸿图2026上半年营收41.86亿元同比降1.97%，净利3983.7万元同比降65.09%，受铝价上涨、毛利率下降及扩产爬坡成本拖累；公司推进镁合金产能筹建与海外基地建设。",
+    "bullets": [
+      "上半年营收41.86亿元，同比降1.97%；归母净利3983.70万元，同比降65.09%",
+      "2026H1电解铝均价24139.14元/吨，同比涨18.84%；ADC12均价24082元/吨，涨15.8%",
+      "上半年新产品承接生命周期产值约63亿元，新开拓客户7家；金利二期投产，泰国基地推进"
+    ],
+    "event": {
+      "date": "2026-08-25",
+      "subject": "广东鸿图科技股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "广东鸿图营业收入",
+        "period": "2026-H1",
+        "value": 4186177644.33,
+        "unit": "元",
+        "value_normalized": 4186177644.33,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "广东鸿图归母净利润",
+        "period": "2026-H1",
+        "value": 39836955.81,
+        "unit": "元",
+        "value_normalized": 39836955.81,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国汽车产量",
+        "period": "2026-H1",
+        "value": 1499.3,
+        "unit": "万辆",
+        "value_normalized": 14993000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国汽车销量",
+        "period": "2026-H1",
+        "value": 1501.7,
+        "unit": "万辆",
+        "value_normalized": 15017000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国乘用车产量",
+        "period": "2026-H1",
+        "value": 1272.1,
+        "unit": "万辆",
+        "value_normalized": 12721000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国乘用车销量",
+        "period": "2026-H1",
+        "value": 1272.0,
+        "unit": "万辆",
+        "value_normalized": 12720000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国新能源汽车产量",
+        "period": "2026-H1",
+        "value": 743.8,
+        "unit": "万辆",
+        "value_normalized": 7438000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国新能源汽车销量",
+        "period": "2026-H1",
+        "value": 744.6,
+        "unit": "万辆",
+        "value_normalized": 7446000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国汽车出口量",
+        "period": "2026-H1",
+        "value": 103.7,
+        "unit": "万辆",
+        "value_normalized": 1037000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "电解铝均价",
+        "period": "2026-H1",
+        "value": 24139.14,
+        "unit": "元/吨",
+        "value_normalized": 24139.14,
+        "base_unit": "元/吨",
+        "unit_recognized": false
+      },
+      {
+        "name": "SMM ADC12均价",
+        "period": "2026-H1",
+        "value": 24082.0,
+        "unit": "元/吨",
+        "value_normalized": 24082.0,
+        "base_unit": "元/吨",
+        "unit_recognized": false
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-04-28/1225218147.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-28/1225218147.PDF",
+    "title": "广东鸿图:2026年一季度报告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:34:59.218810",
+    "analyzed_at": "2026-10-19T10:34:45.011428",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "广东鸿图是压铸行业头部企业，其季度财报属于压铸同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "广东鸿图2026年一季度营收19.60亿元，同比降6.61%；归母净利润亏损704万元，同比降115.60%，主因汽车行业产销下行、原材料涨价及新项目产能爬坡成本高。",
+    "bullets": [
+      "一季度营业收入19.60亿元，同比下降6.61%",
+      "归母净利润亏损704.02万元，同比下降115.60%",
+      "业绩下滑受汽车产销量下行、原材料价格上涨、汇率波动及新建项目产能爬坡成本费用增加影响"
+    ],
+    "event": {
+      "date": "2026-03-31",
+      "subject": "广东鸿图科技股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "广东鸿图营业收入",
+        "period": "2026-Q1",
+        "value": 1960203675.63,
+        "unit": "元",
+        "value_normalized": 1960203675.63,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "广东鸿图归母净利润",
+        "period": "2026-Q1",
+        "value": -7040198.51,
+        "unit": "元",
+        "value_normalized": -7040198.51,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "广东鸿图营业收入同比",
+        "period": "2026-Q1",
+        "value": -6.61,
+        "unit": "%",
+        "value_normalized": -6.61,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "广东鸿图归母净利润同比",
+        "period": "2026-Q1",
+        "value": -115.6,
+        "unit": "%",
+        "value_normalized": -115.6,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-04-28/1225218137.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-28/1225218137.PDF",
+    "title": "广东鸿图:2025年年度报告摘要",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:35:00.726618",
+    "analyzed_at": "2026-10-19T10:34:46.996970",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "广东鸿图是压铸行业头部企业，年报披露营收、一体化压铸业务、镁合金进展等，直接属于压铸同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "广东鸿图2025年营收91.98亿元增14.22%，净利3.62亿元降12.74%；一体化铸件营收超5亿元增超200%，镁合金获2家客户定点，广州鸿图营收6.39亿元增173%。",
+    "bullets": [
+      "2025年营业收入91.98亿元，同比增长14.22%；归母净利润3.62亿元，同比下降12.74%",
+      "一体化铸件全年营收超5亿元，同比增长超200%；广州鸿图营收6.39亿元，同比增长173%，7款大型一体化产品量产",
+      "镁合金全链条打通，获2家新能源汽车客户试制定点订单；完成力森诺科并购，启动泰国基地建设"
+    ],
+    "event": {
+      "date": "2026-04-28",
+      "subject": "广东鸿图科技股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "广东鸿图营业收入",
+        "period": "2025",
+        "value": 9198482498.8,
+        "unit": "元",
+        "value_normalized": 9198482498.8,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "广东鸿图归母净利润",
+        "period": "2025",
+        "value": 362279734.0,
+        "unit": "元",
+        "value_normalized": 362279734.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "广东鸿图营业收入同比",
+        "period": "2025",
+        "value": 14.22,
+        "unit": "%",
+        "value_normalized": 14.22,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "广东鸿图归母净利润同比",
+        "period": "2025",
+        "value": -12.74,
+        "unit": "%",
+        "value_normalized": -12.74,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "广东鸿图一体化铸件营收",
+        "period": "2025",
+        "value": 500000000.0,
+        "unit": "元",
+        "value_normalized": 500000000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "广东鸿图一体化铸件营收同比",
+        "period": "2025",
+        "value": 200.0,
+        "unit": "%",
+        "value_normalized": 200.0,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "广州鸿图营业收入",
+        "period": "2025",
+        "value": 639000000.0,
+        "unit": "元",
+        "value_normalized": 639000000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "广州鸿图营业收入同比",
+        "period": "2025",
+        "value": 173.0,
+        "unit": "%",
+        "value_normalized": 173.0,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "天津鸿图营业收入",
+        "period": "2025",
+        "value": 292000000.0,
+        "unit": "元",
+        "value_normalized": 292000000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2025-10-30/1224766876.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2025-10-30/1224766876.PDF",
+    "title": "广东鸿图:2025年三季度报告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:35:02.228420",
+    "analyzed_at": "2026-10-19T10:34:49.657515",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "广东鸿图是压铸行业头部企业，其季度财报属于同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "广东鸿图2025年三季度营收23.83亿元同比增21.5%，归母净利润0.96亿元增2.03%；前三季度营收66.53亿元增18.71%，归母净利润2.10亿元降21.38%，主因客户年降、毛利下降及原材料涨价。",
+    "bullets": [
+      "第三季度营业收入23.83亿元，同比增长21.50%",
+      "前三季度归母净利润2.10亿元，同比下降21.38%",
+      "业绩下降因客户年降、订单毛利下降及原材料价格上涨"
+    ],
+    "event": {
+      "date": "2025-10-30",
+      "subject": "广东鸿图科技股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "广东鸿图营业收入",
+        "period": "2025-Q3",
+        "value": 2382508388.51,
+        "unit": "元",
+        "value_normalized": 2382508388.51,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "广东鸿图营业收入同比",
+        "period": "2025-Q3",
+        "value": 21.5,
+        "unit": "%",
+        "value_normalized": 21.5,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "广东鸿图归母净利润",
+        "period": "2025-Q3",
+        "value": 95843111.02,
+        "unit": "元",
+        "value_normalized": 95843111.02,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "广东鸿图归母净利润同比",
+        "period": "2025-Q3",
+        "value": 2.03,
+        "unit": "%",
+        "value_normalized": 2.03,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "广东鸿图营业收入",
+        "period": "2025-01至2025-09",
+        "value": 6652777816.96,
+        "unit": "元",
+        "value_normalized": 6652777816.96,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "广东鸿图营业收入同比",
+        "period": "2025-01至2025-09",
+        "value": 18.71,
+        "unit": "%",
+        "value_normalized": 18.71,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "广东鸿图归母净利润",
+        "period": "2025-01至2025-09",
+        "value": 209952447.67,
+        "unit": "元",
+        "value_normalized": 209952447.67,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "广东鸿图归母净利润同比",
+        "period": "2025-01至2025-09",
+        "value": -21.38,
+        "unit": "%",
+        "value_normalized": -21.38,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-10-10/1225600110.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225600110.PDF",
+    "title": "广东鸿图:关于拟租赁镁合金项目厂房暨关联交易的公告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:35:03.739217",
+    "analyzed_at": "2026-10-19T10:34:52.017294",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "广东鸿图投资镁合金压铸业务并租赁厂房，属于压铸同行企业动态及镁合金原材料产业链。",
+    "category": "同行企业动态",
+    "summary_zh": "广东鸿图拟设全资子公司开展镁合金压铸业务，并租赁关联方厂房作为生产经营场所，租赁面积约1.61万平方米，12年租金总额预计不超3800万元。",
+    "bullets": [
+      "公司计划在肇庆高要区新设全资子公司广东鸿镁新材料技术有限公司，开展镁合金压铸业务。",
+      "拟租赁高要建投厂房，面积约16130.25㎡，租赁期限12年，租金总额预计不超过3800万元。",
+      "首年租金基础单价约15.80元/㎡/月，每五年递增3%，保证金100万元。"
+    ],
+    "event": {
+      "date": null,
+      "subject": "广东鸿图科技股份有限公司",
+      "amount": 3800.0,
+      "amount_unit": "万元",
+      "amount_normalized": 38000000.0,
+      "amount_base_unit": "CNY"
+    },
+    "metrics": [
+      {
+        "name": "租赁厂房面积",
+        "period": "",
+        "value": 16130.25,
+        "unit": "㎡",
+        "value_normalized": 16130.25,
+        "base_unit": "㎡",
+        "unit_recognized": false
+      },
+      {
+        "name": "租赁期限",
+        "period": "",
+        "value": 12.0,
+        "unit": "年",
+        "value_normalized": 12.0,
+        "base_unit": "年",
+        "unit_recognized": false
+      },
+      {
+        "name": "租赁期内租金总额",
+        "period": "",
+        "value": 3800.0,
+        "unit": "万元",
+        "value_normalized": 38000000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "首年租金基础单价",
+        "period": "",
+        "value": 15.8,
+        "unit": "元/㎡/月",
+        "value_normalized": 15.8,
+        "base_unit": "元/㎡/月",
+        "unit_recognized": false
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526798.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526798.PDF",
+    "title": "星源卓镁:2026年半年度报告摘要",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:35:08.813593",
+    "analyzed_at": "2026-10-19T10:34:54.043724",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "星源卓镁为镁合金压铸企业，其半年度财报属于压铸同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "星源卓镁2026年上半年营收2.49亿元，同比增长35.71%，但归母净利润亏损6970.8万元，同比由盈转亏，主要受成本及减值等因素影响。",
+    "bullets": [
+      "营业收入2.49亿元，同比增长35.71%",
+      "归母净利润-6970.8万元，同比下降322.41%",
+      "经营活动现金流净额-3404.8万元，同比下降168.48%"
+    ],
+    "event": {
+      "date": null,
+      "subject": "宁波星源卓镁技术股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "星源卓镁营业收入",
+        "period": "2026-H1",
+        "value": 249132061.14,
+        "unit": "元",
+        "value_normalized": 249132061.14,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "星源卓镁营业收入同比",
+        "period": "2026-H1",
+        "value": 35.71,
+        "unit": "%",
+        "value_normalized": 35.71,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "星源卓镁归母净利润",
+        "period": "2026-H1",
+        "value": -69707998.79,
+        "unit": "元",
+        "value_normalized": -69707998.79,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "星源卓镁归母净利润同比",
+        "period": "2026-H1",
+        "value": -322.41,
+        "unit": "%",
+        "value_normalized": -322.41,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "星源卓镁经营活动现金流净额",
+        "period": "2026-H1",
+        "value": -34048459.81,
+        "unit": "元",
+        "value_normalized": -34048459.81,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "星源卓镁总资产",
+        "period": "2026-H1",
+        "value": 2050422905.48,
+        "unit": "元",
+        "value_normalized": 2050422905.48,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-04-29/1225234744.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225234744.PDF",
+    "title": "星源卓镁:2026年一季度报告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:35:10.322697",
+    "analyzed_at": "2026-10-19T10:34:55.895991",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "星源卓镁为镁合金压铸企业，其财报属于压铸同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "星源卓镁2026年一季度营收1.12亿元同比增27.21%，但净利润亏损1565万元同比降192.40%，主要受成本上升及存货跌价影响。",
+    "bullets": [
+      "营业收入1.12亿元，同比增长27.21%",
+      "归母净利润亏损1565.19万元，同比下降192.40%",
+      "营业成本同比增71.55%，资产减值损失增546.72%"
+    ],
+    "event": {
+      "date": "2026-03-31",
+      "subject": "宁波星源卓镁技术股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "营业收入",
+        "period": "2026-Q1",
+        "value": 112373884.4,
+        "unit": "元",
+        "value_normalized": 112373884.4,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "归母净利润",
+        "period": "2026-Q1",
+        "value": -15651940.63,
+        "unit": "元",
+        "value_normalized": -15651940.63,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "营业收入同比",
+        "period": "2026-Q1",
+        "value": 27.21,
+        "unit": "%",
+        "value_normalized": 27.21,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "归母净利润同比",
+        "period": "2026-Q1",
+        "value": -192.4,
+        "unit": "%",
+        "value_normalized": -192.4,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-04-29/1225234731.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225234731.PDF",
+    "title": "星源卓镁:2025年年度报告摘要",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:35:11.826837",
+    "analyzed_at": "2026-10-19T10:34:57.334788",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "星源卓镁是压铸企业，其年度报告摘要属于同行企业动态，涉及镁铝合金压铸业务。",
+    "category": "同行企业动态",
+    "summary_zh": "星源卓镁2025年营收4.29亿元，同比增4.95%；净利润4600.88万元，同比降42.73%。总资产18.66亿元，同比增49.09%。",
+    "bullets": [
+      "2025年营业收入4.29亿元，同比增长4.95%",
+      "归母净利润4600.88万元，同比下降42.73%",
+      "总资产18.66亿元，较上年末增长49.09%"
+    ],
+    "event": {
+      "date": "2025-12-31",
+      "subject": "宁波星源卓镁技术股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "营业收入",
+        "period": "2025",
+        "value": 428846672.45,
+        "unit": "元",
+        "value_normalized": 428846672.45,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "营业收入",
+        "period": "2024",
+        "value": 408604368.05,
+        "unit": "元",
+        "value_normalized": 408604368.05,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "营业收入同比",
+        "period": "2025",
+        "value": 4.95,
+        "unit": "%",
+        "value_normalized": 4.95,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "归属于上市公司股东的净利润",
+        "period": "2025",
+        "value": 46008800.79,
+        "unit": "元",
+        "value_normalized": 46008800.79,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "归属于上市公司股东的净利润",
+        "period": "2024",
+        "value": 80331081.08,
+        "unit": "元",
+        "value_normalized": 80331081.08,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "归属于上市公司股东的净利润同比",
+        "period": "2025",
+        "value": -42.73,
+        "unit": "%",
+        "value_normalized": -42.73,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "总资产",
+        "period": "2025",
+        "value": 1866327493.94,
+        "unit": "元",
+        "value_normalized": 1866327493.94,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "总资产",
+        "period": "2024",
+        "value": 1251776093.05,
+        "unit": "元",
+        "value_normalized": 1251776093.05,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "总资产同比",
+        "period": "2025",
+        "value": 49.09,
+        "unit": "%",
+        "value_normalized": 49.09,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2025-10-24/1224727895.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2025-10-24/1224727895.PDF",
+    "title": "星源卓镁:2025年三季度报告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:35:13.330508",
+    "analyzed_at": "2026-10-19T10:34:59.443065",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "星源卓镁是压铸企业，其财报属于压铸同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "星源卓镁2025年三季度营收1.09亿元，同比增3.93%；净利润1373万元，同比降28.18%。在建工程增160%因奉化子公司厂房设备投入。",
+    "bullets": [
+      "第三季度营业收入1.09亿元，同比增长3.93%",
+      "第三季度归母净利润1373万元，同比下降28.18%",
+      "在建工程较期初增160.15%，主要系奉化子公司厂房、设备投入"
+    ],
+    "event": {
+      "date": "2025-09-30",
+      "subject": "宁波星源卓镁技术股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "星源卓镁营业收入",
+        "period": "2025-Q3",
+        "value": 108693420.04,
+        "unit": "元",
+        "value_normalized": 108693420.04,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "星源卓镁营业收入",
+        "period": "2025-01至2025-09",
+        "value": 292264515.38,
+        "unit": "元",
+        "value_normalized": 292264515.38,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "星源卓镁归母净利润",
+        "period": "2025-Q3",
+        "value": 13732330.18,
+        "unit": "元",
+        "value_normalized": 13732330.18,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "星源卓镁归母净利润",
+        "period": "2025-01至2025-09",
+        "value": 45074284.96,
+        "unit": "元",
+        "value_normalized": 45074284.96,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-10-13/1225601241.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225601241.PDF",
+    "title": "星源卓镁:关于董事会提议向下修正卓镁转债转股价格的公告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:35:14.845940",
+    "analyzed_at": "2026-10-19T10:35:01.184418",
+    "basis": "fulltext",
+    "relevant": false,
+    "relevance_reason": "该公告仅涉及可转债转股价格向下修正的资本运作事项，与压铸件用量、原材料、工艺装备及同行经营动态无直接关系。",
+    "category": "其他",
+    "summary_zh": "星源卓镁因股价连续低于转股价85%触发条款，董事会提议向下修正卓镁转债转股价格，尚待股东会审议。",
+    "bullets": [
+      "触发条件：连续30个交易日中15个交易日收盘价低于转股价52.15元/股的85%",
+      "董事会于2026年10月12日审议通过向下修正转股价格的议案",
+      "卓镁转债发行总额4.5亿元，450万张，2025年11月24日上市"
+    ],
+    "event": {
+      "date": "2026-10-12",
+      "subject": "宁波星源卓镁技术股份有限公司",
+      "amount": 45000.0,
+      "amount_unit": "万元",
+      "amount_normalized": 450000000.0,
+      "amount_base_unit": "CNY"
+    },
+    "metrics": [
+      {
+        "name": "卓镁转债发行总额",
+        "period": "2025",
+        "value": 45000.0,
+        "unit": "万元",
+        "value_normalized": 450000000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "卓镁转债转股价格",
+        "period": "2026-10-12",
+        "value": 52.15,
+        "unit": "元/股",
+        "value_normalized": 52.15,
+        "base_unit": "元/股",
+        "unit_recognized": false
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586833.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586833.PDF",
+    "title": "星源卓镁:关于全资子公司竞得土地使用权暨对外投资进展的公告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:35:16.357290",
+    "analyzed_at": "2026-10-19T10:35:02.846042",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "星源卓镁为压铸企业，其子公司竞得土地建设轻量化精密结构件智能制造项目，属于压铸同行扩产动态。",
+    "category": "同行企业动态",
+    "summary_zh": "星源卓镁全资子公司星源奉化以2992万元竞得奉化经济开发区33236平方米土地使用权，用于建设总投资2.8亿元的轻量化精密结构件智能制造项目。",
+    "bullets": [
+      "星源奉化竞得编号2026-021地块，出让面积33236平方米，成交价2992万元",
+      "项目为轻量化精密结构件智能制造项目，总投资2.8亿元",
+      "资金来源为自有或自筹，尚需签署出让合同，存在实施不确定性"
+    ],
+    "event": {
+      "date": null,
+      "subject": "星源卓镁（宁波奉化）技术有限公司",
+      "amount": 2992.0,
+      "amount_unit": "万元",
+      "amount_normalized": 29920000.0,
+      "amount_base_unit": "CNY"
+    },
+    "metrics": [
+      {
+        "name": "土地出让面积",
+        "period": "",
+        "value": 33236.0,
+        "unit": "平方米",
+        "value_normalized": 33236.0,
+        "base_unit": "平方米",
+        "unit_recognized": false
+      },
+      {
+        "name": "土地成交价",
+        "period": "",
+        "value": 2992.0,
+        "unit": "万元",
+        "value_normalized": 29920000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "项目总投资额",
+        "period": "",
+        "value": 2.8,
+        "unit": "亿元",
+        "value_normalized": 280000000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-09-28/1225584048.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-28/1225584048.PDF",
+    "title": "星源卓镁:关于卓镁转债预计触发转股价格向下修正条件的提示性公告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T11:35:17.860128",
+    "analyzed_at": "2026-10-19T10:35:04.370578",
+    "basis": "fulltext",
+    "relevant": false,
+    "relevance_reason": "该公告仅涉及可转债转股价格向下修正的条款触发提示，属于资本市场融资工具的技术性公告，与压铸件用量、原材料、工艺装备或下游需求无直接关系。",
+    "category": "其他",
+    "summary_zh": "星源卓镁公告卓镁转债预计触发转股价格向下修正条件，因股价连续低于转股价85%，属可转债技术性条款提示。",
+    "bullets": [
+      "卓镁转债转股价52.15元/股，连续十个交易日收盘价低于其85%",
+      "触发条件为连续三十个交易日中至少十五个交易日低于85%",
+      "转债发行总额4.5亿元，2025年11月24日上市"
+    ],
+    "event": {
+      "date": "2026-09-28",
+      "subject": "宁波星源卓镁技术股份有限公司",
+      "amount": 45000.0,
+      "amount_unit": "万元",
+      "amount_normalized": 450000000.0,
+      "amount_base_unit": "CNY"
+    },
+    "metrics": [
+      {
+        "name": "卓镁转债转股价格",
+        "period": "2026-06-30",
+        "value": 52.15,
+        "unit": "元/股",
+        "value_normalized": 52.15,
+        "base_unit": "元/股",
+        "unit_recognized": false
+      },
+      {
+        "name": "卓镁转债发行总额",
+        "period": "2025",
+        "value": 45000.0,
+        "unit": "万元",
+        "value_normalized": 450000000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-09-22/1225576201.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225576201.PDF",
+    "title": "星源卓镁:关于签署项目建设协议暨对外投资进展的公告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T13:50:03.243091",
+    "analyzed_at": "2026-10-19T10:35:05.808096",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "星源卓镁为压铸企业，此次投资建设轻量化精密结构件智能制造项目，属于压铸同行企业扩产动态。",
+    "category": "同行企业动态",
+    "summary_zh": "星源卓镁与奉化经济开发区管委会签署建设投资协议，投资2.8亿元建设轻量化精密结构件智能制造项目，用地约49.85亩。",
+    "bullets": [
+      "投资主体为全资子公司星源卓镁（宁波奉化）技术有限公司",
+      "项目投资总额2.8亿元，位于奉化经济开发区尚桥园区15-2号地块",
+      "用地面积约49.85亩，一类工业用地，使用年限50年"
+    ],
+    "event": {
+      "date": "2026-09-21",
+      "subject": "宁波星源卓镁技术股份有限公司",
+      "amount": 2.8,
+      "amount_unit": "亿元",
+      "amount_normalized": 280000000.0,
+      "amount_base_unit": "CNY"
+    },
+    "metrics": [
+      {
+        "name": "项目投资总额",
+        "period": "2026-09-21",
+        "value": 2.8,
+        "unit": "亿元",
+        "value_normalized": 280000000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "项目用地面积",
+        "period": "2026-09-21",
+        "value": 49.85,
+        "unit": "亩",
+        "value_normalized": 49.85,
+        "base_unit": "亩",
+        "unit_recognized": false
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-09-16/1225567319.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225567319.PDF",
+    "title": "星源卓镁:关于全资子公司投资建设新项目的公告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T13:50:05.018862",
+    "analyzed_at": "2026-10-19T10:35:07.178694",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "星源卓镁是镁合金压铸企业，其全资子公司投资建设轻量化精密结构件智能制造项目，属于压铸同行企业扩产动态。",
+    "category": "同行企业动态",
+    "summary_zh": "星源卓镁拟以全资子公司星源奉化为实施主体，在奉化经济开发区投资不超过2.8亿元建设轻量化精密结构件智能制造项目，其中固定资产投资不超过2.68亿元。",
+    "bullets": [
+      "实施主体为全资子公司星源卓镁（宁波奉化）技术有限公司",
+      "项目总投资不超过2.8亿元，其中固定资产投资不超过2.68亿元",
+      "建设周期为自土地出让合同签订之日起27个月内完成竣工验收备案"
+    ],
+    "event": {
+      "date": "2026-09-15",
+      "subject": "宁波星源卓镁技术股份有限公司",
+      "amount": 28000.0,
+      "amount_unit": "万元",
+      "amount_normalized": 280000000.0,
+      "amount_base_unit": "CNY"
+    },
+    "metrics": [
+      {
+        "name": "项目总投资",
+        "period": "2026-09-15",
+        "value": 28000.0,
+        "unit": "万元",
+        "value_normalized": 280000000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "项目固定资产投资",
+        "period": "2026-09-15",
+        "value": 26800.0,
+        "unit": "万元",
+        "value_normalized": 268000000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "土地购置费用",
+        "period": "2026-09-15",
+        "value": 2992.0,
+        "unit": "万元",
+        "value_normalized": 29920000.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "项目用地面积",
+        "period": "2026-09-15",
+        "value": 49.85,
+        "unit": "亩",
+        "value_normalized": 49.85,
+        "base_unit": "亩",
+        "unit_recognized": false
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-08-26/1225502164.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225502164.PDF",
+    "title": "宜安科技:2026年半年度报告摘要",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T13:50:10.323856",
+    "analyzed_at": "2026-10-19T10:35:09.239451",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "宜安科技为压铸（镁铝合金）同行企业，其半年度财报属于同行企业动态",
+    "category": "同行企业动态",
+    "summary_zh": "宜安科技2026年上半年营收7.99亿元同比增10.70%，但归母净利润亏损5293万元，同比降183.30%，扣非净利润亏损5906万元。",
+    "bullets": [
+      "营业收入7.99亿元，同比增长10.70%",
+      "归母净利润-5293.25万元，同比下降183.30%",
+      "扣非净利润-5906.48万元，同比下降106.15%"
+    ],
+    "event": {
+      "date": null,
+      "subject": "东莞宜安科技股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "宜安科技营业收入",
+        "period": "2026-H1",
+        "value": 798979057.6,
+        "unit": "元",
+        "value_normalized": 798979057.6,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "宜安科技营业收入同比",
+        "period": "2026-H1",
+        "value": 10.7,
+        "unit": "%",
+        "value_normalized": 10.7,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "宜安科技归母净利润",
+        "period": "2026-H1",
+        "value": -52932533.27,
+        "unit": "元",
+        "value_normalized": -52932533.27,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "宜安科技归母净利润同比",
+        "period": "2026-H1",
+        "value": -183.3,
+        "unit": "%",
+        "value_normalized": -183.3,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "宜安科技扣非净利润",
+        "period": "2026-H1",
+        "value": -59064755.59,
+        "unit": "元",
+        "value_normalized": -59064755.59,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "宜安科技扣非净利润同比",
+        "period": "2026-H1",
+        "value": -106.15,
+        "unit": "%",
+        "value_normalized": -106.15,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-04-23/1225149988.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-23/1225149988.PDF",
+    "title": "宜安科技:2026年一季度报告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T13:50:12.355025",
+    "analyzed_at": "2026-10-19T10:35:11.011725",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "宜安科技为压铸（镁铝合金）企业，其季报属同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "宜安科技2026年一季度营收3.55亿元同比增9.29%，归母净利润亏损1917.8万元，同比扩大214.34%，主因汇兑损失及存货跌价计提增加。",
+    "bullets": [
+      "一季度营业收入3.55亿元，同比增长9.29%",
+      "归母净利润-1917.81万元，同比下降214.34%",
+      "财务费用同比增257.67%，因人民币升值汇兑损失增加"
+    ],
+    "event": {
+      "date": "2026-03-31",
+      "subject": "东莞宜安科技股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "宜安科技营业收入",
+        "period": "2026-Q1",
+        "value": 355088578.78,
+        "unit": "元",
+        "value_normalized": 355088578.78,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "宜安科技营业收入同比",
+        "period": "2026-Q1",
+        "value": 9.29,
+        "unit": "%",
+        "value_normalized": 9.29,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "宜安科技归母净利润",
+        "period": "2026-Q1",
+        "value": -19178060.55,
+        "unit": "元",
+        "value_normalized": -19178060.55,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "宜安科技归母净利润同比",
+        "period": "2026-Q1",
+        "value": -214.34,
+        "unit": "%",
+        "value_normalized": -214.34,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2026-04-23/1225149978.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-23/1225149978.PDF",
+    "title": "宜安科技:2025年年度报告摘要",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T13:50:14.512593",
+    "analyzed_at": "2026-10-19T10:35:12.793466",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "宜安科技为压铸同行企业，年报摘要披露其镁铝合金压铸业务、一体化压铸布局及下游汽车销量数据，直接相关。",
+    "category": "同行企业动态",
+    "summary_zh": "宜安科技2025年年报摘要显示，公司主营镁铝合金压铸及非晶合金，布局一体化压铸，配备6100T等大型压铸设备，产品覆盖新能源汽车零部件与消费电子结构件。",
+    "bullets": [
+      "公司具备镁铝合金精密压铸全产业链，配备6100T、4200T等大型真空压铸设备",
+      "一体化压铸需求加速增长，镁铝合金压铸单车价值量持续攀升",
+      "非晶合金铰链已批量应用于折叠屏手机，并向特斯拉供应车门锁盖"
+    ],
+    "event": {
+      "date": null,
+      "subject": "宜安科技",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "中国汽车产量",
+        "period": "2025",
+        "value": 3453.1,
+        "unit": "万辆",
+        "value_normalized": 34531000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国汽车销量",
+        "period": "2025",
+        "value": 3440.0,
+        "unit": "万辆",
+        "value_normalized": 34400000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国汽车产量同比",
+        "period": "2025",
+        "value": 10.4,
+        "unit": "%",
+        "value_normalized": 10.4,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "中国汽车销量同比",
+        "period": "2025",
+        "value": 9.4,
+        "unit": "%",
+        "value_normalized": 9.4,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://static.cninfo.com.cn/finalpage/2025-10-24/1224728024.PDF": {
+    "url": "https://static.cninfo.com.cn/finalpage/2025-10-24/1224728024.PDF",
+    "title": "宜安科技:2025年三季度报告",
+    "media": "巨潮资讯网",
+    "status": "ok",
+    "image_url": "",
+    "first_seen": "2026-10-15T13:50:16.685270",
+    "analyzed_at": "2026-10-19T10:35:14.645010",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "宜安科技为压铸行业企业，其财报属于同行企业动态。",
+    "category": "同行企业动态",
+    "summary_zh": "宜安科技2025年三季报显示，第三季度营收4.42亿元同比增8.11%，净利润1902.7万元同比增10957%；年初至报告期末营收11.64亿元同比降1.75%，净利润34.3万元同比降86.02%。",
+    "bullets": [
+      "第三季度营业收入4.42亿元，同比增长8.11%",
+      "第三季度归母净利润1902.7万元，同比增长10957.08%",
+      "年初至报告期末营业收入11.64亿元，同比下降1.75%"
+    ],
+    "event": {
+      "date": "2025-09-30",
+      "subject": "东莞宜安科技股份有限公司",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "营业收入",
+        "period": "2025-Q3",
+        "value": 442150601.26,
+        "unit": "元",
+        "value_normalized": 442150601.26,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "营业收入",
+        "period": "2025-Q1-Q3",
+        "value": 1163893458.88,
+        "unit": "元",
+        "value_normalized": 1163893458.88,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "归母净利润",
+        "period": "2025-Q3",
+        "value": 19027337.56,
+        "unit": "元",
+        "value_normalized": 19027337.56,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      },
+      {
+        "name": "归母净利润",
+        "period": "2025-Q1-Q3",
+        "value": 342957.0,
+        "unit": "元",
+        "value_normalized": 342957.0,
+        "base_unit": "CNY",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://www.idc.com/resource-center/press-releases/idc-pc-tracker-3q26/": {
+    "url": "https://www.idc.com/resource-center/press-releases/idc-pc-tracker-3q26/",
+    "title": "PC Market Woes Continue: Shipments Fall 20.1% in Q3 2026 as Pull-In Hangover and Supply Constraints Bite",
+    "media": "IDC",
+    "status": "ok",
+    "image_url": "https://www.idc.com/wp-content/uploads/2026/10/image_63283a.png",
+    "first_seen": "2026-10-15T14:32:09.979116",
+    "analyzed_at": "2026-10-19T10:35:17.087820",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "PC出货量属于直接影响压铸件用量的下游3C数据，文中明确给出全球PC出货量及同比变化。",
+    "category": "下游-3C销量",
+    "summary_zh": "IDC数据显示，2026年三季度全球PC出货量6270万台，同比下降20.1%，环比下降9.1%，为连续第二个季度下滑；上半年渠道提前备货透支需求，叠加供应受限与高价抑制需求。",
+    "bullets": [
+      "2026Q3全球PC出货量6270万台，同比-20.1%，环比-9.1%",
+      "下滑主因是上半年为规避涨价而提前备货，透支了下半年需求",
+      "联想、惠普、戴尔跌幅均超市场，合计份额下降4.2个百分点"
+    ],
+    "event": {
+      "date": "2026-10-08",
+      "subject": "IDC",
+      "amount": 62.7,
+      "amount_unit": "million units",
+      "amount_normalized": 62700000.0,
+      "amount_base_unit": "units"
+    },
+    "metrics": [
+      {
+        "name": "全球PC出货量",
+        "period": "2026-Q3",
+        "value": 62.7,
+        "unit": "million units",
+        "value_normalized": 62700000.0,
+        "base_unit": "units",
+        "unit_recognized": true
+      },
+      {
+        "name": "全球PC出货量同比",
+        "period": "2026-Q3",
+        "value": -20.1,
+        "unit": "%",
+        "value_normalized": -20.1,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "全球PC出货量环比",
+        "period": "2026-Q3",
+        "value": -9.1,
+        "unit": "%",
+        "value_normalized": -9.1,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "全球PC出货量同比",
+        "period": "2026-Q2",
+        "value": -3.8,
+        "unit": "%",
+        "value_normalized": -3.8,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://www.bcnretail.com/ranking/research/detail/20260828_655685.html": {
+    "url": "https://www.bcnretail.com/ranking/research/detail/20260828_655685.html",
+    "title": "高くても売れる？ ワイヤレスヘッドホン 最新の販売台数トップ3をアナリストが解説 - BCN＋R",
+    "media": "BCN",
+    "status": "ok",
+    "image_url": "https://www.bcnretail.com/files/topics/655685_ext_05_0.jpg",
+    "first_seen": "2026-10-15T18:17:07.512915",
+    "analyzed_at": "2026-10-19T10:35:18.977680",
+    "basis": "fulltext",
+    "relevant": false,
+    "relevance_reason": "该新闻为无线耳机零售销量排行与市场分析，属于3C周边消费电子，与压铸件用量无直接关系，且不属于AI眼镜等明确纳入的下游品类。",
+    "category": "其他",
+    "summary_zh": "BCN统计2026年7月日本无线耳机市场，索尼以18.7%份额居首，BOSE、罗技分列二三位；单品销量前三为BOSE QuietComfort Ultra二代、索尼WH-CH520与WH-1000XM6。",
+    "bullets": [
+      "2026年7月无线耳机厂商份额：索尼18.7%、BOSE 11.4%、罗技9.4%",
+      "单品销量第一为BOSE QuietComfort Ultra Headphones（第2代），金额份额16.0%",
+      "索尼以高价位WH-1000XM6与入门WH-CH520覆盖多价位段"
+    ],
+    "event": {
+      "date": "2026-07",
+      "subject": "BCN总研",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "日本无线耳机厂商份额",
+        "period": "2026-07",
+        "value": 18.7,
+        "unit": "%",
+        "value_normalized": 18.7,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "日本无线耳机厂商份额",
+        "period": "2026-07",
+        "value": 11.4,
+        "unit": "%",
+        "value_normalized": 11.4,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "日本无线耳机厂商份额",
+        "period": "2026-07",
+        "value": 9.4,
+        "unit": "%",
+        "value_normalized": 9.4,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "日本无线耳机厂商份额",
+        "period": "2026-07",
+        "value": 9.2,
+        "unit": "%",
+        "value_normalized": 9.2,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "日本无线耳机厂商份额",
+        "period": "2026-07",
+        "value": 8.4,
+        "unit": "%",
+        "value_normalized": 8.4,
+        "base_unit": "%",
+        "unit_recognized": true
+      },
+      {
+        "name": "BOSE单品金额份额",
+        "period": "2026-07",
+        "value": 16.0,
+        "unit": "%",
+        "value_normalized": 16.0,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://www.bcnretail.com/ranking/research/detail/20260820_652661.html": {
+    "url": "https://www.bcnretail.com/ranking/research/detail/20260820_652661.html",
+    "title": "メモリー価格高騰の中、7月に売れたノートPCは？ アナリストが最新市場を解説 - BCN＋R",
+    "media": "BCN",
+    "status": "ok",
+    "image_url": "https://www.bcnretail.com/files/topics/652661_ext_05_0.jpg",
+    "first_seen": "2026-10-15T18:17:10.327519",
+    "analyzed_at": "2026-10-19T10:35:21.240438",
+    "basis": "fulltext",
+    "relevant": true,
+    "relevance_reason": "笔记本PC销量属于直接影响压铸件用量的下游3C数据，文中给出了7月日本市场品牌份额与畅销机型信息",
+    "category": "下游-3C销量",
+    "summary_zh": "BCN+R报道2026年7月日本笔记本PC市场，富士通居首、NEC第二，国内品牌合计占35%；畅销机型前三为富士通FMV Note A、MacBook Neo、MacBook Air，内存涨价推高整机价格。",
+    "bullets": [
+      "2026年7月日本笔记本PC市场品牌份额：富士通第一、NEC第二，国内品牌合计35%",
+      "7月销量前三：富士通FMV Note A A53-K3、Apple MacBook Neo、Apple MacBook Air(2026)",
+      "AI需求推高内存价格，叠加日元贬值，PC价格持续上涨且短期难回落"
+    ],
+    "event": {
+      "date": "2026-07",
+      "subject": "BCN+R（BCN总研）",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "日本笔记本PC国内品牌市场份额",
+        "period": "2026-07",
+        "value": 35.0,
+        "unit": "%",
+        "value_normalized": 35.0,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  },
+  "https://www.bcnretail.com/news/detail/20261009_668169.html": {
+    "url": "https://www.bcnretail.com/news/detail/20261009_668169.html",
+    "title": "持ち運びに特化　全固体電池を採用したタブレット型モバイルバッテリー - BCN＋R",
+    "media": "BCN",
+    "status": "ok",
+    "image_url": "https://www.bcnretail.com/files/topics/668169_ext_05_0.jpg",
+    "first_seen": "2026-10-15T18:17:13.200123",
+    "analyzed_at": "2026-10-19T10:35:23.013355",
+    "basis": "fulltext",
+    "relevant": false,
+    "relevance_reason": "该新闻介绍的是采用全固态电池的消费级移动电源新品，属于3C配件，与压铸件用量无直接关系，也不属于镁铝原材料、压铸工艺装备或同行企业动态。",
+    "category": "其他",
+    "summary_zh": "Bigblue Tech推出采用全固态电池的平板型移动电源PF15，容量15000mAh，支持65W USB PD输出，在Makuake平台先行销售。",
+    "bullets": [
+      "采用全固态电解质电池，通过钉刺、跌落、荷重测试",
+      "容量15000mAh，USB-C双口+USB-A一口，最大65W PD输出",
+      "Makuake先行销售，早鸟价8782日元起"
+    ],
+    "event": {
+      "date": "2026-10-07",
+      "subject": "Bigblue Tech",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "移动电源电池容量",
+        "period": "2026-10-07",
+        "value": 15000.0,
+        "unit": "mAh",
+        "value_normalized": 15000.0,
+        "base_unit": "mAh",
+        "unit_recognized": false
+      },
+      {
+        "name": "USB PD最大输出功率",
+        "period": "2026-10-07",
+        "value": 65.0,
+        "unit": "W",
+        "value_normalized": 65.0,
+        "base_unit": "W",
+        "unit_recognized": false
+      }
+    ]
+  },
+  "https://www.bcnretail.com/ranking/research/detail/20261013_668230.html": {
+    "url": "https://www.bcnretail.com/ranking/research/detail/20261013_668230.html",
+    "title": "値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10 - BCN＋R",
+    "media": "BCN",
+    "status": "ok",
+    "image_url": "https://www.bcnretail.com/files/topics/668230_ext_05_0.jpg",
+    "first_seen": "2026-10-15T18:17:15.863342",
+    "analyzed_at": "2026-10-19T10:35:24.678682",
+    "basis": "fulltext",
+    "relevant": false,
+    "relevance_reason": "该新闻是日本平板电脑零售销量排行榜，属于3C销量数据，但平板电脑外壳以注塑件为主，与压铸件用量无直接关系，且未涉及镁铝合金或压铸工艺。",
+    "category": "其他",
+    "summary_zh": "BCN发布2026年9月日本平板电脑实卖销量TOP10，苹果iPad占据多席，Wacom绘图平板排名上升。",
+    "bullets": [
+      "2026年9月日本平板电脑销量榜首为11英寸iPad Wi-Fi 128GB",
+      "Wacom MovinkPad Pro 14排名第5，MovinkPad 11排名第10",
+      "榜单基于日本主要家电量贩店POS数据"
+    ],
+    "event": {
+      "date": "2026-09",
+      "subject": "BCN",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": []
+  },
+  "https://www.bcnretail.com/news/detail/20261015_669720.html": {
+    "url": "https://www.bcnretail.com/news/detail/20261015_669720.html",
+    "title": "防災グッズを買わなくてもOK！ スマホやノートPCなどで備える災害対策 - BCN＋R",
+    "media": "BCN",
+    "status": "ok",
+    "image_url": "https://www.bcnretail.com/files/topics/669720_ext_05_0.jpg",
+    "first_seen": "2026-10-15T18:17:18.706895",
+    "analyzed_at": "2026-10-19T10:35:26.124500",
+    "basis": "fulltext",
+    "relevant": false,
+    "relevance_reason": "该文为面向消费者的防灾生活技巧，介绍用手机、笔记本等日常用品应急，与压铸上下游产业链及压铸件用量无直接关系。",
+    "category": "其他",
+    "summary_zh": "文章介绍“无阶段”防灾理念，讲解用手机灯光、笔记本USB供电、卡式炉汤煎、冰箱保冷等日常用品应急技巧，不涉及压铸产业链。",
+    "bullets": [
+      "介绍“无阶段”防灾理念，即平时用品兼作应急工具",
+      "手机灯光加水瓶做简易灯笼，笔记本可为手机供电",
+      "卡式炉加高密度聚乙烯袋做汤煎，停电时冰箱保冷技巧"
+    ],
+    "event": {
+      "date": null,
+      "subject": null,
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": []
+  },
+  "https://www.bcnretail.com/news/detail/20261015_669715.html": {
+    "url": "https://www.bcnretail.com/news/detail/20261015_669715.html",
+    "title": "エンジン内部を3Dで再現、本格シミュレーターアプリ「Trans4motor R」がAndroid対応 - BCN＋R",
+    "media": "BCN",
+    "status": "ok",
+    "image_url": "https://www.bcnretail.com/files/topics/669715_ext_05_0.jpg",
+    "first_seen": "2026-10-15T18:17:21.577706",
+    "analyzed_at": "2026-10-19T10:35:27.774484",
+    "basis": "fulltext",
+    "relevant": false,
+    "relevance_reason": "该新闻介绍的是发动机与变速箱3D模拟器应用，属于软件产品，与压铸件用量及压铸上下游产业链无直接关系。",
+    "category": "其他",
+    "summary_zh": "Kit Peak公司推出可实时模拟发动机与变速箱内部结构的3D模拟器应用Trans4motor R的Android版，与压铸产业链无关。",
+    "bullets": [
+      "Kit Peak于10月15日发布Trans4motor R的Android版",
+      "该应用可模拟从单缸到V12的发动机结构及变速箱动作",
+      "属于汽车爱好者与工程学习类软件，不涉及压铸件用量"
+    ],
+    "event": {
+      "date": "2026-10-15",
+      "subject": "キットピーク（Kit Peak）",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": []
+  },
+  "https://www.bcnretail.com/news/detail/20261015_669713.html": {
+    "url": "https://www.bcnretail.com/news/detail/20261015_669713.html",
+    "title": "ノートPCも急速充電、車内が“オフィス”に変わる最大83W出力の車載用PD充電器 - BCN＋R",
+    "media": "BCN",
+    "status": "ok",
+    "image_url": "https://www.bcnretail.com/files/topics/669713_ext_05_0.jpg",
+    "first_seen": "2026-10-15T18:17:24.375414",
+    "analyzed_at": "2026-10-19T10:35:29.384514",
+    "basis": "fulltext",
+    "relevant": false,
+    "relevance_reason": "该新闻介绍的是车载USB-PD充电器新品，属于消费电子配件，与压铸件用量及压铸上下游产业链无直接关系。",
+    "category": "其他",
+    "summary_zh": "Adtec推出车载USB-PD快充充电器ACPD-V083AC，Type-C最高65W、Type-A最高18W，合计83W，可为笔记本供电，支持12V/24V车型。",
+    "bullets": [
+      "Type-C 65W + Type-A 18W，合计最大83W",
+      "支持DC12V～24V，兼容乘用车与卡车巴士",
+      "售价2590日元起，10月14日发售"
+    ],
+    "event": {
+      "date": "2026-10-14",
+      "subject": "アドテック（Adtec）",
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": []
+  },
+  "https://www.bcnretail.com/news/detail/20261015_669709.html": {
+    "url": "https://www.bcnretail.com/news/detail/20261015_669709.html",
+    "title": "BLUETTI、より軽くなった2000Whクラスのポータブル電源 - BCN＋R",
+    "media": "BCN",
+    "status": "ok",
+    "image_url": "https://www.bcnretail.com/files/topics/669709_ext_05_0.jpg",
+    "first_seen": "2026-10-15T18:17:26.514427",
+    "analyzed_at": "2026-10-19T10:35:30.869042",
+    "basis": "fulltext",
+    "relevant": false,
+    "relevance_reason": "该新闻为便携式电源新品发布，属于消费电子周边产品，与压铸件用量无直接关系。",
+    "category": "其他",
+    "summary_zh": "BLUETTI在日本开启便携式电源AORA 200 V2预售，容量2080Wh，重量减轻16%以上，售价23.8万日元。",
+    "bullets": [
+      "BLUETTI JAPAN于10月12日开启AORA 200 V2预售",
+      "电池容量2080Wh，本体重量约20.2kg，较前代减轻16%以上",
+      "售价23万8000日元，10月下旬起陆续发货"
+    ],
+    "event": {
+      "date": "2026-10-12",
+      "subject": "BLUETTI JAPAN",
+      "amount": 238000.0,
+      "amount_unit": "日元",
+      "amount_normalized": 238000.0,
+      "amount_base_unit": "JPY"
+    },
+    "metrics": [
+      {
+        "name": "便携式电源电池容量",
+        "period": "",
+        "value": 2080.0,
+        "unit": "Wh",
+        "value_normalized": 2080.0,
+        "base_unit": "Wh",
+        "unit_recognized": false
+      },
+      {
+        "name": "便携式电源本体重量",
+        "period": "",
+        "value": 20.2,
+        "unit": "kg",
+        "value_normalized": 20.2,
+        "base_unit": "kg",
+        "unit_recognized": false
+      }
+    ]
+  },
+  "https://www.bcnretail.com/news/detail/20261015_668227.html": {
+    "url": "https://www.bcnretail.com/news/detail/20261015_668227.html",
+    "title": "AIはクラウド＋エッジのハイブリッド時代へ［道越一郎のカットエッジ・特別編］ - BCN＋R",
+    "media": "BCN",
+    "status": "ok",
+    "image_url": "https://www.bcnretail.com/files/topics/668227_ext_05_0.jpg",
+    "first_seen": "2026-10-15T18:17:28.647462",
+    "analyzed_at": "2026-10-19T10:35:32.653132",
+    "basis": "fulltext",
+    "relevant": false,
+    "relevance_reason": "本文为AI云端与边缘混合趋势的评论文章，仅泛泛提及AI PC与NPU，未涉及压铸件用量或压铸产业链任何环节。",
+    "category": "其他",
+    "summary_zh": "文章讨论云端AI与边缘AI的混合使用趋势，介绍AI PC、NPU及本地小模型体验，与压铸产业链无关。",
+    "bullets": [
+      "讨论云端AI与边缘AI分工协作的混合AI模式",
+      "提及AI PC占笔记本销量39.2%及NPU性能",
+      "全文未涉及镁铝原材料、压铸工艺或压铸企业"
+    ],
+    "event": {
+      "date": null,
+      "subject": null,
+      "amount": null,
+      "amount_unit": null,
+      "amount_normalized": null,
+      "amount_base_unit": null
+    },
+    "metrics": [
+      {
+        "name": "日本AI PC笔记本销量占比",
+        "period": "2026-07",
+        "value": 39.2,
+        "unit": "%",
+        "value_normalized": 39.2,
+        "base_unit": "%",
+        "unit_recognized": true
+      }
+    ]
+  }
+}

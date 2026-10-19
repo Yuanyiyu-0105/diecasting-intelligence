@@ -1,0 +1,23 @@
+# 数据源配置（阶段 1 起逐步打通，MVP 先跑通 OICA + IDC 两个最容易的源）
+sources:
+  oica:
+    name: "OICA 国际汽车制造商协会"
+    kind: "static"          # static=静态站点，requests 直抓
+    url: "https://www.oica.net/sales-statistics/"
+    enabled: true
+    description: "全球汽车产量 / 销量年度统计"
+  idc:
+    name: "IDC 国际数据公司"
+    kind: "dynamic"
+    url: "https://www.cnfin.com/gs-lb/detail/20251010/4314785_1.html"
+    enabled: true
+    # ⚠️ 这是中文媒体对其数据的「二手转载」,不是 IDC 官网,
+    # 且 URL 硬编码在 2025 年、每次跑都是同一篇,无时效性。
+    # 真实的 IDC 官网采集在 collectors/market_data_collector.py(主链路 run_pipeline.py 用)。
+    # main.py 这条链路仅供演示,参赛请用 run_pipeline.py。
+    description: "全球 PC / 智能眼镜出货量（抓取转载其数据的中文报道）"
+
+settings:
+  crawl_timeout: 15
+  use_sample_on_fail: false   # 抓取失败（网络不可达/结构变化）自动回退样例数据，保证 MVP 一定能跑通
+  llm_provider: "deepseek"   # 阶段 3/4 语义抽取与相关性二判使用

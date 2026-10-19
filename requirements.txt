@@ -1,0 +1,24 @@
+# ---- 基础 ----
+python-dotenv>=1.0
+pyyaml>=6.0
+requests>=2.31
+
+# ---- 采集层（Playwright 动态渲染 / 正文抽取 / RSS / 财报 PDF） ----
+playwright>=1.63
+beautifulsoup4>=4.12
+lxml>=5.0
+trafilatura>=1.8
+feedparser>=6.0
+pdfplumber>=0.11
+
+# ---- 存储 / 分析 ----
+sqlalchemy>=2.0
+openai>=1.30        # DeepSeek 兼容 OpenAI SDK
+
+# ---- 可视化 / 展示 ----
+flask>=3.0          # web/app.py 大屏服务
+jinja2>=3.1
+matplotlib>=3.8
+
+# ---- 调度 ----
+apscheduler>=3.10
