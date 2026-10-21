@@ -33,7 +33,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:28.300521",
-        "last_checked": "2026-10-19T09:00:23.824605"
+        "last_checked": "2026-10-21T09:45:25.917777"
     },
     {
         "title": "Europe’s Chinese car challenge is bigger than policymakers realize, UBS says",
@@ -51,7 +51,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:31.695131",
-        "last_checked": "2026-10-19T09:00:26.876366"
+        "last_checked": "2026-10-21T09:45:28.808520"
     },
     {
         "title": "China passenger car retail sales for Sept 1-20 down 22% year-on-year",
@@ -79,8 +79,8 @@
         "url": "https://www.ft.com/content/3ab2c236-eae3-4756-bc59-0852ae57d6a0?syn-25a6b1a6=1",
         "source": "OICA",
         "media": "Financial Times",
-        "status": "failed",
-        "error": "HTTPSConnectionPool(host='www.ft.com', port=443): Max retries exceeded with url: /content/3ab2c236-eae3-4756-bc59-0852ae57d6a0?syn-25a6b1a6=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.ft.com', port=443): Read timed out. (read timeout=10)\"))",
+        "status": "timeout",
+        "error": "connect timeout",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -90,15 +90,15 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:39.699811",
-        "last_checked": "2026-10-19T09:01:00.952612"
+        "last_checked": "2026-10-21T09:46:02.846763"
     },
     {
         "title": "China Urges EU to Keep Auto Markets Open, Avoid Protectionism",
         "url": "https://www.bloomberg.com/news/articles/2026-09-22/china-urges-eu-to-keep-auto-markets-open-avoid-protectionism",
         "source": "OICA",
         "media": "Bloomberg",
-        "status": "failed",
-        "error": "HTTPSConnectionPool(host='www.bloomberg.com', port=443): Max retries exceeded with url: /news/articles/2026-09-22/china-urges-eu-to-keep-auto-markets-open-avoid-protectionism (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.bloomberg.com', port=443): Read timed out. (read timeout=10)\"))",
+        "status": "timeout",
+        "error": "connect timeout",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -108,15 +108,15 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:44.014967",
-        "last_checked": "2026-10-19T09:01:35.002702"
+        "last_checked": "2026-10-21T09:46:36.891518"
     },
     {
         "title": "Indian first-time car buyers make a comeback as lower taxes boosts small-vehicle demand",
         "url": "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/first-time-car-buyers-make-a-comeback-as-lower-gst-boosts-small-vehicle-demand/134400519",
         "source": "OICA",
         "media": "auto.economictimes.indiatimes.com",
-        "status": "failed",
-        "error": "HTTPSConnectionPool(host='auto.economictimes.indiatimes.com', port=443): Max retries exceeded with url: /news/passenger-vehicle/first-time-car-buyers-make-a-comeback-as-lower-gst-boosts-small-vehicle-demand/134400519 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='auto.economictimes.indiatimes.com', port=443): Read timed out. (read timeout=10)\"))",
+        "status": "timeout",
+        "error": "connect timeout",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -126,7 +126,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:48.924355",
-        "last_checked": "2026-10-19T09:02:09.073649"
+        "last_checked": "2026-10-21T09:47:10.950976"
     },
     {
         "title": "The Chinese commercial vehicle industry is challenging the European industry’s tariff consensus.",
@@ -144,15 +144,15 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:51.559875",
-        "last_checked": "2026-10-19T09:02:12.102540"
+        "last_checked": "2026-10-21T09:47:14.860176"
     },
     {
         "title": "EU asks China to voluntarily limit hybrid car exports",
         "url": "https://www.ft.com/content/0b45cb01-7f62-41c5-8c48-10c47f2e1ae6?syn-25a6b1a6=1",
         "source": "OICA",
         "media": "Financial Times",
-        "status": "failed",
-        "error": "HTTPSConnectionPool(host='www.ft.com', port=443): Max retries exceeded with url: /content/0b45cb01-7f62-41c5-8c48-10c47f2e1ae6?syn-25a6b1a6=1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.ft.com', port=443): Read timed out. (read timeout=10)\"))",
+        "status": "timeout",
+        "error": "connect timeout",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -162,7 +162,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:55.144641",
-        "last_checked": "2026-10-19T09:02:46.151141"
+        "last_checked": "2026-10-21T09:47:48.885963"
     },
     {
         "title": "2026 IAA Transportation: China, Fleet Goals, and More: The Biggest Challenges Facing the Trucking Industry",
@@ -180,7 +180,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:57.891175",
-        "last_checked": "2026-10-19T09:02:49.245037"
+        "last_checked": "2026-10-21T09:47:52.086003"
     },
     {
         "title": "Negotiations on emissions under the Automotive Package “are at a standstill” in the European Parliament",
@@ -205,8 +205,8 @@
         "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-sets-70-ev-goal-for-new-car-sales-in-five-year-plan",
         "source": "OICA",
         "media": "Bloomberg",
-        "status": "failed",
-        "error": "HTTPSConnectionPool(host='www.bloomberg.com', port=443): Max retries exceeded with url: /news/articles/2026-09-11/china-sets-70-ev-goal-for-new-car-sales-in-five-year-plan (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.bloomberg.com', port=443): Read timed out. (read timeout=10)\"))",
+        "status": "timeout",
+        "error": "connect timeout",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -219,15 +219,15 @@
         "prefilter_score": 2,
         "prefilter_pass": true,
         "first_seen": "2026-10-15T11:11:04.810432",
-        "last_checked": "2026-10-19T09:03:23.276078"
+        "last_checked": "2026-10-21T09:48:26.121687"
     },
     {
         "title": "The Italian ANFIA calls for 80% EU tariff on Chinese cars and parts",
         "url": "https://www.reuters.com/business/retail-consumer/italian-lobby-group-calls-80-eu-tariff-chinese-cars-parts-2026-09-09/",
         "source": "OICA",
         "media": "Reuters",
-        "status": "failed",
-        "error": "HTTPSConnectionPool(host='www.reuters.com', port=443): Max retries exceeded with url: /business/retail-consumer/italian-lobby-group-calls-80-eu-tariff-chinese-cars-parts-2026-09-09/ (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.reuters.com', port=443): Read timed out. (read timeout=10)\"))",
+        "status": "timeout",
+        "error": "connect timeout",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -237,15 +237,15 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:07.453703",
-        "last_checked": "2026-10-19T09:03:57.312020"
+        "last_checked": "2026-10-21T09:49:00.161339"
     },
     {
         "title": "Ford Rebuked by Trump Cabinet Member Over Chinese Auto Ties",
         "url": "https://www.bloomberg.com/news/articles/2026-09-08/duffy-lashes-out-at-ford-over-ties-to-chinese-auto-companies",
         "source": "OICA",
         "media": "Bloomberg",
-        "status": "failed",
-        "error": "HTTPSConnectionPool(host='www.bloomberg.com', port=443): Max retries exceeded with url: /news/articles/2026-09-08/duffy-lashes-out-at-ford-over-ties-to-chinese-auto-companies (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.bloomberg.com', port=443): Read timed out. (read timeout=10)\"))",
+        "status": "timeout",
+        "error": "connect timeout",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -255,15 +255,15 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:10.369457",
-        "last_checked": "2026-10-19T09:04:31.365315"
+        "last_checked": "2026-10-21T09:49:34.191774"
     },
     {
         "title": "UK’s Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan",
         "url": "https://www.reuters.com/business/world-at-work/jaguar-land-rover-cut-4000-jobs-globally-over-next-two-years-2026-09-07/",
         "source": "OICA",
         "media": "Reuters",
-        "status": "failed",
-        "error": "HTTPSConnectionPool(host='www.reuters.com', port=443): Max retries exceeded with url: /business/world-at-work/jaguar-land-rover-cut-4000-jobs-globally-over-next-two-years-2026-09-07/ (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.reuters.com', port=443): Read timed out. (read timeout=10)\"))",
+        "status": "timeout",
+        "error": "connect timeout",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -273,15 +273,15 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:12.703296",
-        "last_checked": "2026-10-19T09:05:05.414149"
+        "last_checked": "2026-10-21T09:50:08.220859"
     },
     {
         "title": "VW Approves Plan to Cut 50,000 More Jobs in Broad Overhaul",
         "url": "https://www.bloomberg.com/news/articles/2026-09-03/vw-board-gives-ceo-blume-unanimous-backing-to-overhaul-carmaker?srnd=homepage-europe",
         "source": "OICA",
         "media": "Bloomberg",
-        "status": "failed",
-        "error": "HTTPSConnectionPool(host='www.bloomberg.com', port=443): Max retries exceeded with url: /news/articles/2026-09-03/vw-board-gives-ceo-blume-unanimous-backing-to-overhaul-carmaker?srnd=homepage-europe (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.bloomberg.com', port=443): Read timed out. (read timeout=10)\"))",
+        "status": "timeout",
+        "error": "connect timeout",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -291,7 +291,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:15.774268",
-        "last_checked": "2026-10-19T09:05:39.463488"
+        "last_checked": "2026-10-21T09:50:42.261702"
     },
     {
         "title": "Following a meeting with Elon Musk, France has authorized “road tests” of Tesla’s supervised autonomous driving system",
@@ -316,8 +316,8 @@
         "url": "https://www.reuters.com/business/autos-transportation/honda-tells-suppliers-cut-costs-9-billion-push-fend-off-china-documents-show-2026-09-02/",
         "source": "OICA",
         "media": "Reuters",
-        "status": "failed",
-        "error": "HTTPSConnectionPool(host='www.reuters.com', port=443): Max retries exceeded with url: /business/autos-transportation/honda-tells-suppliers-cut-costs-9-billion-push-fend-off-china-documents-show-2026-09-02/ (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.reuters.com', port=443): Read timed out. (read timeout=10)\"))",
+        "status": "timeout",
+        "error": "connect timeout",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -327,7 +327,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:21.913003",
-        "last_checked": "2026-10-19T09:06:13.487415"
+        "last_checked": "2026-10-21T09:51:16.313652"
     },
     {
         "title": "Renault swings to first-half profit on EVs despite rise of Chinese rivals",
@@ -347,15 +347,15 @@
         "prefilter_score": 1,
         "prefilter_pass": true,
         "first_seen": "2026-10-15T11:11:25.003774",
-        "last_checked": "2026-10-19T09:06:16.554457"
+        "last_checked": "2026-10-21T09:51:19.179328"
     },
     {
         "title": "Ford Boosts Outlook on Strong Demand for Profit-Rich SUVs",
         "url": "https://www.bloomberg.com/news/articles/2026-07-28/ford-raises-earnings-outlook-on-strong-sales-of-profit-rich-suvs",
         "source": "OICA",
         "media": "Bloomberg",
-        "status": "failed",
-        "error": "HTTPSConnectionPool(host='www.bloomberg.com', port=443): Max retries exceeded with url: /news/articles/2026-07-28/ford-raises-earnings-outlook-on-strong-sales-of-profit-rich-suvs (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.bloomberg.com', port=443): Read timed out. (read timeout=10)\"))",
+        "status": "timeout",
+        "error": "connect timeout",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -365,7 +365,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:27.728162",
-        "last_checked": "2026-10-19T09:06:50.614438"
+        "last_checked": "2026-10-21T09:51:53.205871"
     },
     {
         "title": "Porsche to Cut 5,000 Jobs and Invest 2.1 billion Euros",
@@ -383,7 +383,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:30.373826",
-        "last_checked": "2026-10-19T09:06:53.814014"
+        "last_checked": "2026-10-21T09:51:56.322654"
     },
     {
         "title": "Volkswagen Makes Its Corporate Restructuring Measurable",
@@ -401,15 +401,15 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:32.988076",
-        "last_checked": "2026-10-19T09:06:56.651442"
+        "last_checked": "2026-10-21T09:51:59.027301"
     },
     {
         "title": "Renault’s hit EV helps fend off Chinese rivals as quarterly sales rebound",
         "url": "https://www.reuters.com/business/autos-transportation/renault-first-half-sales-volumes-slip-04-vs-year-ago-period-2026-07-23/",
         "source": "OICA",
         "media": "Reuters",
-        "status": "failed",
-        "error": "HTTPSConnectionPool(host='www.reuters.com', port=443): Max retries exceeded with url: /business/autos-transportation/renault-first-half-sales-volumes-slip-04-vs-year-ago-period-2026-07-23/ (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.reuters.com', port=443): Read timed out. (read timeout=10)\"))",
+        "status": "timeout",
+        "error": "connect timeout",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -421,7 +421,7 @@
         "prefilter_score": 1,
         "prefilter_pass": true,
         "first_seen": "2026-10-15T11:11:35.264451",
-        "last_checked": "2026-10-19T09:07:30.689408"
+        "last_checked": "2026-10-21T09:52:33.036159"
     },
     {
         "title": "文灿股份:2026年半年度报告摘要",
@@ -3403,6 +3403,653 @@
         "prefilter_pass": true,
         "first_seen": "2026-10-19T12:11:39.330435",
         "last_checked": "2026-10-19T12:11:39.330435",
+        "channel": "wechat_sogou",
+        "query": "乘用车销量"
+    },
+    {
+        "title": "ポケット型ジンバルカメラ「Osmo Pocket 4P」に新色パールホワイト追加 - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261021_669854.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "ポケット型ジンバルカメラ「Osmo Pocket 4P」に新色パールホワイト追加\n2026.10.21 08:00\nスマホ・PC\nDJI JAPAN\nアクションカメラ\nSHARE ON\n中国のDJIは10月20日に、デュアルレンズを搭載したポケット型ジンバルカメラ「Osmo Pocket 4P」の新色となる、パールホワイトモデルの日本での販売を公式オンラインショップなどで開始した。価格は9万9000円。\n「Osmo Pocket 4P」パールホワイトモデル\nマイカ配合のパール塗装で、角度によって輝きが変わる\n「Osmo Pocket 4P」は、1インチCMOSの20mm広角（f／2.0）と60mm中望遠（f／1.8・光学3倍）のデュアルレンズ構成で、17ストップのダイナミックレンジ、10ビット D-Log 2、最大4K／240fpsのスローモーション撮影に対応したジンバルカメラ。最大37MPの静止画撮影、1.5秒の4Kライブフォト、ActiveTrack 8.0による人物・車両・ペットなどの自動追尾などにも対応している。\n本体は軽量ながら、最大210分のバッテリー駆動を実現した。サイズは幅63.3×高さ159.5×奥行き33.5mmで、重さは230g。\n今回、日本での販売が開始されたパールホワイトモデルは、マイカ配合のパール塗装によって角度に応じて輝きが変わる仕様で、補助ライト・ハンドル・リストストラップ・キャリーポーチまでホワイトで揃えられている。\n本体を除くセット内容は、USB Type-C - USB Type-C PDケーブル（USB3.1）、Osmo Pocket 4 補助ライト（ホワイト）、DJI リストストラップ（ホワイト）、Osmo Pocket 4 ハンドル（1／4インチねじ穴付き）（ホワイト）、Osmo Pocket Pro ポータブル キャリーポーチ（ホワイト）。\nなお、今回日本での販売が開始されたのはパールホワイトのスタンダードコンボのみで、パールホワイトのVlogコンボの販売は未定だという。\n1台16役！ 次世代の自動調理家電「マルチグリルクッカー GRISIA」 11月発売\n画面がもっと見やすくなる！ DJI Osmo Pocket 4P専用液晶保護フィルム発売\n発売直後で爆売れの「Osmo Pocket 4」、ぶっちぎり1位でロケットスタート［道越一郎のカットエッジ］\n8Kの高画質で360°まるごと記録！ DJI「Osmo 360 II」\nAppleのトラッキング技術「Apple DockKit」に初対応 DJIのスマホ用ジンバル最新モデル「Osmo Mobile 8」\nDJI JAPAN＝https://www.dji.com/jp\n「Osmo Pocket 4P」＝https://www.dji.com/jp/osmo-pocket-4p\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669854_ext_05_0.jpg",
+        "publish_date": "2026-10-21",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:41:19.056084",
+        "last_checked": "2026-10-21T09:41:19.056084"
+    },
+    {
+        "title": "ニュアンスカラーで軽量・コンパクト・大容量 安全性の高い半固体モバ充がMOTTERUから登場 - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261021_669843.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "ニュアンスカラーで軽量・コンパクト・大容量 安全性の高い半固体モバ充がMOTTERUから登場\n2026.10.21 06:30\nスマホ・PC\nモバイルバッテリ・充電器\nSHARE ON\nMOTTERUは10月16日、安全性の高い準固体電池を採用したモバイルバッテリー「MEC-MBSS5003」「MEC-MBSS10003」「MEC-MBSS20003」の3モデルを公式オンラインストアやAmazon.co.jp、楽天市場、Yahoo!ショッピングで発売した。\nMOTTERU 半固体モバ充に新モデル\n安全・長寿命設計を実現 容量と軽量・コンパクトを両立しカラー展開も豊富に\n新製品は、耐寒耐熱温度-10～60度までの環境に対応し、発火リスクを大幅に低減したほか、約2000回使える長寿命設計を実現。急速充電に対応し、ストラップとしても使える約20cmのUSB-C一体型ケーブルを備え、ケーブル忘れも防げる。さらに、デバイス2台の同時充電にも対応。過充電保護、過放電保護、ショート保護などの安心機能も充実し、飛行機内への持ち込みも可能だ。\nストラップにもなるケーブル\n残量が分かるインジケーター付き\n本体はなめらかな形状と質感で手に持ちやすいデザインに。カラー展開もトレンドとなっているニュアンスカラーを採用した。\nMEC-MBSS5003\nMEC-MBSS5003はアーモンドミルクとペールアイリスの2色展開となる5000mAhタイプ。PD20Wに対応する。重量は約106gで、高い携帯性が特徴だ。公式ストア価格は4480円。\nMEC-MBSS10003\nMEC-MBSS10003は、スマホを約2回充電できる10000mAhモデル。PD20Wに対応する。カラー展開は、スモーキーブラック、アーモンドミルク、ペールアイリス、パウダーブルー、ラテグレージュの5色展開だ。価格は5980円。\nMEC-MBSS20003\nMEC-MBSS20003は、20000mAhモデル。重量は約337gで、最小・最軽量クラスを実現し、大容量ながら携帯性を重視している。PD45W対応で、スマホからノートPCまで充電可能だ。カラー展開は、スモーキーブラック、アーモンドミルクの2色。公式ストア価格は9980円。\n写真ギャラリー\n※Amazonのアソシエイトとして、BCN＋Rは適格販売により収入を得ています。\nMOTTERU 発火リスクほぼゼロ 半固体モバイルバッテリー 5000mAh PD20w USB-Cケーブル一体型 2年保証 ペールアイリス | モッテル 釘を刺しても発火しない 超安全 耐熱耐寒60℃～－10℃ 2000回サイクル 約4倍長持ち 長寿命 準固体 最小 最軽量 パススルー 飛行機持ち込みOK PSE認証 iPhone スマホ対応 MEC-MBSS5003-PU\n￥4,480\nAmazonで見る\nMOTTERU 発火リスクほぼゼロ 半固体モバイルバッテリー 5000mAh PD20w USB-Cケーブル一体型 2年保証 アーモンドミルク | モッテル 釘を刺しても発火しない 超安全 耐熱耐寒60℃～－10℃ 2000回サイクル 約4倍長持ち 長寿命 準固体 最小 最軽量 パススルー 飛行機持ち込みOK PSE認証 iPhone スマホ対応 MEC-MBSS5003-AM\nかわいくて安全なデジタルアクセ MOTTERUの考える安全性とは？【どうなるモバブ】\nPCに挿すだけでAI機能を拡張 ASUSのエッジAIアクセラレーター「UGen300」\n液晶テレビ2部門で首位のREGZA、Mini LED液晶と有機ELの新モデル投入\n重さ40gの“超”軽量ワイヤレスヘッドホン「PORTA」 finalから登場\n「星のカービィ」×「Kensington」 コラボデザインのキーボード＆マウスが登場\nMOTTERU＝https://motteru.co.jp/\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669843_ext_05_0.jpg",
+        "publish_date": "2026-10-21",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:41:21.932229",
+        "last_checked": "2026-10-21T09:41:21.932229"
+    },
+    {
+        "title": "電源がいらない スマホで簡単書き換えの電子ペーパーディスプレーに大型サイズ登場 - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261021_669844.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "電源がいらない スマホで簡単書き換えの電子ペーパーディスプレーに大型サイズ登場\n2026.10.21 06:00\nスマホ・PC\nSHARE ON\nサンテクノロジーは10月19日から、スマートフォンで表示内容を書き換えられる電子ペーパーディスプレー「EZ Sign」の7.5インチモデルを応援購入サービス「Makuake」で先行販売している。予定販売価格は8250円。\n電源がいらない電子ペーパーディスプレー\nNFC技術で表示を書き換え 便利なリンク機能も使える\n「EZ Sign」は電池・充電・配線が不要な点が大きな特徴の電子ペーパーディスプレー。NFC技術を利用してスマートフォンから電力を受け取り、表示を書き換えることができる。\n「EZ Sign」7.5インチモデル\n今回の新製品は、シリーズ最大となる7.5インチサイズモデル。受付案内や店舗POP、メニュー、オフィスの掲示物など、より幅広いシーンで活用できるサイズとなっている。厚みは4.9mmで、重さは120g。タブレットと比べても軽量だ。\n紙のメニュー表\n繰り返し書き換えられるEZ Signに置き換え可能\nスマホで簡単に書き換えられる\nNFC対応のスマホをかざすだけで登録したWebページへアクセスできるリンク機能も搭載。受付カウンターや予定表の共有など、さまざまな用途で活用できる。\n便利なリンク機能\n画面表示は白黒の2色表示。専用アプリはWindows、Android、iOSに対応する。本体カラーは白と黒の2色を展開する。\nメーカーの公式情報では業務用での使用例が目立つが、「電源が不要」との触れ込みは、手間がかからない気がして、日常使いでもちょっと試してみたくなる。書き置きなどを電子化できそうだし、イベントなどでも活用できそうだ。気になる人はチェックしてみてほしい。\n写真ギャラリー\n※Amazonのアソシエイトとして、BCN＋Rは適格販売により収入を得ています。\n[Santek]EZ Sign NFC 電子ペーパー ディスプレイ 4.2インチ 4色表示 電池不要 スマホ書換え IP65 防滴防塵 シルバ 1個\n￥3,890\nAmazonで見る\n[Santek] EZ Sign NFC 電子ペーパーディスプレイ 2色表示 薄型3.4mm 電池不要 スマホでNFC書き換え iOS/Android/Windows対応 名札/POP/会議室/QR表示 (ホワイト, 4.2インチ)\n折りたためるサウンドバー 高音質なWi-Fiスピーカー JBLからホームオーディオ製品 5モデル\n「モバイルプロジェクター」で、いつでもどこでも映画館に\n1台16役！ 次世代の自動調理家電「マルチグリルクッカー GRISIA」 11月発売\n重さ40gの“超”軽量ワイヤレスヘッドホン「PORTA」 finalから登場\nPCに挿すだけでAI機能を拡張 ASUSのエッジAIアクセラレーター「UGen300」\n「EZ Sign」7.5インチモデル Makuakeサイト＝https://www.makuake.com/project/ez-sign-nfc-75/\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669844_ext_05_0.jpg",
+        "publish_date": "2026-10-21",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:41:24.718046",
+        "last_checked": "2026-10-21T09:41:24.718046"
+    },
+    {
+        "title": "ピクセラのSIMフリーUSBドングル、一般販売開始 - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261020_669851.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "ピクセラのSIMフリーUSBドングル、一般販売開始\n2026.10.20 17:00\nスマホ・PC\nSHARE ON\nピクセラは、クラウドファンディングサイト「Makuake」において、2500万円に迫る支援額（目標達成率約5000％）を記録した、次世代LTE対応SIMフリーUSBドングル「PIX-MT200e」の一般販売を、12月初旬にAmazon.co.jp内の公式ストアにて開始する。\nPIX-MT200e\neSIM×物理SIM搭載の次世代LTEドングル\n「PIX-MT200e」は、本体にバッテリーを搭載せず、挿すだけでシームレスな通信環境を構築可能な次世代LTE対応SIMフリーUSBドングル。\n主要4キャリアのnanoSIMおよびeSIMに対応するとともに、マルチOS対応なので、好きな回線をさまざまなデバイスで利用できる。また、nanoSIMとeSIMは手動で切り替えられるため、使い分けが可能となっている。\n従来機種と比較して体積を約75％小型化したほか、許容動作温度がマイナス10～プラス45℃と幅広いので、サイネージや監視カメラといった屋外設備にも設置できる。\nUSB着脱式のため持ち運びや設置が容易で、給電可能なUSB端子に接続してウェブブラウザからセットアップするだけで、最大16台の同時接続が実現する。\nそのほか、Linuxにも対応し、Raspberry Piにも接続できるので、スマートホームの自作や電子工作にも適している。\n対応無線通信は、LTE（2.1GHz、1.8GHz、1.5GHz、900MHz、800MHz、700MHz）、IEEE802.11b／g／n（2.4GHz帯）準拠の無線LAN。サイズは幅35×高さ13×奥行き83mmで、重さは約30g。\n月末のギガ欠を0.1GB無料や0.5GB13円のeSIMで乗り切れ［道越一郎のカットエッジ］\n工事不要でネットワーク環境をスグに構築できる「LTE対応USBドングル」\nSIMのAPN設定不要！ 箱から出してUSBに挿すだけですぐに使える「“SIM設定済”LTE対応USBドングル（PIX-MT110）＋選べるSIMタイプ」\nピクセラ、回線工事費とプロバイダ料金不要！ 4G/LTEのWi-Fi環境をどこでもつくれる「SIMフリーホームルーター」\nピクセラ＝https://www.pixela.co.jp/\n「PIX-MT200e」＝https://www.pixela.co.jp/products/network/pix_mt200e/\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669851_ext_05_0.jpg",
+        "publish_date": "2026-10-20",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:41:27.465744",
+        "last_checked": "2026-10-21T09:41:27.465744"
+    },
+    {
+        "title": "大きなダイヤルで簡単操作、ワイドFM対応で防災にも活躍する小泉成器のCDラジオ「SAD-4706／H」 - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261020_669838.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "大きなダイヤルで簡単操作、ワイドFM対応で防災にも活躍する小泉成器のCDラジオ「SAD-4706／H」\n2026.10.20 16:00\nスマホ・PC\nSHARE ON\nスマートフォンで音楽を聴くことが当たり前になった今でも、手軽にラジオやCDを楽しみたいというニーズは根強いといえる。そんなニーズに応え、しかも大きなダイヤルで直感的に操作できるラジオを探している人に向けた製品が、小泉成器の「CDラジオ（SAD-4706／H）」だ。\nCDラジオ（SAD-4706／H）\nコンパクトサイズながらCDとラジオに対応\nCDラジオ（SAD-4706／H）は、分かりやすい日本語表示と大きな操作ダイヤルが特徴。シンプルな設計で、機械操作が苦手な人でも直感的に扱える。\n分かりやすい日本語表示と大きなダイヤル\nCD再生に加え、AM／FMラジオの受信が可能。コンパクトサイズのため、リビングや寝室、子ども部屋など、さまざまな場所に設置しやすい。CDプログラム演奏やリピート演奏に加え、重低音機能も搭載。好みやシーンに合わせて音楽が楽しめる。ワイドFMに対応しているため、日常のラジオ視聴はもちろん、災害時の情報収集手段としても活用できる。\nCDプログラムやリピート演奏の機能を搭載\nCDラジオ（SAD-4706／H）は、シンプルな操作性と実用性を兼ね備えた1台。普段使いから防災用途まで、幅広い活躍が期待できそうだ。\n写真ギャラリー\nなぜ防災ラジオが売れてるの？ スマホ時代でも需要が続く理由と選び方\n日常使いもOK 災害時でもスマホが使える ハンズの担当者が選ぶ防災グッズ6選\n災害時にスマホが使えなかったら？ 通信障害に強いラジオの実力\n防災ラジオは本当に必要！？ ソニー「ICF-B09」を使って分かったスマホだけに頼らない安心感\n「防災」何から始める？オススメは「ながら防災家電」 アキバのヨドバシ担当者が選ぶ防災グッズ4選\n小泉成器＝http://www.koizumiseiki.co.jp/\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669838_ext_05_0.jpg",
+        "publish_date": "2026-10-20",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:41:30.222742",
+        "last_checked": "2026-10-21T09:41:30.222742"
+    },
+    {
+        "title": "ホーローキッチンなどさまざまな場面で活躍！　Velbon「マグマウント タブレット＆スマートフォンホルダー」 - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261020_669849.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "ホーローキッチンなどさまざまな場面で活躍！ Velbon「マグマウント タブレット＆スマートフォンホルダー」\n2026.10.20 15:30\nスマホ・PC\nハクバ写真産業\nSHARE ON\nハクバ写真産業は10月16日に、三脚ブランド「Velbon（ベルボン）」から、強力磁石を内蔵したマグネットベースとタブレット端末まで対応するホルダーを組み合わせた、「マグマウント タブレット＆スマートフォンホルダー」を発売した。価格は8550円。\n「マグマウント タブレット＆スマートフォンホルダー」\nの使用イメージ\nスマートフォンから大型タブレットまで対応\n「マグマウント タブレット＆スマートフォンホルダー」は、6個の強力な磁石を内蔵した垂直耐荷重30kgの強力マグネットベースを備えており、13インチクラスのタブレット端末を磁石が吸着する金属面にしっかりと固定できる。\n垂直耐荷重30kgのマグネットベースで、\n13インチクラスのタブレット端末を金属面にしっかり固定\nフレキシブルに角度を調整して、固定したまま水平方向だけ独立して回せる小型自由雲台が付属しており、微妙な調整も容易で、コンパクトながら固定力に優れているため取り付けた端末をしっかりと支えてくれる。\n微妙な角度調整が可能な小型自由雲台が付属\nホルダーは、上下それぞれ3段階での伸縮が可能で、6インチサイズのスマートフォンから、13インチサイズのタブレット端末まで取り付けられる。また、機器が接する面は発泡素材やゴム素材となっているので、機器を傷付けてしまうことはない。\nホルダーには6インチのスマホから\n13インチのタブレット端末まで取り付け可能\nホルダーアームを伸ばせば、スマートフォンを縦位置で固定でき、ホルダー下部の切り欠きに充電ケーブルを通せるため、バッテリー残量を気にすることなく長時間のライブ配信や動画撮影を楽しめる。\nホルダーアームを伸ばすことで\nスマホの縦位置での固定にも対応\nさらに、ホルダー上部にはアクセサリーシューに対応したLEDライトや、外付けマイクなどの取り付けが可能なので、より本格的な動画撮影やライブ配信にも対応する。\nアクセサリーシュー対応LEDライトや\n外付けマイクなどの取り付けも可能\nホルダー、雲台、ベースの3パーツ構成で、ベースと雲台でカメラを取り付けたり、ホルダーや雲台をそれぞれ手持ちの三脚や一脚、テーブル三脚と組み合わせたりと、シーンに合わせてパーツを使い分けられる。\n各パーツはシーンに合わせて使い分けが可能\n1台16役！ 次世代の自動調理家電「マルチグリルクッカー GRISIA」 11月発売\n「タブレット＆スマートフォンホルダー」がVelbonから、好みの高さや自由な角度で動画撮影\nコンパクトなのにマルチに活躍！ 一台三役のVelbon四脚でスマホ撮影が簡単レベルアップ\n1台3役で便利！ Coleman新作「セルフィー 3WAY mini四脚」がアウトドア撮影を変える\n「片手で開く」セルフィースタンド登場！ Velbon×Coleman新作「ティップタップ」\nハクバ写真産業＝https://www.hakubaphoto.co.jp/corporation/\n「マグマウント タブレット＆スマートフォンホルダー」＝https://www.hakubaphoto.jp/products/detail/1102260001-4H-00-00\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669849_ext_05_0.jpg",
+        "publish_date": "2026-10-20",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:41:32.969999",
+        "last_checked": "2026-10-21T09:41:32.969999"
+    },
+    {
+        "title": "Nikon Z5IIC対応の液晶保護フィルム　高硬度9H「EX-GUARD」と超低反射・高透明の2タイプ - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261020_669845.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "Nikon Z5IIC対応の液晶保護フィルム 高硬度9H「EX-GUARD」と超低反射・高透明の2タイプ\n2026.10.20 14:30\nスマホ・PC\nハクバ写真産業\nSHARE ON\nハクバ写真産業は、ニコンのミラーレス一眼「Z5IIC」に対応した液晶保護フィルム「Nikon Z5IIC ／ Z5II ／ Z50II ／Zf 専用 EX-GUARD 液晶保護フィルム」と「Nikon Z5IIC ／ Z5II 専用液晶保護フィルムIII」の2製品を発売している。\n「Nikon Z5IIC / Z5II / Z50II /Zf 専用 EX-GUARD 液晶保護フィルム」（左）と\n「Nikon Z5IIC / Z5II 専用液晶保護フィルムIII」\nぴったり専用サイズ\n「Nikon Z5IIC / Z5II / Z50II /Zf 専用 EX-GUARD 液晶保護フィルム」は、全光線透過率93％の高い透明度で、正確な色調と明暗の階調をストレートに映し出せる液晶保護フィルム。\nフィルム表面にエクストラハードコート処理を施すことで、ガラス並みの高硬度9Hを実現しており、鋭利なものが当たっても傷が付きにくいため、フィルムを美しい状態のまま保てる。\n曲げに強く割れにくいので貼りやすく、貼り付け時に入ってしまった気泡が自然に消えるバブルレスタイプのため、微細なホコリならシリコン粘着層が取り込んで気泡を発生させない。また、貼り付けに失敗してしまった場合でも、シリコン粘着層によって吸着力を損なうことなく貼り直せる。\nさらに、油や水をはじくフッ素コート処理が施されているので、フィルムに付着した指紋汚れなどを簡単に拭き取れるほか、指紋防止加工によって指紋が付きにくく、タッチ操作をしても指紋が目立ちにくい。\n価格は3300円。\n「Nikon Z5IIC / Z5II 専用液晶保護フィルムIII」は、反射光を抑える反射防止（AR）コートを採用することで、貼る前よりも高い視認性を実現した液晶保護フィルム。業界最高クラスの全光線透過率95.6％の透明度によって、正確な色調と明暗の階調をストレートに映し出せる。\nフィルム表面には、指紋が付きにくく付着した指紋も簡単に拭き取れる撥水・防汚効果のあるフッ素コートを施すとともに、静電気の発生を抑えて液晶画面にホコリやチリを寄せ付けない帯電防止効果も備えている。\nさらに、傷に強いハードコート処理を施すことで表面硬度3Hを実現しており、フィルム表面にすり傷や爪あとなどが残りにくく、液晶画面を美しい状態のまま保てる。\nシリコン粘着層の自己吸着性によって、フィルムを画面に置くだけで自然に貼り付き、貼り付け時に入ってしまった気泡は自然に消え、微細なホコリならシリコン粘着層が取り込んで気泡を発生させない。また、貼り付けに失敗してしまった場合でも、吸着力を損なうことなく貼り直せる。\nそのほか、フィルム貼り付け前に油膜やホコリ、指紋などの汚れを拭き取るのに便利な、三菱ケミカルが開発した超極細繊維のクリーナーが付属している。\n価格は1970円。\n1台16役！ 次世代の自動調理家電「マルチグリルクッカー GRISIA」 11月発売\n硬度9Hでしっかり守る！ 「Nikon ZR」用の液晶保護フィルムがハクバから\n業界最高クラスの超低反射と高透明さ！ ハクバが「Z5II」専用の液晶保護フィルムを追加\n「COOLPIX P1100」専用の液晶保護フィルムがハクバから、全光線透過率95.6％の透明度\n「Nikon Z50II」用の液晶保護フィルムがハクバから、全光線透過率95.6％\nハクバ写真産業＝https://www.hakubaphoto.co.jp/corporation/\n「Nikon Z5IIC / Z5II / Z50II /Zf 専用 EX-GUARD 液晶保護フィルム」＝https://www.hakubaphoto.jp/products/detail/0101230062-00-00-00\n「Nikon Z5IIC / Z5II 専用液晶保護フィルムIII」＝https://www.hakubaphoto.jp/products/detail/0101250021-00-00-00\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669845_ext_05_0.jpg",
+        "publish_date": "2026-10-20",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:41:35.846948",
+        "last_checked": "2026-10-21T09:41:35.846948"
+    },
+    {
+        "title": "アクロニス、プラカシュ・パンジワニ氏を最高経営責任者に任命 - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261020_669842.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "アクロニス、プラカシュ・パンジワニ氏を最高経営責任者に任命\n2026.10.20 14:04\nスマホ・PC\nアクロニス・ジャパン\nSHARE ON\nスイスのアクロニスは現地時間の10月15日に、同社の最高経営責任者（CEO）にプラカシュ・パンジワニ（Prakash Panjwani）氏が就任したことを発表した。同氏はヤン＝ヤープ（JJ）・ヤーガー（Jan-Jaap Jager）氏の後任となり、ヤーガー氏は引き続きアクロニスの株主として留まる。\nアクロニスの最高経営責任者（CEO）に就任したプラカシュ・パンジワニ氏\n次なる成長を牽引するリーダー\n今回、アクロニスのCEOに就任したプラカシュ・パンジワニ氏は、これまでグローバルなサイバーセキュリティー事業やMSP向けプラットフォーム事業を率いて、製品イノベーションを持続的な成長につなげてきた。\nWatchGuard TechnologiesおよびSafeNetのCEOを務めた、WatchGuardを率いた10年間には、ファイアウォールを中心とする事業から、AIを活用したエンドポイント検知・対応（EDR）、拡張検知・対応（XDR）、マネージド検知・対応（MDR）を備えた、より包括的なサイバーセキュリティープラットフォームへの進化を牽引した。\n同氏のチャネルビジネスを軸とする考え方、MSPエコシステムに対する深い理解、強固なチームを育成してきた経験、プラットフォーム事業を拡大してきた実績は、アクロニスの成長の勢いをさらに加速させ、次の成長段階を率いるうえで大きな強みとなることが期待される。\nサイバーセキュリティー、データ保護、インフラストラクチャ管理、サービス自動化を、設計段階から統合された単一のプラットフォームに集約するという同氏の方針は、アクロニスがパートナーへの継続的なコミットメントを果たし、事業の成長を加速させるうえで重要な役割を担う。\n1台16役！ 次世代の自動調理家電「マルチグリルクッカー GRISIA」 11月発売\nアクロニスのCISOにジェラード・ブショルト氏、セキュリティプログラムの構築と運用に実績\n上新電機、高橋徹也副社長が社長に、商号を「Joshin」に変更\n弥生が社長交代、元Googleの武藤健一郎氏が新社長に、前山社長は副社長に\nサードウェーブ、井田副社長が新社長に 法人事業を伸ばして5年後に売上高1000億円\nアクロニス＝https://www.acronis.com/ja/\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669842_ext_05_0.jpg",
+        "publish_date": "2026-10-20",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:41:38.762315",
+        "last_checked": "2026-10-21T09:41:38.762315"
+    },
+    {
+        "title": "背面にも！？ 両面ソーラー搭載で最大51日使えるZepp Healthのスマートウォッチ - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261020_669809.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "背面にも！？ 両面ソーラー搭載で最大51日使えるZepp Healthのスマートウォッチ\n2026.10.20 07:00\nスマホ・PC\nスマートウォッチ\nSHARE ON\nZepp Health Corporationは10月29日、登山・アウトドア向け「Amazfit T-Rex」シリーズの最新モデル「Amazfit T-Rex Dual Solar」を公式オンラインストアやAmazon.co.jpで発売する。希望小売価格は10万9800円。\n世界初 両面ソーラーのAMOLEDスマートウォッチ\n背面ソーラーは前面の2倍の受光面積 アウトドアでの安心の機能も充実\n新製品は、AMOLEDスマートウォッチとして世界初の両面ソーラー充電システムを搭載したモデル。本体前面に加え、ガラスセラミック製の背面にもソーラーパネルを備え、腕から外したときでも充電が可能となっている。なお、背面は前面の2倍の受光面積となっている。\nAmazfit T-Rex Dual Solar\n両面ソーラー充電システムを採用\nバッテリー持続時間は、通常使用で最大25日、前面ソーラー充電併用時で最大34日、背面ソーラー併用時で最大51日。アウトドア向けの省電力モードを備えており、長距離・長期間の登山などでもより長く探索を続けることができる。\nアウトドアでも安心のロングバッテリー\nGPS機能では、デュアルバンド6衛星測位システムと円偏波GPSアンテナを搭載。GLONASS、Galileo、BeiDou、QZSS（みちびき）、NavICに対応し、樹林帯や山岳地帯、渓谷など、測位環境が変化しやすい登山・アウトドアシーンでの位置情報取得を支援する。\nまた、ライブアクティビティ共有機能「LiveShare（ライブシェア）」で、リアルタイムの位置情報や進行方向、主なアクティビティ情報を、家族や友人、チームメイトと共有可能。単独での登山やトレッキング、ロングトレイルなど、離れた場所にいる家族や仲間に進行状況を伝えたい場面で活用できる。\n本体ボディーは、グレード5チタン合金のベゼルとボタン、繊維強化ポリマー製のミドルフレーム、グレード5チタンとガラスセラミックを採用したボトムシェルで構成されているタフネス設計。さらに、アメリカ国防総省の軍事規格認証「MIL-STD-810H:2022」で低圧、高温、低温、温度衝撃、湿度、振動、衝撃、液体汚染、着氷の9項目に関する試験をクリアし、10気圧防水で水深50mまでのレクリエーショナル・スキューバダイビングにも対応している。なお、タッチスクリーンにはサファイアガラスを採用し、キズに強い仕様だ。\n環境変化の大きいシーンを想定したタフネス設計\n1.32インチのAMOLEDディスプレーは最大3000nitと高輝度で、直射日光下でも表示を見やすい。\nこのほか、白色と赤色のフラッシュライトを内蔵。暗所での装備確認、緊急時に活用でき、赤色ライトは、暗闇に目を慣らした状態を保ちながら周囲を確認したい場面に適している。\n写真ギャラリー\n※Amazonのアソシエイトとして、BCN＋Rは適格販売により収入を得ています。\n￥109,800\nAmazonで見る\nAmazfit Balance 3 スマートウォッチ HYROXモード サファイアガラス ゴルフ機能 トレーニング 21日間ロングバッテリー AIによる音声操作と睡眠/運動管理 オフラインマップ GPS内蔵 ナビゲーション 170種類のスポーツモード iPhone Android対応 健康管理 通話機能 心拍数 ストレス アプリ通知 気圧高度計 (チタンブラック)\n￥75,800\nイヤーカフ型でもしっかり聴ける！ EDIFIER「ComfoBass Pro」は手頃な値段で高音質の“ちょうどいい”イヤホン\n持ち運んでこその安全 「iFace」全16色の半固体モバ充が登場 「iLiFE!」がアンバサダーに就任\n防災ラジオは本当に必要！？ ソニー「ICF-B09」を使って分かったスマホだけに頼らない安心感\n5年ぶり新モデルの「PEN」シリーズ 人気すぎて予約殺到 発売日決定も発送遅延の見通し\n緊急時のみ作動で髪型が崩れない スウェーデン発の自転車用エアバッグ AIで動きを検知\nAmazfit＝https://www.amazfit.jp/\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669809_ext_05_0.jpg",
+        "publish_date": "2026-10-20",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:41:41.512097",
+        "last_checked": "2026-10-21T09:41:41.512097"
+    },
+    {
+        "title": "重さ40gの“超”軽量ワイヤレスヘッドホン「PORTA」 finalから登場 - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261020_669808.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "重さ40gの“超”軽量ワイヤレスヘッドホン「PORTA」 finalから登場\n2026.10.20 06:00\nスマホ・PC\nヘッドホン・イヤホン\nSHARE ON\nfinalは10月23日、超軽量オンイヤー型ワイヤレスヘッドホン「PORTA」を公式オンラインストアや各家電量販店で発売する。市場想定価格は1万2800円。\n超軽量設計を採用したワイヤレスヘッドホンが登場\nヘッドホンの構成要素を最小限に抑えた新設計を採用\n新製品は、新設計の「エアワイヤー」構造により、約40gの軽さと頭部との接触面積の最小化を実現した超軽量のワイヤレスヘッドホン。ヘッドホンに必要な機能を保ちながら、構成要素を徹底して最小化した新設計を採用している。\n40gの超軽量設計\n超軽量だから荷物になりにくい\nエアワイヤー構造は、ヘッドホンで気になりやすい頭頂部への圧力を抑え、長時間の装着でも圧迫感なく使い続けられる設計。軽量ヘッドホンで難しいとされてきた「音の厚み」も実現し、声に厚みを感じられる中低域を持ちながら、いつでも聴きたくなる軽快なサウンドに仕上がっているという。\n長時間の装着でも圧迫感なく使える\n連続音楽再生時間は最大8時間、充電時間は約1.5時間。IPX4の防水性能を備え、通信方式はBluetooth 5.4。SBCとAACのコーデックに対応する。\n本体カラーは共通で、イヤーパッドがブラックとオレンジの2色展開\nなお、本体カラーは共通で、イヤーパッドの色が異なるオレンジとブラックの2色を展開。交換式のイヤーパッドは2027年に単品で発売する予定だ。\n写真ギャラリー\nイヤーカフ型でもしっかり聴ける！ EDIFIER「ComfoBass Pro」は手頃な値段で高音質の“ちょうどいい”イヤホン\n折りたためるサウンドバー 高音質なWi-Fiスピーカー JBLからホームオーディオ製品 5モデル\nNothing ブランド初のポータブルスピーカーは選べる2サイズ カラバリは4色\n【レビュー】聴きたい・着けたい・持ち歩きたい 三拍子そろったNothingの最上位ヘッドホンを日常使いで試す\n手のひらよりも一回り小さい「超ミニマルケース」、磁気研究所からIPX5防水対応ワイヤレスイヤホン\nfinal「PORTA」＝https://final-inc.com/products/porta\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669808_ext_05_0.jpg",
+        "publish_date": "2026-10-20",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:41:44.644375",
+        "last_checked": "2026-10-21T09:41:44.644375"
+    },
+    {
+        "title": "3畳のスペースがあれば自宅が映画館に、ビックカメラ新宿西口店で「チェアスピーカー」を実演中 - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261019_669800.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "3畳のスペースがあれば自宅が映画館に、ビックカメラ新宿西口店で「チェアスピーカー」を実演中\n2026.10.19 19:00\nスマホ・PC\nビックカメラ\nホームシアターシステム\nSHARE ON\nビックカメラ新宿西口店のプロジェクターコーナーでは、Audio Heartの「チェアスピーカー VRS-W1」を取り扱っている。卵形のシェルに14個のスピーカーを内蔵し、11.2chの立体音響により、部屋に映画館ができたような臨場感が楽しめる。3畳のスペースがあれば設置できる。2人掛け仕様のため、夫婦や家族で一緒に映画や音楽を楽しむこともできる。\nAudio Heartの「チェアスピーカー VRS-W1」\n一般家庭でも大音量で楽しめるシアター空間\nチェアスピーカー VRS-W1は、Dolby Atmosの再生に必要な11.2チャンネル（14個）のスピーカーを理想的な配置で内蔵しているのがポイントだ。チェアスピーカーに座ると、外部の音がスッと消え、没入感のある立体サウンドが楽しめる。\n卵形のシェルが防音の役目も\n卵形の硬いシェルが内部の音を漏れにくくしているので、近隣への迷惑もかからず、防音工事も不要だ。ホームシアターシステムのような大がかりなスピーカー設置工事やスペースも不要なので、賃貸物件でも導入できる。見た感じは大きそうに見えるが、必要なスペースは3畳ほどあれば設置できる。\nまた、側面や後方が遮蔽されていることもあり、専用の個室に入ったような感覚になる。クッションは長時間座っても圧迫感のないこだわりの素材と形状でつくっている。映画館のように、カップトレイが両サイドに設置されているのもうれしい。\nビックカメラ新宿西口店で実演中\n4Kテレビの前にチェアスピーカーを置いて、AVアンプやステレオアンプとつなげば、BDプレーヤー、CDプレーヤー、ゲーム機、PC、テレビ、ネットワーク経由のYouTubeやNetflixなど、多彩なコンテンツが楽しめる。Bluetooth経由で接続したスマートフォンなども、臨場感のある豊かな音で楽しめる。\n特に、映画やライブ映像などを自宅で楽しむ人におすすめで、従来のテレビ用スピーカーとは異なる新しいホームエンターテインメント商品として注目したい。価格は139万7000円。\n写真ギャラリー\n折りたためるサウンドバー 高音質なWi-Fiスピーカー JBLからホームオーディオ製品 5モデル\nREGZAが1位・2位独占、26年9月に売れたホームシアターシステムTOP10\n壁も天井も150°自在に投影！ XGIMIのプロジェクター「Elfin」から新製品\nプロジェクターでエプソンが4位に陥落、新旧交代で大激戦［道越一郎のカットエッジ］\n「Aladdin X」シリーズ最上位モデルを発表、育成できるAIパートナーの「ポッピィー」も搭載\nAudio Heart＝https://audio-heart.co.jp/\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669800_ext_05_0.jpg",
+        "publish_date": "2026-10-19",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:41:47.552286",
+        "last_checked": "2026-10-21T09:41:47.552286"
+    },
+    {
+        "title": "3600lmの高輝度で明るいリビングでも大画面・高画質映像が楽しめるエプソンジャパンのプロジェクター「EH-LS7000」 - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261019_669815.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "3600lmの高輝度で明るいリビングでも大画面・高画質映像が楽しめるエプソンジャパンのプロジェクター「EH-LS7000」\n2026.10.19 17:30\nスマホ・PC\nプロジェクター\nSHARE ON\nエプソンジャパンは10月29日から、3600lmの高輝度と2軸シフトテクノロジーによる4K映像表示に対応し、明るいリビングでも高画質な大画面映像を楽しめるレーザー光源採用の家庭用プロジェクター「EH-LS7000」を発売する。価格はオープンで、エプソンダイレクトショップの直販価格は32万7800円。\nEH-LS7000\n明るさを向上しながら静音性は25dBを実現\nEH-LS7000は、2019年に発売したEH-TW7100の後継モデル。投影方式は3LCDで、レーザー光源を採用し、明るさは従来の3000lmから3600lmに向上した。プロジェクターの設置専用空間だけでなく、日常的に過ごす昼間や照明をつけたリビングでも、迫力ある大画面映像を楽しむことができる。コントラストも従来の10万：1から500万：1へ飛躍的に向上した。\n明るさの向上と静音性はトレードオフの関係にあるが、EH-LS7000は従来よりも10dBダウンの25dBを実現。冷却ファンのレイアウトと構成を最適化し、騒音の発生源を低減することに成功した。\nまた、冷却技術ではPOP（Panel on Prism）により、内蔵温度センサーでリアルタイムに温度を検知。圧力センサーを活用して独自のファン制御を行っている。さらに、LSM（2Laser Light Source Module）では、空気の流れを最適化したエアフロー設計で効率的な冷却を実現した。\n高画質化では、従来の4Kエンハンスメントから、2軸シフトテクノロジーによる4K表示に進化。フルHDの1画素を上下左右の4方向に高速シフトすることで画素数を4倍にし、粒状感を抑えた精細な4K映像を実現する。\n4Kエンハンスメントから2軸シフトテクノロジーに進化\nさらに端子も豊富で、柔軟な設置性と、AV機器やストリーミング端末を自由に組み合わせられる拡張性を備え、利用環境に合わせたホームシアターづくりを実現する。\n従来との違いでは、新たに高性能TVチップを搭載。映像信号の解析やノイズ除去、色補正、コントラスト調整、解像感を高めるなどの処理を行う専用の半導体チップ「MediaTek MT9681」を採用している。\n高性能TVチップを搭載\nターゲットは本格シネマ好きやホームシアターにあこがれを抱く層\nエプソンジャパンによると、コロナ禍でプロジェクターの認知が拡大し、低価格帯モデルや小型のモバイルプロジェクターなども出てきたことから市場が拡大。プロジェクターがより身近な存在となり、「映画好きのための製品」から「気軽に楽しめる映像機器」となり、購入層のすそ野が広がっている。\n中でも20万円以上の高価格帯市場の構成比は、24年の4.65％から25年には8.0％へ拡大し、前年の約1.7倍となった。新規・買い替えを問わず、高画質で高機能、高品質な製品を求めるユーザーが増加しているという。映像の品質だけでなく、部屋に居心地の良い空間を演出し、暮らしや過ごし方を豊かにするアイテムになっている。\n市場全体としては動画配信サービスを投影できるOS搭載モデルが伸長している一方で、OS非搭載市場は縮小傾向ながらも、一定規模を維持。EH-LS7000は、高画質でOS非搭載を求めるユーザーをターゲットにしている。\n具体的には40～60代の男性で、本格シネマ好きやホームシアターにあこがれを抱く層、ガジェット好きがメインターゲット。この層に対して、50～70万円クラスの本格ホームシアターに迫る画質や視聴体験を、約30万円というコストパフォーマンスで実現できる点を訴求していく。\n写真ギャラリー\n※Amazonのアソシエイトとして、BCN＋Rは適格販売により収入を得ています。\nEPSON ホームプロジェクター EH-LS7000 3600lm 5,000,000:1 4K/HDR対応 Bluetooth対応\n￥298,000\nAmazonで見る\n「モバイルプロジェクター」で、いつでもどこでも映画館に\n「Aladdin X」シリーズ最上位モデルを発表、育成できるAIパートナーの「ポッピィー」も搭載\nXGIMIがブランド最高峰の4Kプロジェクター「HORIZON S Max」を発表\nプロジェクターでエプソンが4位に陥落、新旧交代で大激戦［道越一郎のカットエッジ］\nプロジェクターで地殻変動、Ankerがエプソンを抑え一時トップシェア【道越一郎のカットエッジ】\nエプソンジャパン＝https://www.epson.jp/\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669815_ext_05_0.jpg",
+        "publish_date": "2026-10-19",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:41:50.318176",
+        "last_checked": "2026-10-21T09:41:50.318176"
+    },
+    {
+        "title": "2024旭灿净化“压铸春晚”预约通道开启,看30个压铸新技术,瓜分10万元好礼",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjMzNTM0Mw%3D%3D&mid=2247534214&idx=1",
+        "source": "中铸",
+        "media": "中铸",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "2024旭灿净化“压铸春晚”\n\n中铸科技 \n\n2023年12月30日18:00-22:00\n\n「压铸春晚」是由中铸科技主办，以线上直播的方式进行，分享内容以当年度压铸行业新技术/新产品为主，旨在传播新技术、新产品，推动压铸行业的进步；同时，让30万压铸人足不出户便可了解全年的压铸行业风向。\n\n中铸科技继在2020年首次举办后，已连续举办了三届「压铸春晚」，每届春晚都取得了圆满成功。根据历史数据显示，「压铸春晚」关注度逐渐提升，其中2023年新增关注人数同比2022年上升27.4%；分享次数同比2022年上升13.3%；在线时长同比2022年上升37.8%。\n\n2023压铸春晚数据\n\n观看人数\n\n67911\n\n观看次数\n\n119655\n\n观看时长\n\n10分47秒\n\n同时在线人数\n\n3140\n\n点赞次数\n\n1098005\n\n评论次数\n\n14467\n\n分享次数\n\n5538\n\n新增关注人数\n\n5328\n\n2023年即将进入尾声，由中铸科技主办的2024旭灿净化「压铸春晚」将如期而至。本次征集了30家本年度有所创新的企业，于2023年12月30日晚18:00-22:00在微信线上分享他们创新成果。\n\n关于「压铸春晚」\n\n主题：\n\n2023年度压铸行业新产品新技术盘点\n\n活动时间：\n\n2023年12月30日18:00-22:00\n\n活动方式 ：\n\n微信视频直播+直播礼品抽奖\n\n主办单位：\n\n中铸科技\n\n独家冠名赞助：\n\n宜兴市旭灿净化设备有限公司\n\n独家合作媒体：\n\n《压铸周刊》传媒\n\n金牌赞助：\n\n深圳市品成金属制品有限公司\n\n积诚优机械设备（苏州)有限公司 \n\n上海辽远自动化科技有限公司\n\n苏州艾嘉亚真空科技有限公司\n\n广东老安智能装备科技有限公司\n\n宁波新昱智能科技有限公司\n\n东莞市永昇铸造材料科技有限公司\n\n浙江金佳润新材料有限公司\n\n中能智能机器人有限公司\n\n创斯特精密机械（昆山）有限公司\n\n东莞劲技智慧科技有限公司\n\n安徽万克姆科技有限公司\n\n广东柳泰焊接科技有限公司\n\n成都市天府石墨坩埚有限公司\n\n东莞市吉同镁合金科技有限公司 \n\n压铸春晚参与方式\n\n提前预约压铸春晚直播不迷路，预约后，直播开始后微信将有闹铃提示，点击提示即可进入直播间观看。\n\n点击卡片预约「压铸春晚」：\n\n30个新技术\n\n类别\n\n\t\n\n主题\n\n原材料\n\n\t\n\n■低碳再生一体化压铸免处理合金开发和应用    \n\n公司：苏州慧金新材料科技有限公司    \n\n熔炼\n\n\t\n\n■铝液净化整体解决方案之铝液过滤箱    \n\n公司：东莞市中弘源铝业发展有限公司    \n\n■铝合金熔保服务模式        \n\n公司：帅翼驰（安徽）机械设备有限公司  \n\n■自动监控与适配计算处理金属液处理系统     \n\n公司：维苏威铸造科技（江苏）有限公司  \n\n■热分析仪在铝合金冶金质量评估上的应用     \n\n公司：天津埃克申科技有限公司        \n\n■节能型池式保温炉（炉盖）  \n\n公司：重庆云彬科技发展有限公司            \n\n压铸机\n\n\t\n\n■力劲超大型一体化压铸应用与未来Dreampress16000T超级智能压铸单元    \n\n公司：力劲集团·深圳领威科技有限公司\n\n■海天金属镁合金注射成型机 HMG3000T\n\n公司：宁波保税区海天智胜金属成型设备有限公司\n\n■ 两板压铸机应用分享    \n\n公司：广东宝洋精密机械有限公司    \n\n■压铸机再制造技术    \n\n公司：中山市力艺机械有限公司    \n\n周边设备\n\n\t\n\n■  压铸岛高集成柔性工作站    \n\n公司：上海震界自动化设备制造有限公司  \n\n■  铝合金真空定量给汤系统AVD\n\n公司：富来（上海）压铸机有限公司    \n\n■  连杆式高效节能喷雾机    \n\n公司：东莞市合富莱自动化设备有限公司  \n\n■  超振装置在压铸行业的应用    \n\n公司：上海辽远自动化科技有限公司\n\n■  超大型一体化多级高真空系统 SP9001\n\n公司：苏州艾嘉亚真空科技有限公司\n\n■ 自动增压充氮车    \n\n公司：宁波捷仑机电设备有限公司    \n\n模具相关\n\n\t\n\n■  增材制造压铸模具排气镶件      \n\n公司：博乐特殊钢（上海）有限公司        \n\n■ 压铸模具无白亮层深层氮化工艺研发及应用\n\n公司：上大鑫仑材料科技（上海）有限公司        \n\n耗材配件\n\n\t\n\n■  新型激光冲头在在压铸上的应用          \n\n公司：青岛岩起压铸设备有限公司         \n\n■  压铸料筒新型修复技术-离子焊接和离子氮化 \n\n公司：宁波皓丽金属有限公司 \n\n后处理\n\n\t\n\n■  数控高速锯在浇冒口锯切中的柔性化应用 \n\n公司：积诚优机械设备（苏州）有限公司\n\n■  压铸件搅拌摩擦焊用铣焊一体搅拌头    \n\n公司：广东柳泰焊接科技有限公司    \n\n机加工\n\n\t\n\n■  兄弟加工中心D00系统  \n\n公司：翎创机电（上海）有限公司    \n\n■  超精密可调铰刀在 汽车零部件加工应用中的突破\n\n公司：张家港晟业科技有限公司\n\n检测\n\n\t\n\n■  柔性氦检机在压铸件气密性检测上的应用\n\n公司：尊道（上海）自动化设备有限公司 \n\n表面处理\n\n\t\n\n■  新能源汽车高压线束钝化处理\n\n公司：深圳市钝化技术有限公司\n\n■  新型环保铝合金与镁合金共线皮膜&镁合金与铁共线皮膜介绍\n\n公司：东莞市吉同镁合金科技有限公司\n\n软件\n\n\t\n\n■ FLOW-3D AM 在压铸模具中随形镶件3D打印上的应用 \n\n公司：三维流动贸易（上海）有限公司\n\n■  基于数据流＋价值流的压铸工厂数字化解决方案\n\n公司：宁波数益工联科技有限公司\n\n■  中铸AI\n\n公司：宁波中铸信息科技有限公司\n\n16家企业助力压铸春晚\n\n由中铸科技主办的“2024旭灿净化压铸春晚”迎来了16家赞助企业对本届「压铸春晚」的大力支持。\n\n独家冠名赞助 \n\n宜兴市旭灿净化设备有限公司\n\n压铸行业废气净化方案提供商\n\n「压铸春晚」连续4年的独家冠名赞助商，这是一家专注于压铸废气净化及脱模剂回收利用等环保设备研发、生产及销售；其技术和研发实力雄厚，拥有国内领先水平的优秀团队和制造工艺，旭灿怀揣着对环保事业的一份热情，竭力为各大压铸企业解决污染排放问题！\n\n金牌赞助\n\n深圳市品成金属制品有限公司\n\n聚焦客户的需求与挑战，提供可靠的压铸模具及整体解决方案。\n\n一家专业的压铸模具设计与制造企业，专注于铝、锌、镁合金压铸模具的设计与制造。\n\n公司拥有2个工厂和1个获得CNAS认证的实验室，所生产压铸模具可匹配60T-6600T压铸机，累计为客户提供了超过5000套压铸模具。可根据客户自动化生产线提供压铸模具的整体解决方案，即从最初的铸件设计优化、生产参数模拟及调整、自动冲切方案到复制模的结构与成本优化，充分考究产品全生产周期在模具上的投入与产出。\n\n公司网址：www.precisioner.cn\n\n金牌赞助 \n\n积诚优机械设备（苏州)有限公司\n\n面对难题，我们兴奋不已！\n\n一家为压铸行业量身打造的高速带锯机，是以压铸行业柔性化生产为基础，专业开发的行业专用机种，具有体积小，速度快，效率高，易集成等特点，该机可直接安装于压铸岛内，并与机械手配合，通过编程等软件的调整，实现多品种快速切换的柔性化生产，有效的提升压铸产线的灵活性和高效性。\n\n金牌赞助\n\n上海辽远自动化科技有限公司\n\n服务压铸 持续创新 共同发展\n\n企业主要生产压铸机器人取件喷涂系统、冷却装置、咚咚机、油压机、激光刻字装置、等离子切割装置，模具高压点冷、真空机、配比机、模具温度控制与监控装置、除尘装置等各类压铸周边设备。主要客户有：特斯拉，本田汽车，丰田汽车，阿雷斯提、广岛铝业、利优比、美诺精密、宁波旭升、爱柯迪、嘉陵本田、南通旭东、长春中誉、凯斯曼集团、力劲集团、南京泉峰、大冶摩托、五羊本田、广东鸿图、豪爵工业、宇部兴产、昆山拜腾、太仓科曼等知名企业。\n\n金牌赞助 \n\n苏州艾嘉亚真空科技有限公司\n\n匠心智造，品质未来\n\n公司2010年成立以来引用德国真空技术匠心制造，多年来专注于新能源、压铸领域真空技术开发及研究。汽车轻量化的深入，传统铸件的改善，市场对压铸产品的要求普遍提高，艾嘉亚真空团队在真空技术、压铸工艺等方面展开深入研究，用自我创新精神开发出新一代，HG、SP系列单机、集成超高真空机系统。被动关闭全套系列真空阀，主动关闭系列真空阀。并可配合各压铸企业开发设计，定制非标真空机/真空阀及提供全套真空压铸整体解决方案。\n\n金牌赞助\n\n广东老安智能装备科技有限公司\n\n老安智能  科技改变生活 创新造福人类\n\n创始人安立军先生潜心研究16年，带领团队自主研发的产品遍布汽摩，厨卫，运动医疗，3C，5G.家具家电等行业，在机器人表面处理领域具有绝对的优势。\n\n帮助客户实现快速换款和机器人去毛刺完全自动化，投资回报1-2年。\n\n针对中国工厂的使用环境研发全系列80多款电动和气动浮动主轴，确保恒力浮动，过压接触和完美贴合；应用于压铸，铸造，锻压塑料及冲压产品。国内外200多家知名压铸厂使用我们的浮动主轴和打磨抛光设备。\n\n官网：www.laoanautomation.com\n\n金牌赞助 \n\n宁波新昱智能科技有限公司\n\n致力于打造国内领先的高端模温设备供应商\n\n国内首家自主研发生产汽车零部件整体模具温控设备的厂家，公司成立目的是为汽车行业的汽车件，新能源汽车件中的大型车身结构件提供保驾护航的服务，是致力于解决汽车件的良品率低，效率低，节拍慢，成本高等问题。\n\n公司专注于对模具温控领域的研究。现拥有专业的工程师及研发团队，深入研究模具温控技术，公司产品经过长时间测试及更新取得了显著成果，现推出高性能、高精准的温控设备，高压点冷机、模冷机、机边冷却单元、高温水模温机、CTM大型中央高温水路控制单元、油模温机、模具清洗机、模温集成式管路、TCUI模温集控系统等一站式温控服务。\n\n金牌赞助\n\n东莞市永昇铸造材料科技有限公司\n\n品质优良、不断改善，顾客至上、永续经营\n\n主要从事研发、生产、销售金属合金铸造脱模剂，硅油乳液、长链烷基芳基硅油、氧化聚乙烯蜡乳液。颗粒润滑剂，被覆剂、除渣剂等压铸耗材和辅材及离型剂配比机、自动润滑颗粒机、脱模剂回收系统设备的生产厂家。\n\n 公司自主研发的生产工艺和技术配方，采用优质原材料进行生产。并在脱模剂行业领域中享有较高信誉，目备受同行和广大客户的尊重。公司独立研发的“永昇”系列合金压铸脱膜剂已畅销西南、长三角及珠三角地区，并成功出口至东南亚市场，效果甚佳。\n\n金牌赞助 \n\n浙江金佳润新材料有限公司    \n\n埋头实现价值，踏实体现可靠\n\n公司严格按照ISO9001进行生产管理，从来料检验到生产管理到成品检验都严格按照标准执行。生产现场为全自动化的智能制造工厂，并拥有完备的检验检测设备。\n\n公司致力于为客户提供优质稳定的产品和及时有效的售后服务。\n\n主营产品： 铝镁合金脱模剂剂，液态模锻脱模剂，铜/铝/铁锻造脱模剂，水性油性/冲头油，脱模剂浓缩液\n\n金牌赞助\n\n中能智能机器人有限公司\n\n中能领航，创造无限可能\n\n中能智能机器人从 2018 年成立起 ，就坚持探索前所未有的质量标准。 通过智能化、数字化与模块化的去毛刺技术、 先进去毛刺及清洗解决方案 ，为客户解决粗加工去毛刺 ，精加工后去毛刺和清洗的痛点、难点。注重提升生产效率、提  高产品质量、降低生产成本的同时 ，在产品的稳定性和使用寿命、保养、安全防护等人性化设计方面表现出色。\n\n金牌赞助 \n\n创斯特精密机械（昆山）有限公司\n\n争创压铸模具精密配件全球领导者\n\n一家制造非标准精密压铸模具配件的高新技术企业。总部位于江苏省苏州昆山市，拥有昆山，太仓，常熟现代化的三大生产基地和一支经验丰富的技术团队。多年来，一直致力于为客户提供高要求高品质的精密压铸模具零配件，广泛应用于汽车、电子、医疗、航空等领域。\n\n产品原材料采用日本、德国、瑞典、奥地利进口，性能稳定，热处理则有专业厂家配套服务，并配以先进的生产设备（真空氮氧化炉）及一批经验丰富并热爱学习的专业技术人才，使产品的精度、性能、使用寿命更胜一筹， 产品远销国内外市场，深受客户信赖。\n\n金牌赞助\n\n东莞劲技智慧科技有限公司\n\n使用劲技浓度配比机，让压铸人彻底省心省事\n\n公司创立于2003年3月，专注颗粒机、脱模剂比例式配比机(仅适用清水和脱模剂配比)、针对近年来脱模剂废水回收使用过程中发臭、油水分离不干净、浓度过高导致的积碳、铸件发黑，劲技浓度配比机(又称:脱模剂循环设备)应运而生，通过数百家客户使用验证得出结论:\n\n与传统的脱模剂回收设备比较有以下优点:\n\n一、节省脱模剂用量40%以上\n\n二、无任何耗材让压铸人省心省事\n\n三、无任何臭味，油水分离后洁净\n\n四、浓度传感器全自动浓度配比，浓度更精准，铸件品质更稳定\n\n五、优先使用脱模剂循环液，废水不会越用越多\n\n六、100%循环利用后仅剩余废油、油泥，为节能、减排、循环、环保贡献一份力量。\n\n金牌赞助 \n\n安徽万克姆科技有限公司\n\n品质为本、诚信立足、创新致远、服务至上\n\n自主研发、制造和销售气密性检测仪、气密性检测系统及其配套检具，公司拥有自主知识产权和持续创新能力，经营业绩稳定增长的高新技术型企业；公司始终以市场为导向，以科研为核心，发展模式是一种哑铃式发展结构，一头在市场、一头重研发，拥有一批经验丰富的研究应用技术团队，稳健高效的运营团队和专业的销售队伍，主要成员均具有十多年的检漏行业从业经验，有丰富的经验和技术实力，积极开展国内外交流与合作，通过多年的艰苦努力和不懈奋斗，公司部分产品已具有很强的国际竞争力，产品品质已达到国内外领水平\n\n金牌赞助\n\n广东柳泰焊接科技有限公司\n\n以搅拌摩擦焊助力各行各业轻量化、绿色化\n\n一家集研发、生产、销售和技术服务为一体的国家高新技术企业，通过了ISO9001:2015质量管理体系认证和GB/T 29490-2013知识产权管理体系认证。作为搅拌摩擦焊接设备及焊接方案提供商，公司专注于搅拌摩擦焊接设备、搅拌头和焊接工艺技术服务。通过自主创新，公司已开发30余款搅拌摩擦焊设备、3000余款搅拌头、8大材料及产品焊接工艺数据库，实现了铝、镁、铜、锌、铅、钛、钢等同材及异材的高质量焊接。公司产品广泛应用于汽车工业、通讯电子、轨道交通、船舶工业、国防军工、航空航天、电力冶金、建筑家电、科学研究等领域，并得到华为、比亚迪、长城、理想、吉利、西门子等终端客户的一致好评。\n\n金牌赞助 \n\n成都市天府石墨坩埚有限公司\n\n专业专注四十载，天府坩埚启未来\n\n成立于1983年，“天府牌”石墨坩埚为冶金、汽车、新能源、信息、军工行业提供先进的技术和科学的服务，是国内最早的石墨坩埚“高新技术企业”。2010年受全国钢标准化技术委员会委托，我们独立担纲起草了GB/T26279-2010《石墨坩埚》国家标准，填补了中国石墨坩埚行业无国家标准的空白。公司现已形成以适用于有色金属压铸铸造的等静压石墨坩埚为基础，以适用于锂电池负极材料预碳化和高温碳化的石墨坩埚为增长点，以适用于负极材料超高温提纯的炭素坩埚为补充的天府石墨坩埚三大产品体系。\n\n金牌赞助\n\n东莞市吉同镁合金科技有限公司\n\n“诚信、团结、创新、尽责”与您共创世界“镁”好未来\n\n国内首创独特的镁合金[陶化]【纳米硅烷】处理技术，高耐盐雾96小时持续稳定。自有独特的“铁铝”、“镁铁”和“镁铝”共线处理方案。\n\n铝合金压铸件新型除油除膜处理剂，可彻底去除压铸铝的油和脱模剂，不残留黑灰可以取代传统的铝酸脱和除油剂，除油除硅二合一，对铝压铸件具有很好的除灰增亮效果。\n\n铝合金环保拉白剂（需要冷却设备）、常温拉白剂（兑水使用），封闭剂封闭后耐指纹效果，具有疏水性，耐盐雾1000小时。\n\n22种礼品，4505份，福利派送\n\n2024旭灿净化“压铸春晚”中铸科技定制了一批礼品，累计金额超过10万元，礼品数量4505份，礼品种类共计22种，礼品将通过春晚宣传有礼、直播间抽奖形式送给观看「压铸春晚」的同仁，让大家在了解行业新技术之余，还能分享到一份额外的喜悦。\n\n\t\n\n轻麦电动滑板车\n\n\t\n\t\n\n观世音浮雕盘\n\n\t\n\n32g U盘\n\n\t\n\t\n\n毕加索宝珠笔\n\n\t\n\n爱国者128g U盘\n\n\t\n\t\n\n力劲压铸机模型积木\n\n\t\n\n乐扣保温杯\n\n\t\n\t\n\n咖啡杯盒装\n\n\t\n\n2024年台历\n\n\t\n\t\n\n中铸雨伞\n\n\t\n\n本笔套装\n\n\t\n\t\n\n手机支架\n\n\t\n\n压铸人徽章\n\n\t\n\t\n\n小米指甲剪\n\n\t\n\n户外折叠椅\n\n\t\n\t\n\n超人剃须刀\n\n\t\n\n小米双肩包\n\n\t\n\t\n\n卡通抱枕被\n\n\t\n\n小米充电宝\n\n\t\n\t\n\n爱国者32g U盘\n\n\t\n\n300ml乐扣保温杯\n\n\t\n\t\n\n车载支架\n\n轻麦电动滑板车\n\n观世音浮雕盘\n\n积诚优32g U盘\n\n毕加索宝珠笔\n\n爱国者128g U盘\n\n力劲压铸机模型积木\n\n乐扣保温杯\n\n咖啡杯盒装\n\n2024年台历\n\n中铸雨伞\n\n本笔套装\n\n压铸人徽章\n\n手机支架\n\n小米指甲剪\n\n户外折叠椅\n\n超人剃须刀\n\n小米双肩包\n\n卡通抱枕被\n\n小米充电宝\n\n爱国者32g U盘\n\n300ml乐扣保温杯\n\n车载支架\n\n左右滑动可看所有礼品图片\n\n联系我们\n\n活动咨询\n\n樊艳 女士\n\n电话：18667412797（微信同号）",
+        "image_url": "",
+        "publish_date": "2023-12-22",
+        "keywords": {
+            "core": {
+                "压铸": 80,
+                "一体化压铸": 2,
+                "铝合金": 6,
+                "镁合金": 22
+            },
+            "downstream": {
+                "电动车": 2
+            }
+        },
+        "prefilter_score": 53,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:42:23.455576",
+        "last_checked": "2026-10-21T09:42:23.455576",
+        "channel": "wechat_sogou",
+        "query": "压铸"
+    },
+    {
+        "title": "汽车一体化压铸火了!多只概念股大幅拉升",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5MDEzNjQwMA%3D%3D&mid=2655655015&idx=4",
+        "source": "中国基金报",
+        "media": "中国基金报",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "中国基金报见习记者 文夕\n\n马斯克所推崇的汽车一体化压铸在A股市场上迎来风口。多家券商发布近日研报看好一体化压铸对成本的压降效果，认为这一由特斯拉引领的技术将引领国内造车新势力跟进，预期这一技术革新的浪潮将至。\n\n15日早盘，这一概念板块相关个股掀起涨停潮，其中，立中集团截至盘中涨幅达19.14%，而包括瑞鹄模具、广东鸿图、文灿股份悉数涨停，拓普集团以及云海金属也涨逾7%，整体概念板块涨幅达8.1%。\n\n造车新势力集体布局\n\n汽车一体化压铸最早是由特斯拉于2019年提出，成功把原本需要七十几个零部件焊接而成的后底板，简化成了一到两个一次性冲压成型的压铸件。\n\n从实践来看，一体化压铸材料是免热处理铝合金，拥有明显的轻量化优势。“而新能源车每省下一点车身重量，跑同样的距离就可以少带一点电池。虽然铝合金的成本贵一些，但能省下电池材料和人工费用，”一位汽车行业券商分析师表示。\n\n以特斯拉的Model Y生产线为例，随着一体化压铸技术大规模得到应用，其制造时间已经从原先的1-2小时缩短为2分钟以内，生产线占地面积节省30%，工人数量只需要原来的1/10。按照特斯拉的评估，单就这项工艺技术就节省了企业20%的制造成本。\n\n目前，一体化压铸技术已被特斯拉大规模应用。根据特斯拉一季度业绩电话交流会议，未来Cybertruck车型也将在后地板上应用这一技术。此外，其他车企正在积极跟进，目前主机厂、压铸机设备厂、模具厂、材料厂、铝压铸企业均大力布局一体化压铸。蔚来、理想、小鹏、华为问界、长安、小米、一汽等国内车企均已规划布局该工艺，行业趋势明确。\n\n核心供应商收益预期明显\n\n作为上述新势力供应商，国内多家上市公司有着获益预期。\n\n其中蔚来车身结构核心供应商文灿股份近日互动平台上表示，截至目前除已经获得项目定点的客户，现在有5-6家客户在和公司沟通大型一体化车身结构件产品的研发，有国内客户也有国外客户，这些客户项目预计在2023年-2025年开始量产。\n\n值得一提的是，文灿股份5月曾公告，公司与立中集团在新能源汽车的大型一体化车身结构件、一体化铸造电池盒箱体等产品的材料开发和工艺应用领域建立战略合作关系，共同开发适用于大型一体化铝铸件的免热处理材料。\n\n另一压铸头部企业广东鸿图发布公告称，公司于6月10日收到广州小鹏汽车科技有限公司发出的定点开发通知，小鹏汽车决定选择公司作为某车型底盘一体化结构件产品的供应商。\n\n据了解，广东鸿图拟引入一体化压铸工业生产线，开始建设一系列一体压铸工艺车间，预计将用于2023年发布的新车型生产中。据广东鸿图披露，公司新增的6800吨压铸单元已于今年1月正式投产，公司后续将结合市场需求情况布局新产能，其新开发的6800T新能源汽车超大型一体化铝合金后地板压铸结构件产品已于1月成功试制。\n\n此外，伊之密近期也在互动平台上表示，公司在一体压铸等领域的进展顺利，7000吨大型压铸机的调试工作已完成，公司会抓紧与客户进行接触，争取尽快落实订单。\n\n渗透率或迅速提升\n\n从行业和供需市场情况来看，目前，一体化压铸技术在汽车产业的渗透率仅为12%，去年市场规模也只有85亿元。但机构对这一赛道预期颇高，认为一体化压铸技术是未来的发展趋势，其渗透率将逐步提升，有望替代现在的冲压焊接工艺。\n\n广发证券也表示，特斯拉Model Y 一体化压铸后底板已实现量产，前舱总成试验下线、CTC 后上盖集成于车身不断推进。蔚来、小鹏等国内新势力加速跟进，2022 年产业化有望加速落地。\n\n有机构认为，考虑新技术导入车型的开发周期，预计从2023年开始一体化压铸的市场空间将迎来快速提升。据天风证券测算，国内一体化压铸的市场空间到2025年预计将达272亿规模，2022-2025年的CAGR高达221%。\n\n国泰君安证券认为，一体化压铸加速渗透，推荐具备优势地位的赛道龙头。预计具有先发布局优势的上中下游厂商将持续加强合作，逐步搭建起稳定生态，建立深厚行业护城河。未来随着一体化压铸市场快速扩容，先发布局的上中下游厂商将共享红利。\n\n编辑：舰长\n\n版权声明\n\n《中国基金报》对本平台所刊载的原创内容享有著作权，未经授权禁止转载，否则将追究法律责任。\n\n授权转载合作联系人：于先生（电话：0755-82468670）",
+        "image_url": "",
+        "publish_date": "2022-07-15",
+        "keywords": {
+            "core": {
+                "压铸": 25,
+                "一体化压铸": 18,
+                "铝合金": 3
+            },
+            "downstream": {
+                "电动车": 1
+            }
+        },
+        "prefilter_score": 40,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:42:29.479203",
+        "last_checked": "2026-10-21T09:42:29.479203",
+        "channel": "wechat_sogou",
+        "query": "压铸"
+    },
+    {
+        "title": "一体化压铸,电动车降价的第二法宝?",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI1ODI4Mjk1MQ%3D%3D&mid=2247522023&idx=2",
+        "source": "格隆",
+        "media": "格隆",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "作者 | 弗雷迪\n\n数据支持 | 勾股大数据（www.gogudata.com）\n\n一体化压铸再迎重磅利好！\n\n近日，国家多部委发布关于推动铸造和锻压行业高质量发展的指导意见，努力提高铸造和锻压行业总体水平，保障装备制造业产业链供应链安全稳定。\n\n发展先进铸造工艺与装备，提高供应链韧性，必定离不开核心技术、关键材料的攻关，一体化压铸是首当其冲的。\n\n作为汽车工艺具备革新性质的压铸技术，一体化压铸能够帮助电动车实现更低的制造成本，提高生产效率以及续航里程。\n\n现如今电动车渗透率已经站上了30%，电动车企开始更加拥挤的赛道里内卷，一体化压铸会是打开车企进一步降本空间的法宝吗？\n\n1\n\n效仿特斯拉开启降本之路\n\n近期频繁降价的特斯拉，一体化压铸技术是在他的发明专利上向外推广，也正由于追求极致的技术降本空间，特斯拉能够以20%以上的毛利率笑傲整片新能源江湖，在嗅到市场供需力量反转时有能力率先降价。\n\n20年特斯拉电池日发布会上，马斯克就表示，ModelY将采用一体式压铸后地板总成，相比原来形式可减少79个部件，焊点由700-800个减少到50个。\n\n并且，特斯拉一体压铸的后地板总成不需要进行热处理，整个制造时间由传统工艺的1-2小时缩减至3-5分钟，整体制造成本下降40%。\n\n最终，由2-3个大型压铸件替换由370个零件组成的整个下车体总成，重量将进一步降低10%，对应续航里程可增加14%。\n\n在材料使用上，一体化压铸方案与主流车身相比更具性价比。传统汽车车身的主要材料是钢铁，而轻量化的本质，就是用质量更轻的铝合金等低密度材料来代替钢材。\n\n一体化压铸方案通过减少焊接连接点，降低了加工成本，并且废料回收可以直接融化并重新铸造，实现了回收利用。\n\n但缺点是不易维修，由于车身都是一体化焊接，铝制车身的可修复性较差，一旦发生碰撞的维修费用很高。\n\n特斯拉CEO马斯克曾这样形容一体化压铸工艺，“一体式压铸技术可以让特斯拉造新车像造玩具车。”特斯拉在一体化压铸上的进展远远领先于其他车企，Model Y已经正式交付。\n\nModel Y的第三代4680电芯采用了全新的一体式底盘电池包，使得前后车身和电池包形成了三合一底盘，新结构具有更高的结构强度和刚度。\n\n一体化压铸等技术的使用，帮助特斯拉实现了几件事情，一是更快的生产效率，工厂产能规模在过去几年有了质的飞跃，特斯拉当周的产量更是超过了老牌企业丰田；二是更低的制造成本贡献了较大的利润空间，在未来可预见的价格战之下，特斯拉的降价资本更大一些。\n\n产业端的加速会让自主品牌更有竞争优势，随着汽车轻量化、电动化发展，一体化压铸技术开始受到造车新势力、传统车企新能源部门的青睐。\n\n国内蔚来采用一体化压铸后副车架的ET5也在去年末正式发布。小鹏、理想、高合、与华为深度合作的赛力斯汽车的一体化压铸已提上日程，估计在2023年将陆续上车。\n\n2\n\n设备材料是关键壁垒\n\n在车企降本需求，政策支持技术攻克的背景下，未来三年将会成为一体化压铸的高速成长期。据信达证券，2025年一体化压铸设备新增规模将达到108.9亿元，年复合增长136%，零部件规模将达到476.4亿元，年复合增速达到258%。\n\n产业链上游是设备、材料和模具厂商，中游是压铸厂，下游是主机厂。主机厂向中游压铸厂商采购压铸件，也有的自行采购物料生产。\n\n压铸的三大壁垒来自设备、材料、工艺，部分环节目前的国产化率还比较低。\n\n大型压铸机是实现一体化压铸的基础，压铸机锁模力一般需要在6000T以上，国内制备6000T压铸机的设备商有力劲科技，海天金属和伊之密。\n\n压铸机吨位继续往上走，压铸件的尺寸和结构就可以进一步突破。一体化压铸零部件尺寸更加大型，超大型压铸机过去还一直处于空白。直到去年9月，力劲科技和广东鸿图发布了12000T超大型智能压铸单元，是迄今为止全球最大的吨位的压铸机。\n\n压铸设备产能和成本也影响着这些技术的推广速度，大型设备采购单价较高，需要大量生产降低边际成本，设备端的增长有望在今年最先得到验证。\n\n材料分为模具材料和免热处理合金材料。一体化压铸要求下，模具在设计和原材料选取上需要满足高精密度、低耗能、高一致性的特性。主机厂与模具商合作设计和改进的周期长达两年以上。多数中游压铸商因为不具备自研模具的能力，需要进行外购。\n\n大型铝合金在热处理过程中容易引起尺寸变形，免热处理材料技术复杂，国产材料大多难以满足材料强度，目前能够批量提供这种材料的厂商只有美国铝业、德国莱茵菲尔德和特斯拉，国内厂商正在积极研发中。\n\n中游压铸厂商具有丰富的行业Know-how和客户资源，分别采购大型压铸机打入新势力车企的供应链，包括与蔚来、理想合作的文灿股份，以及向小鹏提供压铸件的广东鸿图。\n\n随着电动车企加快轻量化转型，车身制造成本还有20%-40%的降本空间，今年各家新发车型的量产交付将会带动一体化压铸的推广，配合政策，将迅速地加快这项技术应用的发展。\n\n二级市场在行业发展初期就对这项技术寄予较高的预期，但雷声大雨点小。今年客户新车型的上线是否给行业带来了超预期的需求，还需要用业绩来确认。（全文完）\n\n近期全球股市频频异动，国内市场也是暖风频吹，行情还能涨吗？投资机会在哪？风险又在哪？\n每个交易日，格隆汇投资学苑直播间，都会邀请格隆汇研究院的院长、研究总监、各大行业首席，为大家讲解当天行情、挖掘投资机遇、提示投资风险，还会分享投资理念、投资经验，我们只讲干货，欢迎大家关注我们的视频号“格隆汇首席学苑”，还可以点击下方链接预约直播。\n▍往期回顾",
+        "image_url": "",
+        "publish_date": "2023-04-17",
+        "keywords": {
+            "core": {
+                "压铸": 41,
+                "一体化压铸": 21,
+                "铝合金": 2
+            },
+            "downstream": {
+                "电动车": 5
+            }
+        },
+        "prefilter_score": 41,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:43:07.467216",
+        "last_checked": "2026-10-21T09:43:07.467216",
+        "channel": "wechat_sogou",
+        "query": "一体化压铸"
+    },
+    {
+        "title": "一体化压铸为何成为反弹主力?",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAyNzMwMA%3D%3D&mid=2650177645&idx=2",
+        "source": "证券之星",
+        "media": "证券之星",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "9月20日，一体化压铸概念股震荡走强，成为两市涨幅最大的细分主题。\n\n一体化压铸为何成为了资金热捧的主题？投资者可以关注哪些产业链投资机会？本文将详细解析。\n\n01\n\n一体化压铸成\n\n新能源车行业变革趋势\n\n一体化压铸指的是车体零件的一体化，也就是将原本设计中分散的多个小零件重新设计，高度集成，再用大型压铸机一次成型，省去了焊接过程，直接得到一个大的完整零件。一体化压铸工艺比传统高压铸件具有更大的规格和省略热处理工序。一体化压铸又分为广义和狭义两大类，广义一体化压铸指替代冲压-焊接件，将多个零件变成一个压铸件，狭义的一体化压铸主要指使用6000吨以上的大型压铸机。\n\n传统车体制造工艺采用冲压-焊接-涂装-总装流程.采用一体化压铸技术，将分散的多个小零件重新设计，高度集成，再用大型压铸机一次成型。据马斯克透露，采用一体化压铸工艺的 Model Y后部地板，可以降低下车身总成的重量30%，同时降低生产成本40%。\n\n此外，特斯拉还计划使用2到3个大型压铸件，包括370个零件，重量进一步降低10%，相当于增加14%的续航里程。根据建约车评的数据，以普通电动车电池80 kWh为例，若采用整体压铸式减重方式，电池容量可减少约10 kWh。以目前磷酸铁锂电池每千瓦时600元的成本计算，单车成本可以降低6000元。\n\n特斯拉于2020年9月宣布， Model Y后部地板将采用一体化压铸工艺；根据 Austin公司22一季度的季度报告，采用一体化压铸的 ModelY产品已扩展至前舱+后地板。未来除覆盖件外，其余车身结构件的压铸、焊接等环节可能全部由压铸工艺替代，一体化压铸零件 ASP有望持续提升。\n\n考虑到新技术导入车型的开发周期，天风证券预计，2023年以后，一体化压铸市场将迎来快速增长。根据天风证券的预测，到2025年，国内压铸一体化市场规模预计将超过300亿，2022-2025年 CAGR达到238%。\n\n02\n\n逆势增长成为反弹主力\n\n根据目前文灿股份、广东鸿图、旭升股份、爱柯迪、泉峰汽车等5家压铸件公司已经发布中报，从22Q2单季度看：\n\n①收入同比分别为22%、-3%、42%、21%、-12%,总体看强于行业表现；\n\n②毛汽车行业估值(PE) 利率分别为 17.2%、19.2%、22.6%、26.8%、8.2%, 环比2022第一季度变化分别为-2.2pct、+1.2pct、+2.3pct、+3.4pct、-7.7pct，总体改善；\n\n③归母净利润同比分别为145%、121%、28%、41%、-224%,大幅增长；\n\n④最终归母净利率分别为4.7%、10.9%、15.5%、13.8%、-11.5%，环比22Q1变化分别为-1.6pct、+6.2pct、+3.4pct、+4.4pct、-15.9pct。\n\n总体来看，上述一体化压铸概念的代表公司在二季度的业绩表现远超预期，体现出了该细分行业的阿尔法十分显著。那除了压铸件公司，该行业还有哪些机会值得关注呢？\n\n大型压铸机是一体化压铸的核心设备，生产工艺及经验技术壁垒较高，目前仅力劲科技、伊之密等少数厂家具备交付能力；汽车轻量化发展趋势下，下游车企加速布局一体化压铸技术，部分已进入招标阶段，而上游设备产能有限，中航证券认为，积极布局大型压铸机的设备企业有望率先享受行业红利。\n\n一台压铸设备主要由压铸机，辅机，熔炉，模温机，取件机器人，喷雾机器人等组成。压铸机是压铸岛上的主要设备，根据产业链调查，近几年国产品牌7000 T压铸机的价格在六千万到七千万之间，使用寿命约为十五年。模具是铸造金属零件的一种工具，它的压铸工艺是将金属液现高速充填到模具型腔内，模具活动型腔随着金属液冷却而加压锻造而成。\n\n根据民生证券产业链的调研，目前一套压铸模具价格约为100000元/套。不同于压铸机，模具需要定期更换。铝合金模具的使用寿命与模具的锁模力有关，一般来说，模具寿命在3500~4500吨左右，模具寿命约为8万次，而6000吨以上的模具寿命约为50000次。\n\n- End -\n\n发现中国好投资，聚焦优秀投资人\n\n投稿（转载）合作 微信：Yezil2022",
+        "image_url": "",
+        "publish_date": "2022-09-20",
+        "keywords": {
+            "core": {
+                "压铸": 39,
+                "一体化压铸": 18,
+                "铝合金": 1
+            },
+            "downstream": {
+                "电动车": 1
+            }
+        },
+        "prefilter_score": 34,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:43:11.631339",
+        "last_checked": "2026-10-21T09:43:11.631339",
+        "channel": "wechat_sogou",
+        "query": "一体化压铸"
+    },
+    {
+        "title": "如何提升标准压铸机的压射效能?泛康告诉您",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI4MjMzNTM0Mw%3D%3D&mid=2247490432&idx=1",
+        "source": "中铸",
+        "media": "中铸",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "壹\n\n标准压铸机\n\n图1 标准压铸机工作原理\n\n    \n\n1.1  标准压铸机压射系统特点   \n\n(1)通过行程开关检测压射位置 \n\n(2)通过压力传感器检测入口压力  \n\n(3)通过PLC控制压射过程 \n\n(4)通过手轮调节阀口开度  \n\n(5)调速方式为入口节流、开环控制\n\n(6)速度变化非连续\n\n1-1标准压铸机\n\n行程开关 \n\n1-2标准压铸机\n\n手轮调节器\n\n 1-3标准压铸机\n\n快排阀\n\n1.2  标准压铸机压射过程中常见问题   \n\n（1）依赖工人的经验手动调定压射参数，没有工艺曲线采集和显示功能。生产质量严重依赖操作工的技能，每次更换模具都需要进行调参数试模的过程。（生产效率低）\n\n（2）要达到需要的压射速度，需要通过人工反复调整手轮，经过若干模次后，才能达到设定要求。（自动化程度低）\n\n（3）生产过程中遇到储能器压力不足等干扰因素时，即使手轮位置保持不变，压射速度也会变化，进而可能会出现生产产品质量问题。（质量管控不易）\n\n（4）速度不连续，无法满足复杂模具的工艺要求。（缺乏竞争力）\n\n多年来压铸厂对快速、高效率、高效益的渴求，泛康对此有深刻的了解和体会。为此，提出了闭环控制压射系统及实时控制压射系统两套升级改造方案。\n\n贰\n\n  闭环控制压射系统   \n\n针对压铸机使用工况，本公司专门研发了插装阀数字调节器取代传统的手动调节装置，实现自动控制。具有低成本、抗油液污染、抗电磁干扰、电气接口简单、调节精度高等优点。由于插装阀数字调节器的重复性好，而曲线仪能够准确的提取压射速度的特征值，两者结合实现了压射速度闭环控制系统。（如图2-1）\n\n图2-1 基于电动插装阀的压铸机压射系统\n\n2.1     闭环压射系统的好处     \n\n(1)压射控制参数通过人机界面设定，将调定好的控制参数按模具编号保存在人机界面上，下次使用该模具生产时，直接调用，减少更换模具时的试模次数，提高生产效率。\n\n(2)能够显示和保存每一模次的工艺曲线（如图2-2），并且具有工艺参数识别和超差报警功能，（如图2-3）方便试模和生产质量管控。\n\n 图2-2普通压射曲线图\n\n图2-3工艺参数识别及超差报警 \n\n(3) 可以根据工艺需求来设定各段压射速度，控制系统根据闭环控制原理在下一模自动修正阀口开度，直到压射速度达到设定值。并且在整个生产过程中如果出现因储能压力不足、油温变化等缓变因素导致的速度变化，控制系统也会在下一模自动调整阀口开度予以补偿，保持压射速度稳定，提高产品合格率。（图2-4）\n\n如图2-4闭环控制系统压射速度调整\n\n2.2    闭环控制压射系统改造方式     \n\n(1)用插装阀数字调节器取代标准压铸机压射系统中的一快、二快、增压调节手轮；（如图2-5）\n\n图2-5插装阀数字调节器取代标准压铸机压射系统中的手轮\n\n(2)用磁栅尺位移传感器替代行程开关。（如图2-6）\n\n图2-6用磁栅尺位移传感器替代行程开关\n\n \n\n(3) 新增曲线仪数据采集器及人机界面。（如图2-7）\n\n图2-7曲线仪数据采集器及新增人机界面\n\n叁\n\n   实时控制压射系统   \n\n图3-1实时控制压铸机压射系统原理图\n\n3.1  实时控制压射系统的好处\n\n（1）压射速度分段从3段增加到20段，且各速度分段之间采用匀加速平滑过渡而非阶跃变化，有利于排气，可满足复杂模具的工艺需求，进一步提升产品及企业的竞争力。（如图3-2）\n\n图3-2实时控制系统各压射参数设定\n\n \n\n（2）压射过程中实时调节伺服阀开度，使实际压射速度准确追踪设定曲线，可以在当前模次抑制各种干扰因素造成的速度波动，提高产品合格率。（如图3-3）\n\n图3-3实时控制系统压射曲线图\n\n（3）可在充型即将结束时刹车减速，减少工件飞边和对模具的冲击，提高模具的使用寿命。\n\n3.2  实时控制压射系统改造方式  \n\n为了进一步提高压射速度的稳定性和速度设定的灵活性，采用伺服阀替代快排阀实现出口节流，配合实时控制系统实现多段速度跟踪控制，能显著提升压铸机压射系统的性能，提高产品质量和扩展压铸机能力。（如图3-4）\n\n图3-4 伺服阀替代快排阀\n\n 标准压铸机改造前及改造后对比图 \n\n公司介绍：\n\n杭州泛康科技有限公司成立于2007年，专业从事高端压铸机测控系统的研发，先后研制了嵌入式曲线仪、压铸机实时控制系统、插装阀数字调节器、压铸机远程监控系统、锁模力传感器和磁栅尺传感器等系列化产品。\n\n公司组织和培养了一支拥有丰富实战经验的核心团队，公司以“诚信、创新、效率、服务、共赢”的经营理念，始终追求“创新引领未来，品质铸就成功”的经营方针，不断进行技术创新和提升管理服务水平，为客户提供更好、更多的高品质产品和专业服务。\n\n目前已成为力劲、伊之密等知名压铸设备厂商的战略合作伙伴，帮助客户节约成本，提高生产效率，受到了客户的一致好评!\n\n标准压铸机压射系统升级改造咨询联系方式：\n\n长按二维码\n\n扫描添加\n\n联系人｜易 翔  153 95812445 \n\n联系电话｜0571-87972661 \n\n传真｜0571-86492527\n\n邮箱｜253806990@qq.com\n\n微信号｜15395812445\n\n地址：杭州市余杭区文一西路99号海创园5号楼810室\n\n公司网址：http://www.finecontrol.cn/",
+        "image_url": "",
+        "publish_date": "2018-03-19",
+        "keywords": {
+            "core": {
+                "压铸": 22
+            },
+            "downstream": {}
+        },
+        "prefilter_score": 15,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:43:41.327138",
+        "last_checked": "2026-10-21T09:43:41.327138",
+        "channel": "wechat_sogou",
+        "query": "压铸机"
+    },
+    {
+        "title": "中汽协:2026年9月汽车工业产销报告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzU1MzgxNzU0NQ%3D%3D&mid=2247542047&idx=1",
+        "source": "汽车人臧工",
+        "media": "汽车人臧工",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "一、总体概况：内冷外热，出口强劲\n\n第三季度我国汽车产销小幅下滑，市场总体呈\"内冷外热\"态势。9月汽车产销分别完成299万辆和295.6万辆，环比增长11.4%和9%，同比分别下降8.7%和8.4%；1-9月累计产销2324.6万辆和2327.1万辆，同比均下降4.5%。国内市场持续承压，9月国内销量190.4万辆，同比下降26%；而出口继续保持高速增长，9月出口105.3万辆，同比增长61.4%，1-9月累计出口820.5万辆，同比增长65.8%。新能源汽车出口占比连续四个月超过50%。\n\n二、细分市场表现\n\n乘用车：9月产销262.6万辆和258.8万辆，同比分别下降9.4%和9.5%；中国品牌乘用车9月销量199.6万辆，销量占比77.1%，较去年同期上升6.9个百分点。\n\n商用车：9月产量36.4万辆同比下降3.3%，销量36.9万辆同比增长0.2%；1-9月产销327.9万辆和331.1万辆，同比分别增长6.1%和6.2%。\n\n新能源汽车：9月产销181.4万辆和182.3万辆，同比分别增长12.2%和13.6%，新车销量占汽车总销量61.6%；1-9月产销1248.3万辆和1247.2万辆，同比分别增长11%和11.1%，占比53.6%。\n\n三、政策与展望\n\n2500亿元消费品以旧换新资金已全部下达，叠加地方和企业促消费活动，国内市场销量降幅有望收窄，四季度行业有望保持平稳运行，出口预计仍将增长，全年有望超过1000万辆。此外，《智能网联新能源汽车产业发展\"十五五\"规划》正式发布，为行业提供顶层指引，推动行业从规模增长转向质量提升，助力中国品牌提升全球竞争力。海关数据显示，2026年1-8月汽车进口26.7万辆同比下降16.5%，出口744.6万辆同比增长51.1%。\n\nPS：本文摘要由IMA copilot辅助生成，原文可加入【汽车人知识库】后查看\n\n文末可获取本文PDF文件下载链接哦，无任何套路！\n\n获取方式：关注公众号后台回复【2609】即可获取\n\n-END-\n\n如果这篇文章对你有帮助，欢迎点赞、转发哦～\n公众号调整了推送规则，欢迎将我星标☆，这样才能第一时间收到我的推送哦～\n\n【免责声明】部分内容和图片来自网络，仅供学习参考，版权归原创作者所有，如有内容、版权等问题，请联系作者删除。\n\n走之前记得点个在看哟~",
+        "image_url": "",
+        "publish_date": "2026-10-21",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "电动车": 3,
+                "汽车销量": 2
+            }
+        },
+        "prefilter_score": 5,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:43:54.567588",
+        "last_checked": "2026-10-21T09:43:54.567588",
+        "channel": "wechat_sogou",
+        "query": "汽车产销"
+    },
+    {
+        "title": "2026年9月新能源汽车产销情况简析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0MzM0MzY4Mg%3D%3D&mid=2247546828&idx=2",
+        "source": "复材模压专委会",
+        "media": "复材模压专委会",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "2026年9月，新能源汽车新车累计销量占比保持在50%以上，新能源汽车国内销量占比逐月提升，新能源汽车出口占比连续四个月超过50%。\n\n2026年9月，新能源汽车产销分别完成181.4万辆和182.3万辆，同比分别增长12.2%和13.6%。\n\n2026年1-9月，新能源汽车产销分别完成1248.3万辆和1247.2万辆，同比分别增长11%和11.1%。\n\n2026年9月，新能源汽车国内销量125.2万辆，环比增长12%，同比下降9.4%。\n\n2026年1-9月，新能源汽车国内销量846.6万辆，同比下降10.6%。\n\n2026年9月，新能源汽车出口57.1万辆，环比增长8.6%，同比增长1.6倍。\n\n2026年1-9月，新能源汽车出口400.6万辆，同比增长1.3倍。\n\n 来源：中汽协会行业信息部\n\n免责声明：本公众号发布的文章，仅限于复合材料知识和市场资讯的交流和分享，不用于任何商业目的。任何个人或组织对文章版权或其内容的真实性、准确性存有疑议，请第一时间联系我们，我们将及时处理。",
+        "image_url": "",
+        "publish_date": "2026-10-20",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "电动车": 10
+            }
+        },
+        "prefilter_score": 5,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:43:58.601325",
+        "last_checked": "2026-10-21T09:43:58.601325",
+        "channel": "wechat_sogou",
+        "query": "汽车产销"
+    },
+    {
+        "title": "前三季度我国汽车产销小幅下滑,出口保持高速增长",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MTI4NDUwNg%3D%3D&mid=2679388691&idx=1",
+        "source": "工具技术",
+        "media": "工具技术",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "⬆点击上方蓝色字体，关注《工具技术》官方微信~\n\n（广告位）\n\n中国汽车工业协会最新发布的数据显示，前三季度，我国汽车产销小幅下滑，市场总体呈现“内冷外热”运行态势。由于多重因素影响，国内汽车市场持续承压，尚未得到有效改善；尽管外部环境复杂严峻，但 出口继续保持高速增长，展现出强劲韧性；国内新动能持续释放，新能源汽车销量占比稳步提升。中汽协预测，四季度行业有望保持平稳运行态势。其中出口预计仍将保持增长，全年有望超过1000万辆；同时国内市场销量降幅有望减缓。\n\n1. 总体情况\n\n9月，汽车产销分别完成299万辆和295.6万辆，环比分别增长11.4%和9%，同比分别下降8.7%和8.4%。其中，国内销量190.4万辆，环比增长11.9%，同比下降26%；出口105.3万辆，环比增长4.2%，同比增长61.4%。\n\n1-9月，汽车产销累计完成2324.6万辆和2327.1万辆，同比均下降4.5%。其中，国内销量累计1506.6万辆，同比下降22.4%；出口累计820.5万辆，同比增长65.8%。\n\n2. 乘用车情况\n\n9月，乘用车产销分别完成262.6万辆和258.8万辆，环比分别增长10.9%和8.6%，同比分别下降9.4%和9.5%。\n\n1-9月，乘用车产销累计完成1996.6万辆和1996万辆，同比分别下降6%和6.1%。在乘用车主要品种中，与去年同期相比，运动型多用途乘用车（SUV）产销小幅增长，其他三大类乘用车品种产销呈两位数下降。\n\n3.商用车情况\n\n9月，商用车产销分别完成36.4万辆和36.9万辆，环比分别增长15.5%和12.3%，产量同比下降3.3%、销量同比微增0.2%。\n\n1-9月，商用车产销累计完成327.9万辆和331.1万辆，同比分别增长6.1%和6.2%。在商用车主要品种中，与去年同期相比，客车和货车产销均呈小幅增长。\n\n4.新能源车\n\n9月，新能源汽车产销分别完成181.4万辆和182.3万辆，环比分别增长9.7%和10.9%，同比分别增长12.2%和13.6%。新能源汽车新车销量达到汽车新车总销量的61.6%。\n\n1-9月，新能源汽车产销累计完成1248.3万辆和1247.2万辆，同比分别增长11%和11.1%，新能源汽车新车销量达到汽车新车总销量的53.6%。\n\n5. 进出口情况\n\n据中国汽车工业协会整理的海关总署数据显示，2026年8月，汽车进口2.2万辆，环比下降48%，同比下降50.1%；出口104.7万辆，环比下降4.2%，同比增长37.2%。\n\n2026年1-8月，汽车进口26.7万辆，同比下降16.5%；出口744.6万辆，同比增长51.1%。\n\n⊙文章来源：中国汽车工业协会，本文版权归原作者所有。\n\n编辑：周荣  校对：胡艳婷  审阅：赵兴昊\n欢迎关注工具技术微信公众号：gjjs1964\nE-mail：office@gjjs1964.com.cn\n工具技术官网：\nhttp://gjjs1964.com.cn\n    \n\n工具所官方微信公众号\n\n工具技术官方微信公众号",
+        "image_url": "",
+        "publish_date": "2026-10-20",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "电动车": 5,
+                "汽车销量": 7
+            }
+        },
+        "prefilter_score": 10,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:44:03.017552",
+        "last_checked": "2026-10-21T09:44:03.017552",
+        "channel": "wechat_sogou",
+        "query": "汽车产销"
+    },
+    {
+        "title": "9月乘用车销量榜单,几个品类走势很有看点",
+        "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792547010&ver=7039&signature=aW4rL3BpXYHtiC*agRlY47b9Aiu4FfK*WNOYBUxfyXaj9BYgmiGGSyIq9pG5Cb*ItLK*NT9pThrzbIw*hDV2xCDiIryeKOFp17fzdyfAaoaiYQaKLBHJKuqaA4zPvJnV&new=1",
+        "source": "静候潮汐",
+        "media": "静候潮汐",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "9月乘用车销量榜单，几个品类走势很有看点\n\n轿车板块惊喜不少，五菱星愿交出四万多台的成绩，断层领跑，实力抢眼。\n\n小米SU7稳定输出1.5万台，紧追比亚迪海豚，MG07冲到第四名，算是一匹黑马，看得出定价策略很有吸引力。\n\nSUV市场，特斯拉依旧稳住头部位置，方程豹钛7势头凶猛，将会是后续一众品牌方盒子车型最直接的对手。\n\n两款丰田老牌SUV排名冲到7、8位，老将战斗力依旧在线。\n\nMPV赛道格局出现变化，赛那+格瑞维亚靠降价稳住优势，继续领跑，别克GL8强势回暖，重回第一梯队。\n\n腾势D9，高山热度有所回落，但销量底子还在，反观奥德赛，表现明显疲软。\n\n轿车、SUV、MPV三条赛道逻辑完全不同。\n\n轿车拼性价比与新能源热度，SUV看硬派，纯电两条路线，MPV现在比拼价格和商务家用的综合实力。\n\n湖南\n,\n17小时前\n,",
+        "image_url": "",
+        "publish_date": "2026-10-20",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "汽车销量": 2
+            }
+        },
+        "prefilter_score": 2,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:44:35.066011",
+        "last_checked": "2026-10-21T09:44:35.066011",
+        "channel": "wechat_sogou",
+        "query": "乘用车销量"
+    },
+    {
+        "title": "9568辆!泉州2026年9月乘用车销量更新",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTUzMDY5Nw%3D%3D&mid=2247489661&idx=1",
+        "source": "泉州新能源汽车行业协会",
+        "media": "泉州新能源汽车行业协会",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "点击蓝字，关注我们\n\n2026年9月\n（泉州）乘用车汽车销量数据更新啦 \n\n元旦快乐\nHAPPY NEW YEAR\n元旦快乐\nHAPPY NEW YEAR\n\n    9月福建省汽车销量数据显示：福州（10158）、泉州（9568）、厦门（11720）的销量相对 8月来说全面上涨，全省的新能源汽车销量占比达到了 65.26%。具体情况我们一起来看看数据。\n\n2026年的9月\n\n福州、泉州、厦门地区的上牌量情况\n\n    福州9 月乘用车上牌量为10158台，较去年同比增长-24.40%，其中新能源汽车上牌为6790台，同比增长-11.86%，新能源渗透率66.84%‍。2026年福州车市累积上牌量80592台，其中新能源占48211台。\n\n   泉州9 月上牌量为9568台，较去年同比增长-21.55%，其中新能源汽车上牌为5953台，同比增长-12.87%，新能源渗透率62.22%‍。2026年泉州车市累积上牌量77898台，新能源占43380台。\n\n    厦门9 月上牌量为11720台，较去年同期增长-47.37%，其中新能源汽车上牌为 7976台，同比增长 -47.39%，新能源渗透率 68.05%。2026年厦门车市累积上牌量 92475台，新能源占 58277台。\n\n泉州车市2026年月度销量趋势图\n\n                                                  \n\n    \n\n      ‍‍‍‍‍‍‍‍‍‍‍‍‍‍从趋势图当中可以看出来，全省汽车销量有所抬头，虽然和去年同比都 还是有一个比较大的差距，但好的一面是随着金九银十的行情到来，差距在不断的缩小，今年累积销量来看厦门车市继续领跑全省，十月突破全年十万台销量没有悬念。下月，小编和大家一同期待。‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍\n\n欢迎加入泉州市新能源汽车行业协会\n\n期待您加入协会的大集体！\n\n入会热线：158 0595 1988 杨先生\n\n泉州市新能源汽车行业协会\n定期更新  请多关注\n好好生活  慢慢遇见",
+        "image_url": "",
+        "publish_date": "2026-10-20",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "电动车": 6,
+                "汽车销量": 7
+            }
+        },
+        "prefilter_score": 10,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:44:39.188011",
+        "last_checked": "2026-10-21T09:44:39.188011",
+        "channel": "wechat_sogou",
+        "query": "乘用车销量"
+    },
+    {
+        "title": "丰田两款燃油车重回乘用车销量榜前10,其余8席全部为新能源车型,特斯拉Model Y居首",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTM3NTEzNTkyMQ%3D%3D&mid=2650276018&idx=2",
+        "source": "扬子晚报",
+        "media": "扬子晚报",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "在8月短暂退出榜单后，燃油车于2026年9月重回乘用车零售销量前十。\n\n懂车帝援引的乘联分会数据显示，两款上榜的燃油车均出自一汽丰田：卡罗拉锐放以16865辆位列第六，RAV4荣放以16738辆排名第八。榜单其余八席全部为新能源车型。\n\n8月，该榜单前十曾被新能源全部包揽，燃油车无一上榜，这是年内第二次；5月的前十榜单同样没有燃油车。6月，丰田凯美瑞、大众朗逸曾双双回到前十。\n\n9月榜单前三名仍由新能源把持。特斯拉Model Y以50359辆居首，吉利星愿44275辆位列第二，比亚迪元UP22767辆位列第三。\n\n来源 | 第一财经\n\n最近微信改版\n经常有读者朋友错过推送\n星标🌟“扬子晚报”\n及时接收最新最热的推文\n点赞\n分享\n推荐",
+        "image_url": "",
+        "publish_date": "2026-10-12",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "汽车销量": 3
+            }
+        },
+        "prefilter_score": 3,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:44:43.202877",
+        "last_checked": "2026-10-21T09:44:43.202877",
+        "channel": "wechat_sogou",
+        "query": "乘用车销量"
+    },
+    {
+        "title": "2026国内新能源乘用车销量预计跌12%",
+        "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792547010&ver=7039&signature=0SGbd0Y1uInL4hwDjWYZphCPlF3DUapDKKrbNvcI2gHd*VYKw6A7GaKh2Ux*UQtjPQb4dpkdMGoL45xfisQC2OJ8lPYcLp9dCrDPrebrLrRsRVB1X-l0SNYyo4fZHWUX&new=1",
+        "source": "电动汽车观察家",
+        "media": "电动汽车观察家",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "2026国内新能源乘用车销量预计跌12%\n\n2026年行至此时，大局的轮廓已现——国内销售大跌，出口撑起大局，总量差强人意。\n \n全年国内新能源乘用车销量预计1100万辆，相比2025年的1248.3万辆，预计下跌12%。\n \n不过，全年新能源汽车销量（新能源乘用车国内销量+新能源商用车国内销量+新能源汽车出口）预计可以达到1800万辆，还能增长约10%左右。\n \n前三季度的成绩单摆在这儿——\n \n2026年前9月国内新能源乘用车终端上险仅754.68万辆，同比下降13.56%。即便是“金九”也非常虚弱——9月国内新能源乘用车终端上险108.42万辆，同比下滑16.25%。\n \n不过，出口成为最重要的对冲力量。预计全年新能源汽车出口将暴增到580万辆。再加上新能源商用车的国内全年销售预计可达120万辆，新能源汽车总体销量才能保持增长。\n \n分动力类型看，覆巢之下无完卵。\n \n纯电车型相对更有韧性，9月国内终端上险76.58万辆，同比下滑9.39%，跌幅小于整体大盘。\n \n插混车型比增程稍晚受到“油改电”的压力，9月终端销量23.29万辆，同比大幅下滑32.40%，降幅持续拉大。\n \n增程车型去年下半年已经调整，因此跌幅持续收窄，9月上险8.56万辆，同比下滑18.49%。\n \n从车型品类来看，同样也是一损俱损。有意思的是，今年就新能源轿车而言，A0级比A级要好卖很多，当然B级、C级也相对A级要好得多。就现在的消费趋势，车确实越做越大，本来是大盘的A级，已经越来越弱势，甚至不如再做小一点好卖。\n\n具体车型方面，可以说是老牌畅销车“复辟”：特斯拉双雄分居细分市场前列；腾势D9回到MPV榜首。还有常青树——比亚迪秦、吉利星愿分居A级和A0级轿车榜首。A00呢？图表仅限20张无法列出，但冠军还是五菱宏光MINI。\n \n从品牌格局看，2026年1-9月新能源乘用车上险数据显示，比亚迪以134.50万辆遥遥领先，集团依靠多品牌矩阵稳住体量。吉利、零跑构成第二梯队，1-9月上险量分别为57.03万辆、47.34万辆；特斯拉、五菱、理想、小米紧随其后。\n \n当然，除了极氪、蔚来、零跑、方程豹，其他品牌都大跌，因此品牌的拼争也基本要看出口市场。\n\n喜欢作者\n\n 支持原创 \n\n北京\n,\n10月19日\n,",
+        "image_url": "",
+        "publish_date": "2026-10-19",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "电动车": 4,
+                "汽车销量": 8
+            }
+        },
+        "prefilter_score": 9,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:44:48.817719",
+        "last_checked": "2026-10-21T09:44:48.817719",
+        "channel": "wechat_sogou",
+        "query": "乘用车销量"
+    },
+    {
+        "title": "3月乘用车销量前十车企抢先看:谁晋级,谁出局!",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5OTE1MjcxMw%3D%3D&mid=2650444830&idx=1",
+        "source": "盖世汽车每日速递",
+        "media": "盖世汽车每日速递",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "盖世汽车讯 盖世汽车根据乘联会发布的最新数据，整理出2017年3月份国内狭义乘用车销量前十名企业排行榜。前十名企业榜单中，前两席依旧被德系合资车企南北大众所霸占；此外，美系合资车企占据三席；自主品牌车企同样占得三个席位；日系合资车企分得两席；而此前一直在列的韩系合资车企北京现代此次跌落榜单。\n\n3月车市概况\n\n批发销量方面，2017年3月，中国汽车市场狭义乘用车批发销量为2,015,826辆，较今年2月份的1,590,902辆，环比增长26.7%；与去年同期的1,979,581辆相比增长1.8%，增速并不算大。三大细分市场中，除SUV同比增长17.1%外，轿车、MPV均出现不同程度的下跌，同比跌幅分别为5%、14.2%。\n\n计入微客3月份的71,103辆后，2017年3月广义乘用车批发销量为2,086,929辆，环比上个月的增长28%，但是与2016年3月份的2,057,685辆相比，同比仅增1.4%，这与微客3月份销量较去年同期下跌9%直接相关。\n\n为实现车市一季度开门红，车企历年都会稳住3月批发量销量，多年来3月批发销量同比增速达到12%左右，然今年3月批发增速仅为1.8%，远低于历年水平，由此可见市场压力之大。\n\n零售销量方面，2017年3月，中国汽车市场狭义乘用车零售销量为1,903,075辆，同比增长2.9%，环比今年2月的1,448,249辆增长31.4%。相较于今年1-2月的零售销量同比下跌2.4%后，3月份零售销量有所回暖，但是受去年春节提早，税费减免阶段性退出等综合因素的影响，1-3月的累计零售销量仍出现1%的负增长。\n\n前十车企排行\n\n此次前十企业名单较之2月份有所变更，走在最前列的依旧是德系两大合资车企：上汽大众、一汽-大众；美系合资车企占据三席，分别是位居第三位、第四位的上汽通用、上汽通用五菱，以及位居第八位的长安福特；同样占据三个席位的还有自主品牌车企，长安汽车、吉利汽车、长城汽车继续发力分别位列第五位、第八位和第九位；此外，第六位、第十位被日系合资车企东风日产，一汽丰田占据。\n\n以下是3月份狭义乘用车批发销量前十排名：\n\n第一名：上汽大众\n\n3月狭义乘用车批发销量：171,999辆\n\n第二名：一汽-大众\n\n3月狭义乘用车批发销量：150,253辆\n\n第三名：上汽通用\n\n3月狭义乘用车批发销量：140,526辆\n\n第四名：上汽通用五菱\n\n3月狭义乘用车批发销量：132,446辆\n\n第五名：长安汽车\n\n3月狭义乘用车批发销量：123,102辆\n\n第六名：东风日产\n\n3月狭义乘用车批发销量：98,226辆\n\n第七名：吉利汽车\n\n3月狭义乘用车批发销量：90,753辆\n\n第八名：长安福特\n\n3月狭义乘用车批发销量：83,384辆\n\n第九名：长城汽车\n\n3月狭义乘用车批发销量：74,699辆\n\n第十名：一汽丰田\n\n3月狭义乘用车批发销量：67,321辆\n\n对本文有任何看法，请向下滑动去“写评论”吧！\n\n查看更多文章，点击左下角阅读原文，精彩汽车资讯随时掌握！\n\n关于我们：\n\n| 盖 | 世 | 汽 | 车 | 每 | 日 | 速 | 递 |\n\n由盖世汽车领衔打造的汽车行业第一媒体\n\n是汽车圈最有影响力的媒体之一\n\n联系与合作 | wx@gasgoo.com",
+        "image_url": "",
+        "publish_date": "2017-04-12",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "汽车销量": 38
+            }
+        },
+        "prefilter_score": 5,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:45:01.899111",
+        "last_checked": "2026-10-21T09:45:01.899111",
+        "channel": "wechat_sogou",
+        "query": "乘用车销量"
+    },
+    {
+        "title": "6月新能源乘用车销量分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzUxNTU0Nw%3D%3D&mid=2247492171&idx=1",
+        "source": "建约车评",
+        "media": "建约车评",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "提示：点击上方\"关注我\"↑快来吧，亲\n\n根据乘用车厂家批发销量数据，6月新能源狭义乘用车批发销售13.4万台，同比增长98%，相对于传统乘用车的批发增速-8%看，新能源车表现较强。2019年1-6月新能源乘用车销量达57万辆，同比增长65%。\n\n2019年新能源车在1-3月的政策延续期增速同比增长117%，其良好的销量表现主要是新能源车的延缓期的政策缓解了市场压力，促进了年初新能源补贴延续期市场的抢跑效应。4-6月的过渡期增长37%表现也很不错，但基数偏高和国五切换压力抑制了车企增长动力。\n\n新能源车与燃油车双积分政策的实施效果凸显，车企为降低传统车油耗的发展新能源车热情很高，尤其是合资车企的新能源发展迅猛，也推动了新能源车的年初较强增量。新势力车企逐步成为市场重要参与力量，2019年新势力车企的销量逐步接近9%的纯电动份额。\n\n一. 新能源乘用车总体走势\n\n  1. 6月新能源车增速偏低\n\n2019年新能源车走势呈现在高位波动的新局面。新能源车走势从前几年的简单的年初前低后高走势，逐步演变成补贴驱动下的波浪走势。\n\n2019年新能源车的开局良好，2019年1月批发达到9.1万辆，2月因多种因素回落到5万辆，3月的退坡效应达到11万辆。4月的补贴新政实施期，厂家销量达到9.17万辆。5月新能源广义乘用车批发达到9.7万辆。6月13.4万辆，同比增长6.2万辆，表现很好。\n\n2019年新能源狭义乘用车走势平稳，体现了新能源乘用车在政策明朗前后的政策预期明确，能冲就冲的阶段性发展动力较强。\n\n传统燃料乘用车市场走势呈现U型：年初高、随后持续下行到夏季谷底再冲高年末的正常走势。今年的新能源车走势仍是强于传统车的。\n\n另外虽然微客类车型6月也有一定数量，但微客改装的电动车基本是属于专用车序列的，因此用狭义乘用车的新能源分析更为准确。\n\n   2.  新能源车的世界地位超强\n\n2019年1-5月的中国新能源车的地位在世界份额持续提升到53%，处于历史最高水平。\n\n2018年全球新能源乘用车销量达到202万台，同比增速达到66%。中国新能源乘用车18年销量达到101万台，占到世界份额达到50%。\n\n2019年1-5月的美国新能源汽车市场表现较差，因为特斯拉的退坡导致市场增长乏力，中国市场表现很强。\n\n2018年5月的美国特斯拉基数提升，中国车的国际份额稍有下降，总体看今年的4-5月中国车份额与去年一致，6月国际份额高，但未来的份额压力仍是较大的。\n\n \n\n   3.  新能源车的新势力崭露头角\n\n新势力车企逐步成为市场重要参与力量，2019年新势力车企的销量逐步接近9%的纯电动份额，蔚来、威马、小鹏、国能、速达、零跑等逐步进入量产周期，6月新势力的国能、速达、零跑等新企业开始试水量产。\n\n \n\n二. 新能源乘用车市场结构分析\n\n 1.  2019年6月新能源汽车中纯电动销量占85%\n\n6月新能源乘用车呈现均衡发展特征。2019年6月新能源乘用车销量达到13.4万台，总体同比增速93%。6月的纯电动乘用车139%的增速，体现了补贴退坡前抢补贴的影响效果。\n\n由于参与厂家的增多，加之插混的车型逐步丰富，3-5月的插混占比提升，但插混的总体需求偏弱，市场不如纯电动的政策支持力度大。\n\n2019年的新能源乘用车的纯电动占79%，其中6月占比85%，纯电动的表现持续走强。其中2019年6月的纯电动SUV的占比27%也低于2018年6月的30%表现，产品结构多元化近期不明显。\n\n  2.  新能源车的级别A级超强-A00较低\n\n \n\n2018年1-12月新能源乘用车销售101万台，同比增长83%。19年1-6月新能源表现仍强，同比增速65%， 6月作为补贴调整后的最后1个月表现相对很强。\n\n2019年6月纯电动中的A00级电动车有2.8万台，同比增67%，占纯电动乘用车25%份额，较18年6月的35%下降较多；今年6月的A级电动车达到6.4万台，同比增长258%，是表现很好的大市场。A级电动车主要是私家和出租租赁的拉动，尤其是网约车的表现很好，今年的6月的A级电动车同比增258%，环比5月增50%，体现较好增长态势。而B级电动车虽然数量较小，但同样出现同比暴增，环比表现稍弱。\n\n \n\n  3.  新能源车细分市场变化\n\n2019年6月电动车各主力细分市场环比5月均大幅增长，其中A级电动车环比拉动明显。\n\n2018年的A00级市场的走势波动大，冲刺销量效果较强，市场贡献度较好。19年随着补贴的锐减，市场萎缩。\n\n2019年主要是A级电动车的销量波动巨大，A级车的大市场主要靠纯电动拉动，A级插混表现一般。\n\n2019年6月插混细分市场持平或下滑。6月的A级插混大幅低于于A0级纯电动，纯电动的各细分市场都有较强竞争力。\n\n \n\n三. 新能源市场需求结构分析\n\n  1.  2019年新能源车区域运营特征-出租租赁占28%\n\n以上为历年1-5月的对比，同口径的对比，数据供参考。\n\n2019年的1-5月保监会交强险汽车销量数据体现深圳最强，广州和北京表现较好，上海发展相对缓慢。\n\n广州和深圳的出租和租赁车辆发展较快，出租租赁的新能源占比较高和数量巨大。运营车辆的深圳与杭州和北京都是份额提升较大的。\n\n北京由于6万指标限制，没有持续放号，指标缺乏，因此19年5月北京销量增表现一般。贵阳、厦门、福州等的出租租赁比例较强。\n\n  2.  2019年新能源车区域私人单位购买特征-单位用户占20%\n\n以上为2019年1-5月的对比，同口径的对比，数据供参考。\n\n随着国家的促进消费的政策推动，市场的新能源车需求将逐步被满足。北京的私人车辆还有巨大的指标增量。杭州和深圳等逐步接近北京和上海的新能源销量，新能源市场持续快速培育增长。\n\n  3.  2019年新能源车区域插混纯电比例特征-插混占20%\n\n2019年1-5月的插混同比稍强，但相对2018年的数据看，插混的表现不是很强。\n\n新能源车的区域市场的插混和纯电动的占比表现差异化，主力限购城市的上海、深圳、杭州、广州的插电混动的表现很强。\n\n深圳和上海、杭州的新能源主要是插混，也是市场竞争逐步激烈的体现。\n\n \n\n  4.  新能源车乘用车车型批发表现\n\nA级新能源车成为销量主力，北汽EU系列相对去年6月的表现很好，成为绝对销量增长贡献。长安的逸动电动车的表现很好，也是增量的重点。比亚迪的元EV、欧拉R1、帕萨特等新品也是6月新能源销量的主力。\n\n主力企业集团的产品后劲很强，比亚迪、北汽、上汽、长城、吉利、江淮等有实力的集团的优势产品凸显，前期的抓住机会的小企业逐步压力加大。\n\n微型车的奇瑞和长城、江淮等表现较好，体现传统车的产业体系优势对微型车发展有很好促进。\n\n6月的新能源车零售表现很好，各企业也是努力实现新能源车抢抓补贴的末班车，北汽、长安等产能准备相对充裕，实现较好的增长。\n\n本月的轩逸电动车的表现很好，应该是世界其他国家的销量之和也难以达到其中国市场的表现。而起亚的K5PHEV的表现更是很强，成为增长的贡献主力。\n\n四. 6月新能源车主力车型销量表现较强\n\n \n\n1. 新能源车新品表现\n\n \n\n6月是新能源车政策调整期。政策变化期，缺乏有效的增量车型。\n\n  2. 历年逐月新能源车主力厂家销量走势\n\n \n\n由于今年6月属于新能源补贴的过渡期的第3个月，市场处于抢抓新能源过渡期最后机遇的时点。各厂家走势分化加大。\n\n比亚迪始终是一枝独秀，但连续12月和3月冲刺后，3-6月增长平稳。\n\n北汽新能源车的波动性增长较强，18年的4季度连续增长较强，4月环比3月回落较大，但6月快速回升，并超越比亚迪成为销量冠军。\n\n吉利汽车新能源走势较好，帝豪EV贡献很好的增量，新品几何的表现也是很强。长安汽车在4-6月依托新品明显走强。\n\n \n\n 3.  历年纯电动主力厂家销量走势\n\n自主车企占据纯电动车的绝对优势地位。合资车企的没有进入前10名。\n\n2019年主力厂家快速变化。1-5月比亚迪反超北汽新能源，成为绝对主力。比亚迪在中大型车中占据一定优势，比亚迪微型车短板也在补齐。\n\n2019年6月的北汽新能源冲刺超强，成为增量核心主力。江淮汽车的纯电动的表现也是很好的。\n\n新势力总体不强。比亚迪、吉利汽车和奇瑞汽车的电动车表现很强。传统车企的营销和持续战斗能力很强，新势力车企不接地气，产品销售不容易，没有强大经销商体系也是比较被动的。\n\n  4.  插电混新能源车企业表现\n\n2018年插混还是以自主品牌内资为主，2019年以来的插电混动是外资品牌实力超强。合资车企目前在国内产品逐步投放。内资新能源插混企业较少，掌握技术的难度较大，因此需要独立的体系化掌握技术。\n\n除了比亚迪超强外，2019年6月的上汽大众和宝马、吉利汽车成为插混的领军企业。比亚迪的插混车型表现较好，但季节性波动仍有体现。\n\n合资企业走强，本月的上汽大众、华晨宝马等表现较好。而一汽丰田和广汽丰田也开始在插混生产，合资的插混指标仍是稍强于自主的。但合资插混的续航里程没有比亚迪长，思路仍有差异。\n\n \n\n5. 6月纯电动主力车型批发同比较强\n\n6月的纯电动车型表现优秀，主力车型走势分化。19年6月电动车销量较高的是北汽EU系列、元EV、荣威Ei5、江淮iev6e\\ 奇瑞eQ电动车、帝豪EV、比亚迪e5等。\n\n6月的A级电动车走强，而且18年下半年开始持续超强。中大型电动车市场的A级轿车和A0级SUV有亮点。\n\n2019年6月相对走强的电动车主要是北汽EU系列和逸动电动车，两者的拉升能力都是很强的。\n\n比亚迪的元EV是面向私人市场的较好突破，市场销量虽然提升不快，但很扎实。\n\n宝骏E100、北汽EC系列、长城欧拉等的表现也是较稳，形成对电动车的支撑。\n\n北京市场的需求车型比亚迪E5\\北汽EU等表现的好。19年的蔚来ES8也是销量平稳，小鹏产品提升较快。\n\n  6.  插电混动主力车型批发销量增长较稳\n\n插电混动车型的6月同比增长平稳，主要是比亚迪和大众、宝马的贡献，形成插混的较强增长特征。\n\n插混19年6月表现强属于新品成熟并增量的体现。比亚迪继续保持插混的强势地位，同时表现较好的是帕萨特等新品。上海插混的市场优势仍较明显，广州和深圳市场的新能源表现目前一般，非限购地区的插混也有突破趋势。\n\n随着丰田插混的增量，比亚迪的高价线路面临向下延伸的更多机遇。\n\n随着外资的新能源车主要以插混线路为主推进的效果日益明显，合资插混的销量提升较好。\n\n  7.  普通混动主力车型越来越少但需求良好\n\n2019年6月份普通混合动力主力车型表现较差，本田的混动表现相对突出。\n\n目前仍是卡罗拉一枝独秀，但亚洲龙的插混很强，本月的本田inspire表现很好。\n\n本田的混动优势明显，近期雅阁的表现也是很强的，成为新的增长动力。\n\n随着丰田的插混和普混的全面到位，目前的丰田普混减产应该是暂时的，日系的总体新能源表现是很强的。\n\n但未来丰田等转型电动化的趋势仍是很强的。\n\n \n\n \n\n《建约车评》正在进行Pre-A轮融资\n\n具体请联系：yujianyue001\n\n（加微信请注明机构和来意）\n\n《建约车评》出品\n\n中国汽车科技趋势报告(2019版)\n\n业已发售\n\n详情咨询微信：597497295\n\n \n\n招   聘\n\n《建约车评》招聘内容编辑，希望与具有如下特点的你，一起打造不凡的汽车科技新媒体。\n\n1. 人品好，三观正；\n\n2. 极强的进取心；\n\n3. 文字好，以写作为信仰；\n\n4. 心态极度open；\n\n5. 英语好。\n\n我们也在招募实习生。\n\n简历请发2691378@qq.com，附上任意自己满意的作品。",
+        "image_url": "",
+        "publish_date": "2019-07-09",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "电动车": 27,
+                "汽车销量": 31
+            }
+        },
+        "prefilter_score": 10,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:45:06.552827",
+        "last_checked": "2026-10-21T09:45:06.552827",
+        "channel": "wechat_sogou",
+        "query": "乘用车销量"
+    },
+    {
+        "title": "3月新能源乘用车销量分析",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIzMzUxNTU0Nw%3D%3D&mid=2247491254&idx=1",
+        "source": "建约车评",
+        "media": "建约车评",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "提示：点击上方\"关注我\"↑快来吧，亲\n\n作者：乘联会秘书长 崔东树\n\n根据厂家批发销量初步数据，3月新能源狭义乘用车批发销售11万台，同比增长接近100%；相对于传统乘用车的增速-12.1%来看，新能源车表现强劲。其中3月纯电批发销量增长高达118%，插混批发销量同比也有着48%增长。\n\n1-3月新能源乘用车销量达25万台，同比增长117%。2019年1-3月的良好的销量表现主要是新能源车的延缓期的政策针缓解了市场压力，促进年初的市场抢跑效应。同时新能源车与燃油车双积分政策的实施效果凸显，车企为降低传统车油耗的发展新能源车热情很高，也推动了新能源车的年初较强增量。\n\n \n\n一、新能源乘用车总体走势\n\n1.  3月新能源车强势开门红  \n\n \n\n                       \n\n传统燃料乘用车市场走势呈现U型：年初高、随后持续下行到夏季谷底再冲高年末的正常走势。新能源车走势则与传统车截然不同，从前几年的简单的年初前低后高走势，逐步演变成补贴驱动下的波浪走势。\n\n14-17年新能源乘用车呈现顽强的月度环比向上趋势。18年新能源乘用车市场走势呈现波段走势，2019年新能源乘用车目前看仍将呈现波浪走势。\n\n18年1月份的新能源乘用车开门红，销量达到3.1万台，同比增长483%。2月因为春节因素仍达到2.9万台的规模，应该说是表现良好的。3月-5月呈现政策明朗后的过渡期的销量暴增。随着政策的正式实施，18年6月回落到7万台，7月开始一路走高的趋势，12月飙升到16万台。\n\n19年新能源车的开局良好，19年1月批发达到9.1万台，2月因多种因素回落到5万台，3月是补贴退坡之前享受旧补贴政策的最后一个月，批发销量达到了11万台。19年新能源狭义乘用车走势很好，体现了新能源乘用车在政策明朗后的阶段性发展动力较强。\n\n3月新能源广义乘用车批发达到11万台，另外微客类车型3月也有一定数量，但微客改装的电动车基本是属于专用车序列的，因此用狭义乘用车的新能源分析更为准确。\n\n2.  新能源车的世界地位超强\n\n \n\n2018年1-12月份，全球新能源乘用车销量达到202万台，同比增速达到66%。中国新能源乘用车18年1-12月总体销量达到101万台，占到世界份额达到56%。\n\n18年6月是中国新能源车政策调整的时点，因此国内3季度销量增长暂时放缓也是政策与市场的双驱动的效果。10月的份额拉升到56%，表现是很好的。\n\n19年1-3月的中国新能源车处于18年补贴延续期，而美国的新能源车因为特斯拉的存在，因此份额表现相对较强。\n\n世界新能源市场的格局仍在剧烈变化中，美国领军单品销量车型迅速拉升突破月产2万台，形成年末狂奔特色。导致美国豪华B级车的新能源化浪潮竞争异常激烈，推动奔驰和宝马都在新能源车加大投入。\n\n \n\n3.  新能源车目录的车型数量稳定提升\n\n \n\n19年第3批目录的数量178款相对第2批的84款增长了一倍，相对前期的18年第3批304款的水平相对较少。\n\n19年主要是客车目录减少，客车市场潜力小、目录相对较少，尤其是插混和快充的目录车型不是很多。\n\n19年第3批纯电专用车目录有52款。由于申报时新政策的产品要求尚不明朗，专用车技术压力大，新品相对较慢\n\n \n\n4.  2019年新能源汽车预测调高到170万\n\n3月26日的2019年新能源补贴政策正式发布，新能源补贴政策实现了从补贴推动转向市场选择的动力转换趋势，补贴政策变化基本符合近期预期。\n\n在中美贸易谈判尚未完成的背景下，中国新能源车补贴调整政策推出是很好的事情。今年的新能源补贴发布时机很好，补贴政策延续期多1个半月，19年补贴调整的过渡期少1个月，这样的政策的补贴时间段安排是重大的利好拉动，对车市的新能源车增长带来很好的增量效果。\n\n在中国与美国类似的补贴退坡政策的影响下，美国新能源车的1季度销量同比增速11%相对较差，而2019年中国的新能源车发展好于预期。按照2018年新能源车120万台基础，原预测2019年新能源车160万台。如今19年1季度新能源乘用车增量13.7万台，因此对应调增10万台19年新能源乘用车预测销量，目前预测2019年的新能源汽车销量170万台。\n\n5.  车企需要传统车与新能源车协同发展\n\n科学技术飞速的发展，人类开采石油的技术也是不断突破，因此石油的开采方式、开采量和转化率也是有很大的提高，石油天然气等能源将实现远比预期更久远的稳定供给。\n\n传统燃油车与新能源车协同发展是现阶段的主流车企的必然选择。尤其是不同使用场景下的燃油车与电动车各有优势，短期内并非等效替代。\n\n目前车企的核心技术优势在发动机、车身、底盘等，这些核心技术带来较好的盈利。而电动车的电池等替代发动机的盈利，对车企的盈利模式出现变化。\n\n目前车企普遍是传统燃油车业务挣钱，新能源汽车业务亏钱。尤其是在传统车现金流较好，而新能源车的资金压力巨大的情况下，简单鼓励企业放弃挣钱的业务，全力做亏钱的事，这不符合商业规律。双积分政策鼓励车企将燃油车和新能源汽车协同发展、优势互补，实现新能源车与传统车的合理比例结构，这样才能实现可持续发展。\n\n \n\n二、新能源乘用车市场结构分析\n\n \n\n1.  19年的新能源车的纯电动占79%\n\n3月新能源乘用车呈现纯电动走强特征。19年3月新能源乘用车销量达到11.1万台，总体同比增速100%。3月的纯电动乘用车118%的增速，体现了产品升级后的差异化拉动效果。\n\n由于高基数的影响，加之退坡对插混的影响小一些，3月插电混动同比增速48%，3月插混较纯电动环比2月增长迅猛。\n\n2019年一季度新能源车的纯电动占79%，其中3月占比80%，相对高于2018年3月的73%的水平。2019年3月的纯电动SUV的占比28%也高于2018年3月的11%表现，结构改善是很好的。\n\n2.  新能源车的级别A级超强-A00较低\n\n18年1-12月新能源乘用车销售101万台，同比增长83%。19年3月新能源表现仍强，同比增速100%，超过18年全年增速。\n\n3月纯电动中的A00级电动车有2.3万台，同比增长-18%，占纯电动乘用车26%份额，较18年3月下降43%；今年3月的A级是表现很好的大的市场。A级电动车主要是私家和出租租赁的拉动，因此去年的销量仍较低，今年的3月的A级电动车同比增392%，环比2月增140%，体现较好增长态势。而A0级电动车同样出现同比暴增，环比表现也很强。\n\n \n\n3.  新能源车细分市场变化\n\n \n\n由于19年3月环比2月增长较大，因此各细分市场基本均拉升较明显。18年的3月环比2月也是拉升，但结构差异很大，主要原因是18年3月的A级电动车表现很好。\n\n18年12月的几个主力细分市场都表现很强，加之延续期补贴的效果进一步提前释放，2月政策不明朗，因此3月的各细分市场表现的环比增长较大，亮点相对突出。\n\n \n\n三、新能源市场需求结构分析\n\n1.  19年新能源车区域运营特征-出租租赁占27%\n\n以上为历年1-2月的对比，同口径的对比，数据供参考。\n\n19年的1月保监会交强险汽车销量数据体现广州暂时超过深圳、上海、北京.。深圳的出租和租赁车辆发展较快，实现占比较高和数量巨大的较好销量。运营车辆的深圳与杭州和北京都是份额提升较大的。\n\n北京由于6万指标限制，没有持续放号，指标缺乏，因此19年1月北京销量增速也是较低的。贵阳、厦门、福州等的出租租赁比例较强。\n\n2.  19年新能源车区域私人单位购买特征-单位用户占21%\n\n以上为1-2月的对比，同口径的对比，数据供参考。\n\n随着国家的促进消费的政策推动，市场的新能源车需求将逐步被满足。北京的私人车辆还有巨大的指标增量。杭州和深圳等逐步接近北京和上海的新能源销量，新能源市场持续快速培育增长。\n\n3.  19年新能源车区域插混纯电比例特征-插混占17%\n\n新能源车的区域市场的插混和纯电动的占比表现差异化，主力限购城市的上海、深圳、杭州、广州的插电混动的表现很强。\n\n深圳和上海、广州的新能源主要是插混，也是市场竞争逐步激烈的体现。\n\n \n\n4.  新能源车乘用车车型批发表现\n\n \n\n比亚迪的新能源车超强，实现补贴前的最大增量潜力。五菱的新能源开始发力，宝骏E100的新能源表现很好。北汽新能源的车型表现相对较强，而比亚迪的几款车型也是插混表现优秀，形成较强的主力车企和主力车型的状态。\n\n \n\n四、3月新能源车主力车型销量表现较强\n\n1. 新能源车新品表现\n\n春节后的2-3月的新品主要是合资企业的插混和混合动力。由于处于政策延续期，自主的新品新能源车尚未发布、本次的零跑S01的车型偏运动，车型不大，价格不低。\n\n而微型电动车已经开始升温，长安的尼欧、比亚迪的F0等，都有很大的潜力。\n\n \n\n2.  历年逐月新能源车主力厂家销量走势 \n\n由于今年3月较2月因春节因素环比拉升较大，因此各细分市场基本均拉升较明显。18年的3月环比2月走强，主要也是新能源补贴延续，3月的A级电动车表现很好。\n\n18年12月的几个主力细分市场都表现很强，加之19年1-3月的进一步提前释放，因此促进19年的销量突破。\n\n \n\n3.  历年纯电动主力厂家销量走势\n\n \n\n19年比亚迪反超北汽新能源，自主占据纯电动车的绝对优势地位。近几年新能源车中，主力厂家快速变化。11-17年新能源销量是比亚迪绝对领先，但18年的北汽新能源连续几个月在纯电动领域超越比亚迪成为销量领军，而且部分月份的单一车型也超过比亚迪总量。\n\n19年1-3月的比亚迪、吉利汽车和长城汽车的新能源表现很强，传统车企的营销和持续战斗能力很强。\n\n \n\n4.  插电混新能源车企业表现\n\n插电混动是外资品牌实力超强，目前在国内产品逐步投放。内资新能源插混企业较少，掌握技术的难度较大，因此需要独立的体系化掌握技术，比亚迪就是独立掌握技术的优秀典型。虽然很多企业也有实力研发插混新能源车型，但零部件体系在外资为主，因此插混的发展面临诸多复杂技术和产业课题。\n\n19年3月的比亚迪的插混车型表现较好，但季节性波动仍有体现。本月的上汽大众、华晨宝马等表现较好。而一汽丰田也开始在插混生产，合资的插混指标仍是稍强于自主的。但合资插混的续航里程没有比亚迪长，思路仍有差异。\n\n \n\n 5.  3月纯电动主力车型批发同比较强\n\n3月的纯电动车型表现优秀，主力车型走势分化。19年3月电动车销量较高的是北汽EU系列、元EV、比亚迪e5、帝豪EV、欧拉R1、北汽EC系列等。\n\n3月的A级电动车走强，而且18年下半年开始持续超强。中大型电动车市场的A级轿车和A0级SUV有亮点。19年3月相对走强的电动车主要是比亚迪的E5和北汽EU系列，尤其是部分车型创出新高的表现很好。长城欧拉等的表现也是较稳，形成对年初电动车的支撑。\n\n北京市场的需求车型比亚迪E5\\北汽EU等表现的较平稳较强。19年的蔚来ES8也是销量平稳，表现很好。\n\n6.  插电混动主力车型批发销量增长较稳\n\n \n\n插电混动车型的3月同比增长很强，主要是比亚迪和大众、丰田的贡献，形成插混的较强增长特征。\n\n插混19年3月表现强属于抢抓18年补贴的较好措施。比亚迪继续保持插混的强势地位，同时表现较好的是帕萨特等新品。上海插混的市场优势仍较明显，广州和深圳市场的新能源表现目前一般，非限购地区的插混也有突破趋势。比亚迪的高价线路面临向下延伸的更多机遇。\n\n随着外资的新能源车主要以插混线路为主推进的效果日益明显，合资插混的销量提升较好。\n\n7.  普通混动主力车型越来越少但需求良好\n\n \n\n19年3月份普通混合动力主力车型表现较好，丰田和本田的混动表现相对突出。亚洲龙的插混很强，本月的本田inspire表现很好。广州本田的新能源车，目前稳定在2000台左右的规模，而东风本田的普通混动车型、上海通用的混动车型表现也是很突出的。由于没有政策的影响，因此普通混动车型在年初到年末的走势，保持一个相对平稳的态势。\n\n2018年全球广义新能源乘用车销量达到400万台，同比增速达到17%。其中插混、纯电动、燃料电池的狭义新能源车全球销量达到197万台，同比增长67%。普混仍占据广义新能源车半壁江山。19年1月由于美国特斯拉等新能源车的销量偏低，混合动力的销量占比仍达到全球广义新能源乘用车销量52%。\n\n虽然18年美国新能源车3季度加速发展，但中国新能源车发展更快。中国新能源乘用车18年的世界份额达到53%。19年的美国新能源车减速，中国新能源车的优势进一步增强。电动化趋势是中国和美国的共同特征。\n\n近期丰田开放混合动力的专利，这是很好的事情，但太晚了。中国的普通混合动力的车型数量不多，部分自主品牌和合资品牌已经退出普通混合动力市场转而发展纯电动和插混等新能源线路。\n\n随着网约车市场的规范，电动车的低成本优势在网约车市场逐步体现，而营运车辆的报废期较短的特点也适合电动车的产品生命周期，混合动力车型的网约神车概念也逐步淡化。\n\n《建约车评》正在进行Pre-A轮融资\n\n具体请联系：yujianyue001\n\n（加微信请注明机构和来意）\n\n《建约车评》出品\n\n中国汽车科技趋势报告(2019版)\n\n业已发售\n\n详情咨询微信：597497295\n\n \n\n招   聘\n\n《建约车评》招聘内容编辑，希望与具有如下特点的你，一起打造不凡的汽车科技新媒体。\n\n1. 人品好，三观正；\n\n2. 极强的进取心；\n\n3. 文字好，以写作为信仰；\n\n4. 心态极度open；\n\n5. 英语好。\n\n我们也在招募实习生。\n\n简历请发2691378@qq.com，附上任意自己满意的作品。",
+        "image_url": "",
+        "publish_date": "2019-04-10",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "电动车": 25,
+                "汽车销量": 40
+            }
+        },
+        "prefilter_score": 10,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:45:11.281355",
+        "last_checked": "2026-10-21T09:45:11.281355",
+        "channel": "wechat_sogou",
+        "query": "乘用车销量"
+    },
+    {
+        "title": "10月乘用车销量前十企业出炉:上汽通用时隔半年再夺冠",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA5OTE1MjcxMw%3D%3D&mid=2650455144&idx=1",
+        "source": "盖世汽车每日速递",
+        "media": "盖世汽车每日速递",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "11月8日，乘联会发布了2018年10月全国乘用车销量数据，显示今年10月我国狭义乘用车零售销量为1,950342辆，虽同比继续下滑13.2%，但环比9月微增了2.4%；1-10月，我国狭义乘用车零售销量累计为18,128,486辆，相较于去年同期下滑2.1%。乘联会认为，今年车市总体走势相对平稳，但由于此前第四季度的超高基数，企业压力很大，故本应在三季度逐步稳定的促销，在今年底四季度仍将进一步加大，从而形成年末很好的购车机遇。\n\n在前十车企销量排名方面，前三名依旧没有任何悬念，分别被上汽通用、上汽大众、一汽大众夺得，吉利继续稳居第四，另外两家自主品牌长城汽车和长安汽车则分别排在第七、第八位。而8月份重回榜单的北京现代，坚持了两个月再度落榜，与之相反，于9月份“落榜”的广汽本田10月重回榜单，排在第九位。\n\n2018年10月整体车市概况\n\n \n\n在刚刚过去的10月份，我国狭义乘用车零售销量为1,950342辆，相较于2017年10月的2,247,553辆下滑13.2%，环比今年9月的1,903,800辆，微增2.4%。具体看三大细分市场——轿车、SUV和MPV，10月份零售销量同比均出现了不同程度的下滑，其中轿车10月份零售销量为962,102辆，同比下滑11.6%，为三大细分市场表现“最好”的。SUV零售销量为856,355辆，同比下滑13.2%，乘联会认为中西部销量下滑和楼市火爆挤压可选消费的问题是导致SUV增长动力衰退是的主要原因，从而给自主品牌的增长带来了巨大压力。MPV十月份零售销量为131,885辆，同比下滑23.3%，跌幅进一步扩大。\n\n \n\n批发销量方面，10月我国狭义乘用车批发销量为2,019,493辆，同比下滑12.7%，跌幅也在继续扩大。乘联会指出，目前乘用车市场新能源乘用车批发销量增速走高、传统燃油车批发销量增速回落的结构性分化特征仍在继续走强，到10月份传统燃油车批发销量同比跌幅已达14.9%，继续走低，而反观新能源乘用车市场，10月份批发销量增速高达84.8%，表现超强。1-10月，我国狭义乘用车批发销量累计达18,933,137辆，同比下滑0.7%，零售更不乐观，仅为18,128,486辆，累计跌幅达2.1%。基于此今年全年产销负增长基本定局。\n\n不过值得一提的是，由于今年经销商盈利情况普遍下滑，11月、12月他们很多都背负着年底公司运营指标和厂家双重指标压力，加之股市持续低迷，房市不稳，银行贷款紧缩，老百姓消费能力弱化，预计对年末车市增长将带来一定压力。但另一方面，目前部分厂商已经开始提前补贴购置税，加上终端市场优惠并未减少，这会在一定程度上促进销售。\n\n特别在新能源市场，由于行业对2019年新能源补贴的调整已经有了预期，因此2018年的乘用车增量压力大，客车补贴上限不变的压力较小，预计将形成年末新能源乘用车增量热潮。\n\n但整体来看，受2017年高基数因素和楼市的影响，预计2018年4季度乘用车销量跌幅仍将保持在10%以上，最终影响全年增速3个百分点。到明年，2017年车市高基数因素会慢慢消失，对2019年销量增速修复有改善效果。\n\n前十车企排名\n\n \n\n前十车企排名方面，上汽通用时隔半年重回榜首，夺得第一，上汽大众和一汽大众分别排在第二和第三位。四、五、六三席继续与之前保持一致，分别由吉利汽车、东风日产和上汽通用五菱摘得，据了解，这三个位置上的车企至少已有半年没有发生过变动。长城汽车和长安汽车分别排在第七和第八，其中长城汽车的排名较9月份上升了两个名次，长安汽车则保持不变，鉴于此前这两家自主品牌曾一度被挤出榜单，希望接下来的年终旺季，能继续保持良好的状态。第九和第十则分别为广汽本田和东风本田。\n\n以下是10月份狭义乘用车批发销量前十车企排名：\n\n第1名：上汽通用\n10月狭义乘用车批发销量：183,154辆\n\n第2名：上汽大众\n10月狭义乘用车批发销量：180,000辆\n\n第3名：一汽大众\n10月狭义乘用车批发销量：174,181辆\n\n第4名：吉利汽车\n10月狭义乘用车批发销量：128,986辆\n\n第5名：东风日产\n10月狭义乘用车批发销量：118,047辆\n\n第6名：上汽通用五菱\n10月狭义乘用车批发销量：103,594辆\n\n第7名：长城汽车\n10月狭义乘用车批发销量：97,026辆\n\n第8名：长安汽车\n10月狭义乘用车批发销量：75,017辆\n\n第9名：广汽本田\n10月狭义乘用车批发销量：74,504辆\n\n第10名：东风本田\n10月狭义乘用车批发销量：70,062辆\n\n欲查看更多销量数据，请点击本公众号菜单栏“知识工具-销量查询”。\n\n 你可能感兴趣的活动\n\n（点击下方标签，阅读了解更多详情）\n\n延伸阅读\n\n长安、长城杀回十强！9月乘用车企销量前十再“洗牌”\n\n活动推荐\n\n12月20日，盖世汽车邀您参加长城汽车新技术专场交流会\n\n上海车展AUTOSHANGHAI 2019来袭，欢迎参展！\n\n500+业界精英 聚焦ADAS & Sensor核心技术 第二届全球自动驾驶论坛2019重磅来袭！\n\n邀请函 | 250位高管、500家企业、1000位业界同行，2018汽车与环境创新论坛",
+        "image_url": "",
+        "publish_date": "2018-11-10",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "汽车销量": 50
+            }
+        },
+        "prefilter_score": 5,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-21T09:45:15.674939",
+        "last_checked": "2026-10-21T09:45:15.674939",
         "channel": "wechat_sogou",
         "query": "乘用车销量"
     }
