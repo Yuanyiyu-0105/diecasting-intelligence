@@ -33,7 +33,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:28.300521",
-        "last_checked": "2026-10-21T09:45:25.917777"
+        "last_checked": "2026-10-22T13:50:09.172314"
     },
     {
         "title": "Europe’s Chinese car challenge is bigger than policymakers realize, UBS says",
@@ -51,7 +51,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:31.695131",
-        "last_checked": "2026-10-21T09:45:28.808520"
+        "last_checked": "2026-10-22T13:50:13.387018"
     },
     {
         "title": "China passenger car retail sales for Sept 1-20 down 22% year-on-year",
@@ -90,15 +90,15 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:39.699811",
-        "last_checked": "2026-10-21T09:46:02.846763"
+        "last_checked": "2026-10-22T13:50:47.430974"
     },
     {
         "title": "China Urges EU to Keep Auto Markets Open, Avoid Protectionism",
         "url": "https://www.bloomberg.com/news/articles/2026-09-22/china-urges-eu-to-keep-auto-markets-open-avoid-protectionism",
         "source": "OICA",
         "media": "Bloomberg",
-        "status": "timeout",
-        "error": "connect timeout",
+        "status": "failed",
+        "error": "HTTPSConnectionPool(host='www.bloomberg.com', port=443): Max retries exceeded with url: /news/articles/2026-09-22/china-urges-eu-to-keep-auto-markets-open-avoid-protectionism (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -108,7 +108,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:44.014967",
-        "last_checked": "2026-10-21T09:46:36.891518"
+        "last_checked": "2026-10-22T13:51:01.707151"
     },
     {
         "title": "Indian first-time car buyers make a comeback as lower taxes boosts small-vehicle demand",
@@ -126,7 +126,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:48.924355",
-        "last_checked": "2026-10-21T09:47:10.950976"
+        "last_checked": "2026-10-22T13:51:35.777941"
     },
     {
         "title": "The Chinese commercial vehicle industry is challenging the European industry’s tariff consensus.",
@@ -144,7 +144,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:51.559875",
-        "last_checked": "2026-10-21T09:47:14.860176"
+        "last_checked": "2026-10-22T13:51:39.164592"
     },
     {
         "title": "EU asks China to voluntarily limit hybrid car exports",
@@ -162,7 +162,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:55.144641",
-        "last_checked": "2026-10-21T09:47:48.885963"
+        "last_checked": "2026-10-22T13:52:13.221552"
     },
     {
         "title": "2026 IAA Transportation: China, Fleet Goals, and More: The Biggest Challenges Facing the Trucking Industry",
@@ -180,7 +180,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:57.891175",
-        "last_checked": "2026-10-21T09:47:52.086003"
+        "last_checked": "2026-10-22T13:52:16.323790"
     },
     {
         "title": "Negotiations on emissions under the Automotive Package “are at a standstill” in the European Parliament",
@@ -205,8 +205,8 @@
         "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-sets-70-ev-goal-for-new-car-sales-in-five-year-plan",
         "source": "OICA",
         "media": "Bloomberg",
-        "status": "timeout",
-        "error": "connect timeout",
+        "status": "failed",
+        "error": "HTTPSConnectionPool(host='www.bloomberg.com', port=443): Max retries exceeded with url: /news/articles/2026-09-11/china-sets-70-ev-goal-for-new-car-sales-in-five-year-plan (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -219,7 +219,7 @@
         "prefilter_score": 2,
         "prefilter_pass": true,
         "first_seen": "2026-10-15T11:11:04.810432",
-        "last_checked": "2026-10-21T09:48:26.121687"
+        "last_checked": "2026-10-22T13:52:20.639848"
     },
     {
         "title": "The Italian ANFIA calls for 80% EU tariff on Chinese cars and parts",
@@ -237,15 +237,15 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:07.453703",
-        "last_checked": "2026-10-21T09:49:00.161339"
+        "last_checked": "2026-10-22T13:52:54.685507"
     },
     {
         "title": "Ford Rebuked by Trump Cabinet Member Over Chinese Auto Ties",
         "url": "https://www.bloomberg.com/news/articles/2026-09-08/duffy-lashes-out-at-ford-over-ties-to-chinese-auto-companies",
         "source": "OICA",
         "media": "Bloomberg",
-        "status": "timeout",
-        "error": "connect timeout",
+        "status": "failed",
+        "error": "HTTPSConnectionPool(host='www.bloomberg.com', port=443): Max retries exceeded with url: /news/articles/2026-09-08/duffy-lashes-out-at-ford-over-ties-to-chinese-auto-companies (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -255,7 +255,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:10.369457",
-        "last_checked": "2026-10-21T09:49:34.191774"
+        "last_checked": "2026-10-22T13:52:59.015553"
     },
     {
         "title": "UK’s Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan",
@@ -273,15 +273,15 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:12.703296",
-        "last_checked": "2026-10-21T09:50:08.220859"
+        "last_checked": "2026-10-22T13:53:33.082960"
     },
     {
         "title": "VW Approves Plan to Cut 50,000 More Jobs in Broad Overhaul",
         "url": "https://www.bloomberg.com/news/articles/2026-09-03/vw-board-gives-ceo-blume-unanimous-backing-to-overhaul-carmaker?srnd=homepage-europe",
         "source": "OICA",
         "media": "Bloomberg",
-        "status": "timeout",
-        "error": "connect timeout",
+        "status": "failed",
+        "error": "HTTPSConnectionPool(host='www.bloomberg.com', port=443): Max retries exceeded with url: /news/articles/2026-09-03/vw-board-gives-ceo-blume-unanimous-backing-to-overhaul-carmaker?srnd=homepage-europe (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -291,7 +291,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:15.774268",
-        "last_checked": "2026-10-21T09:50:42.261702"
+        "last_checked": "2026-10-22T13:53:37.408075"
     },
     {
         "title": "Following a meeting with Elon Musk, France has authorized “road tests” of Tesla’s supervised autonomous driving system",
@@ -327,7 +327,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:21.913003",
-        "last_checked": "2026-10-21T09:51:16.313652"
+        "last_checked": "2026-10-22T13:54:11.444093"
     },
     {
         "title": "Renault swings to first-half profit on EVs despite rise of Chinese rivals",
@@ -347,15 +347,15 @@
         "prefilter_score": 1,
         "prefilter_pass": true,
         "first_seen": "2026-10-15T11:11:25.003774",
-        "last_checked": "2026-10-21T09:51:19.179328"
+        "last_checked": "2026-10-22T13:54:15.612760"
     },
     {
         "title": "Ford Boosts Outlook on Strong Demand for Profit-Rich SUVs",
         "url": "https://www.bloomberg.com/news/articles/2026-07-28/ford-raises-earnings-outlook-on-strong-sales-of-profit-rich-suvs",
         "source": "OICA",
         "media": "Bloomberg",
-        "status": "timeout",
-        "error": "connect timeout",
+        "status": "failed",
+        "error": "HTTPSConnectionPool(host='www.bloomberg.com', port=443): Max retries exceeded with url: /news/articles/2026-07-28/ford-raises-earnings-outlook-on-strong-sales-of-profit-rich-suvs (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -365,7 +365,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:27.728162",
-        "last_checked": "2026-10-21T09:51:53.205871"
+        "last_checked": "2026-10-22T13:54:19.907748"
     },
     {
         "title": "Porsche to Cut 5,000 Jobs and Invest 2.1 billion Euros",
@@ -383,7 +383,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:30.373826",
-        "last_checked": "2026-10-21T09:51:56.322654"
+        "last_checked": "2026-10-22T13:54:24.288400"
     },
     {
         "title": "Volkswagen Makes Its Corporate Restructuring Measurable",
@@ -401,7 +401,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:32.988076",
-        "last_checked": "2026-10-21T09:51:59.027301"
+        "last_checked": "2026-10-22T13:54:27.190718"
     },
     {
         "title": "Renault’s hit EV helps fend off Chinese rivals as quarterly sales rebound",
@@ -421,7 +421,7 @@
         "prefilter_score": 1,
         "prefilter_pass": true,
         "first_seen": "2026-10-15T11:11:35.264451",
-        "last_checked": "2026-10-21T09:52:33.036159"
+        "last_checked": "2026-10-22T13:55:01.229151"
     },
     {
         "title": "文灿股份:2026年半年度报告摘要",
@@ -4050,6 +4050,308 @@
         "prefilter_pass": true,
         "first_seen": "2026-10-21T09:45:15.674939",
         "last_checked": "2026-10-21T09:45:15.674939",
+        "channel": "wechat_sogou",
+        "query": "乘用车销量"
+    },
+    {
+        "title": "写真も高解像度に なぞるだけでデータ化 軽量コンパクトなハンディスキャナー サンワサプライから - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261021_669891.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "写真も高解像度に なぞるだけでデータ化 軽量コンパクトなハンディスキャナー サンワサプライから\n2026.10.22 06:30\nスマホ・PC\nサンワサプライ\nSHARE ON\nサンワサプライは10月20日、紙の書類や名刺、写真などをなぞるだけで簡単にデータ化できる、乾電池式ハンディスキャナー「400-SCN071」を直販サイト「サンワダイレクト」で発売した。価格は1万2800円。\n乾電池式でコンパクトなハンディスキャナー\n解像度は3段階で切り替えできる 持ち運びも簡単\n新製品は、スキャンボタンを押して原稿の上をゆっくりなぞるだけで、紙の書類や写真をデータ化できるハンディスキャナー。最大約21.6×35.6cmまでの読み取りに対応しており、A4書類など、さまざまなサイズに対応する。重量は約140gで、サイズは約幅25.5×奥行2.8×高さ2.5cm。電源は単3乾電池2本。\n400-SCN071\n電源は単3乾電池2本\n持ち運びに便利な専用ポーチも付属\n解像度は最大で900dpi。写真やイラストなども細部まで残すことができ、用途に応じた解像度の切り替えも300dpi、600dpi、900dpiの3段階切り替えに対応している。\n写真も高解像度で残せる\nスキャンしたデータは最大32GBまでのmicroSDカードに直接保存できる。PDF・JPEG形式での保存に対応しており、PCのほか、ハブを用意すればスマートフォンからでも確認が可能だ。\nmicroSDカードに直接保存\n写真ギャラリー\n※Amazonのアソシエイトとして、BCN＋Rは適格販売により収入を得ています。\nサンワダイレクト ハンディスキャナー A4サイズ対応 900dpi PDF/JPEG保存 持ち運び 小型 ポータブル 400-SCN071 | 乾電池式,microSDカード保存,軽量,ドキュメントスキャナー,データ化,スキャン\n￥12,800\nAmazonで見る\n電源がいらない スマホで簡単書き換えの電子ペーパーディスプレーに大型サイズ登場\n重さ40gの“超”軽量ワイヤレスヘッドホン「PORTA」 finalから登場\n3畳のスペースがあれば自宅が映画館に、ビックカメラ新宿西口店で「チェアスピーカー」を実演中\nPCに挿すだけでAI機能を拡張 ASUSのエッジAIアクセラレーター「UGen300」\nこれ1台でモバイルワークが変わる、スライド式収納で超コンパクトな静音ワイヤレスマウス\nハンディスキャナー「400-SCN071」＝https://direct.sanwa.co.jp/ItemPage/400-SCN071\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669891_ext_05_0.jpg",
+        "publish_date": "2026-10-21",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-22T13:46:59.619364",
+        "last_checked": "2026-10-22T13:46:59.619364"
+    },
+    {
+        "title": "GBAっぽくてレトロな配色が懐かしい ポケットAndroidゲーム機「KONKR POCKET ADVANCE」 - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261022_669884.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "GBAっぽくてレトロな配色が懐かしい ポケットAndroidゲーム機「KONKR POCKET ADVANCE」\n2026.10.22 06:00\nスマホ・PC\nSHARE ON\n天空は10月24日、AYANEOが開発したAndroid搭載携帯ゲーム機「KONKR POCKET ADVANCE 国内正規版」をハイビーム各店舗や公式オンラインストアで発売する。価格は2万4300円から。\nあの名機を思わせるAndroid携帯ゲーム機が登場\n約224gの軽量設計で気軽に持ち出せる カラーリングは全5色\n新製品は、レトロゲームに適した3:2比率の3.5インチディスプレーを採用したAndroidゲーム機。近年の携帯ゲームとしては軽量の約224gのコンパクト設計を採用しており、持ち運びも苦にならない。サイズは約151.3×82.4×22mm。\nKONKR POCKET ADVANCE\nコンパクト設計を採用\nCPUにはMediaTek Helio G90Tを採用し、メモリー3GB／ストレージ32GBモデル、4GB／64GBモデルの2種類を用意。冷却ファンを内蔵し、長時間のゲームプレーでも本体温度が上がりにくく、microSDカードによる容量拡張にも対応する。\nインターフェース 音量調整がトグルボタンなのもソックリ\nカラーリングは、昔懐かしい名機を思わせるネイビーブルー、コーラルオレンジのほか、ヘリテージグレー、ピーチピンク、クリアブラックの5色をラインアップする。\nカラー展開は5色\n写真ギャラリー\n※Amazonのアソシエイトとして、BCN＋Rは適格販売により収入を得ています。\nAYANEO KONKR Pocket ADVANCE 国内正規版 (ネイビーブルー メモリ3GBストレージ32GB) | 3.5インチ 960×640 3:2 LCD、MediaTek Helio G90T、Android 12、4000mAhバッテリー、Wi-Fi 5、Bluetooth 5.0、MicroSD\n￥24,300\nAmazonで見る\nAYANEO KONKR Pocket ADVANCE 国内正規版 (コーラルオレンジ メモリ3GBストレージ32GB) | 3.5インチ 960×640 3:2 LCD、MediaTek Helio G90T、Android 12、4000mAhバッテリー、Wi-Fi 5、Bluetooth 5.0、MicroSD\nAYANEO KONKR Pocket ADVANCE 国内正規版 (ピーチピンク メモリ3GBストレージ32GB) | 3.5インチ 960×640 3:2 LCD、MediaTek Helio G90T、Android 12、4000mAhバッテリー、Wi-Fi 5、Bluetooth 5.0、MicroSD\nAYANEO KONKR Pocket ADVANCE 国内正規版 (ヘリテージグレー メモリ3GBストレージ32GB) | 3.5インチ 960×640 3:2 LCD、MediaTek Helio G90T、Android 12、4000mAhバッテリー、Wi-Fi 5、Bluetooth 5.0、MicroSD\nAYANEO KONKR Pocket ADVANCE 国内正規版 (クリアブラック メモリ3GBストレージ32GB) | 3.5インチ 960×640 3:2 LCD、MediaTek Helio G90T、Android 12、4000mAhバッテリー、Wi-Fi 5、Bluetooth 5.0、MicroSD\n￥25,800\nAYANEO KONKR Pocket ADVANCE 国内正規版 (ネイビーブルー メモリ4GBストレージ64GB) | 3.5インチ 960×640 3:2 LCD、MediaTek Helio G90T、Android 12、4000mAhバッテリー、Wi-Fi 5、Bluetooth 5.0、MicroSD\n￥28,800\nミニオンズのゲーミングチェアが日本初上陸、「ボブ」デザインの本格ゲーミングチェア＆ソファ\n開封後すぐ使える 環境音やボイチャを最適化するShureのマイク「MV6 Gen 2」が配信に便利\n任天堂公認 ゼルダの伝説 ティアキン仕様のSwitch 2ワイヤレスコントローラーやケースが登場\n話題のゲーミングマウスに早くも新モデル ロジクールが新製品を多数発表\n能登半島地震でモニター転倒を防いだものとは？ アイオーデータのベテラン設計者にモニター転倒対策を聞いてみた\nKONKR POCKET ADVANCE 国内正規版＝https://www.ayaneo.jp/konkr-pocket-advance\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669884_ext_05_0.jpg",
+        "publish_date": "2026-10-22",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-22T13:47:02.563547",
+        "last_checked": "2026-10-22T13:47:02.563547"
+    },
+    {
+        "title": "「ファイナルファンタジーXIV」のゲームプレーや配信がさらに楽しめる、ローランドからゲーミング・オーディオミキサー新製品 - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261021_669880.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "「ファイナルファンタジーXIV」のゲームプレーや配信がさらに楽しめる、ローランドからゲーミング・オーディオミキサー新製品\n2026.10.21 16:00\nスマホ・PC\nSHARE ON\nローランドは、スクウェア・エニックスの人気オンラインRPG「ファイナルファンタジーXIV」とコラボレーションしたゲーミング・オーディオミキサー「BRIDGE CAST FINAL FANTASY XIV Edition」を12月12日に発売する。ゲームプレーや配信を実現する「BRIDGE CAST」をベースに、描き下ろしデザインや公式サウンド・エフェクトを搭載した特別モデルとなる。\nBRIDGE CAST FINAL FANTASY XIV Edition\n「チョコボ（アルファ）」と「オメガ」を描いた特別デザインを採用\nBRIDGE CAST FINAL FANTASY XIV Editionは、ファイナルファンタジーXIVの世界観が楽しめる公式コラボモデル。描き下ろしの「チョコボ（アルファ）」と「オメガ」のイラストとゲームのシンボルであるメテオマークをあしらったオリジナル・トップパネルを採用した。パッケージも、コラボ専用のデザインになっている。\n「BRIDGE CAST FINAL FANTASY XIV Edition」\nのトップパネル\n本体には、ダンジョン突入時の通称「シャキ音」や、「F.A.T.E.」突入時の公式サウンド・エフェクトを搭載。ボイスチャットやゲーム配信中にボタン一つで再生でき、ゲームの世界観がさらに身近に楽しめる。\n音響機器メーカーとして培ってきた技術を生かし、高音質なゲーム体験を実現するのも特徴。ゲーム内の重要なサウンドを強調するゲームEQプリセットやバーチャルサラウンド機能によって、臨場感のあるサウンド環境が構築できる。\nまた、高性能マイクプリアンプ、コンプレッサー、ノイズ除去、ディエッサーなどの音声処理機能にも対応。さらに、ローランドの「VTシリーズ」の技術を応用したボイス・トランスフォーマー機能を備え、声の高さや声質を調整してキャラクターになりきった音声演出も可能としている。\nゲームサウンドやボイスチャット、マイク入力など複数の音声ソースを個別にコントロールできるほか、配信用音声と自分のモニター用音声を別々に設定できるデュアルバス・ミキシング機能も搭載。ゲームプレー中でも、直感的な操作で音量バランスが調整できる。\nのオリジナル・パッケージ\nファイナルファンタジーXIVの世界観とローランドのオーディオ技術を融合したBRIDGE CAST FINAL FANTASY XIV Editionは、ゲームプレーと配信環境の両方を高める1台として期待がかかる。\n写真ギャラリー\nミニオンズのゲーミングチェアが日本初上陸、「ボブ」デザインの本格ゲーミングチェア＆ソファ\nこれはイヤホン？ 世界最強の電気街「華強北」が繰り出すオモシログッズを見てみよう［道越一郎のカットエッジ］\nダイレクトキーですぐに「ゲームモード」に切り替わる！ ORIONチューナーレステレビ\n秋の模様替えで見直したい Wi-Fiルーター買い替えの目安\n10周年を迎えた『仮面ライダーエグゼイド』の純金カードと純金立像が登場！\n「BRIDGE CAST FINAL FANTASY XIV Edition」＝https://www.roland.com/jp/products/bridge_cast_final_fantasy_xiv_edition/\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669880_ext_05_0.jpg",
+        "publish_date": "2026-10-21",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-22T13:47:05.400053",
+        "last_checked": "2026-10-22T13:47:05.400053"
+    },
+    {
+        "title": "ハクバ、ジンバルカメラ「Insta360 Luna Pro」専用液晶保護フィルム - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261021_669886.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "ハクバ、ジンバルカメラ「Insta360 Luna Pro」専用液晶保護フィルム\n2026.10.21 15:30\nスマホ・PC\nハクバ写真産業\nSHARE ON\nハクバ写真産業（ハクバ）は10月下旬に、中国Insta360のジンバルカメラ「Insta360 Luna Pro」に対応した液晶保護フィルム「Insta360 Luna Pro ／ Ultra 専用 液晶保護フィルムIII」を発売する。価格は1970円。\nInsta360 Luna Pro ／ Ultra 専用 液晶保護フィルムIII\n業界最高クラスの超低反射・高透明さ\n「Insta360 Luna Pro ／ Ultra 専用 液晶保護フィルムIII」は、反射光を抑える反射防止（AR）コートを採用することで、貼る前よりも高い視認性を実現する液晶保護フィルム。業界最高クラスの全光線透過率95.6％の透明度によって、正確な色調と明暗の階調をストレートに映し出せる。\nフィルム表面には、撥水・防汚効果のあるフッ素コートを施しているので指紋が付きにくく、付着した指紋も簡単に拭き取れる。また、帯電防止効果もあるため、静電気の発生が抑えられ、液晶画面にホコリやチリを寄せ付けない。\nさらに、ハードコート処理を施すことで表面硬度3Hを実現し、フィルム表面にすり傷や爪あとなどが残りにくいので、液晶画面を美しい状態のまま保てる。\nシリコン粘着層の自己吸着性によって、フィルムを画面に置くだけで自然に貼り付き、貼り付け時に入ってしまった気泡は自然に消え、微細なホコリならシリコン粘着層が取り込んで気泡を発生させない。また、貼り付けに失敗してしまった場合でも、吸着力を損なうことなく貼り直せる。\nそのほか、フィルム貼り付け前に油膜やホコリ、指紋といった汚れを拭き取るのに便利な、三菱ケミカルが開発した超極細繊維のクリーナーが付属している。\n対応機種は、Insta360 Luna Pro、Insta360 Luna Ultra。なお、レンズ用フィルムは付属していない。\n3畳のスペースがあれば自宅が映画館に、ビックカメラ新宿西口店で「チェアスピーカー」を実演中\nInsta360 Luna Ultra専用液晶保護フィルム発売、超低反射・高透明で見やすさ向上\nアクションカメラを守る！ ハクバの「DJI」「Insta360」専用「耐衝撃×撥水」液晶保護フィルム\n耐ショック・防水モデルのデジカメに、「耐衝撃・撥水」タイプの液晶保護フィルムがハクバから\nハクバ写真産業＝https://www.hakubaphoto.co.jp/corporation/\n「Insta360 Luna Pro ／ Ultra 専用 液晶保護フィルムIII」＝https://www.hakubaphoto.jp/products/detail/0101260034-00-00-00\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669886_ext_05_0.jpg",
+        "publish_date": "2026-10-21",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-22T13:47:08.509754",
+        "last_checked": "2026-10-22T13:47:08.509754"
+    },
+    {
+        "title": "スマホだけで身軽にお出かけ、Ninja Labsの新アクセサリー「MagSafe Flex Pouch」発売 - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261021_669876.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "スマホだけで身軽にお出かけ、Ninja Labsの新アクセサリー「MagSafe Flex Pouch」発売\n2026.10.21 15:00\nスマホ・PC\nスマートフォンケース\nSHARE ON\nアメリカ発の次世代iPhoneケースブランド「Ninja Labs（ニンジャ ラボ）」から、新作アクセサリー「MagSafe Flex Pouch（マグセーフ フレックス ポーチ）」が登場した。PRINCIPE Priveで予約を開始している。価格は1万2100円。\nMagSafe Flex Pouch\niPhoneに収納スペースを追加\nMagSafe Flex Pouchは、MagSafeと独自のシリコンブレンド素材を組み合わせたiPhone用の収納ポケット。MagSafe対応のiPhoneやケースに取り付けるだけで、カードや現金、AirPods、リップグロス、鍵、メイク用品など、外出時に必要な小物をスマートフォンと一緒に持ち運べる。\n必要な小物を一緒に持ち運べる\n背面に一体化されたMagSafeアタッチメントによって、対応するiPhoneやケースへ簡単に着脱できる。バッグを持たずに身軽に出かけたいときや、必要なものをすぐ手の届く場所に置いておきたいときに活躍する。\nカードも収納できる\n独自のシリコンブレンド素材を採用した特許取得済みのポケット構造によって、収納物に合わせてしなやかに伸縮。カード1枚を入れたときはスリムなフォルムを保ち、複数のカードやAirPods、コスメなどを収納するときには必要な分だけ広がる。伸縮するポケットが中身にフィットし、さまざまな形やサイズの小物をホールドする。\n必要な分だけ広がる\nスマートフォン一つで行動するスタイルが定着しつつある中、MagSafe Flex Pouchは「持ち歩く荷物を減らしたい」というニーズに応える新たな選択肢になりそうだ。\n写真ギャラリー\n持ち運んでこその安全 「iFace」全16色の半固体モバ充が登場 「iLiFE!」がアンバサダーに就任\n阪神タイガース優勝記念のスマホケースが登場、170機種以上に対応\n渋谷ヒカリエにスマホケース自販機、好きな写真でオリジナルケースを約5分で作成\niPhoneを持つ手が「疲れない」ケース オウルテックが発売\n「甲虫王者ムシキング」がスマホケースに！ 懐かしのカードデザインがiPhone・Android含む170機種以上に対応\n「Ninja Labs」＝https://principe-prive.com/collections/ninja-labs\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669876_ext_05_0.jpg",
+        "publish_date": "2026-10-21",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-22T13:47:11.687313",
+        "last_checked": "2026-10-22T13:47:11.687313"
+    },
+    {
+        "title": "ハクバ、超低反射・高透明の「EOS R8 MarkII」専用液晶保護フィルム - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261021_669882.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "ハクバ、超低反射・高透明の「EOS R8 MarkII」専用液晶保護フィルム\n2026.10.21 14:10\nスマホ・PC\nハクバ写真産業\nSHARE ON\nハクバ写真産業（ハクバ）は10月下旬に、キヤノンのフルサイズミラーレス一眼「EOS R8 MarkII」専用の液晶保護フィルム「Canon EOS R8 MarkII 専用 液晶保護フィルムIII」を発売する。価格は1970円。\nCanon EOS R8 MarkII 専用 液晶保護フィルムIII\n業界最高クラスの超低反射・高透明さ\n「Canon EOS R8 MarkII 専用 液晶保護フィルムIII」は、反射光を抑える反射防止（AR）コートを採用することで、貼る前よりも高い視認性を実現する液晶保護フィルム。業界最高クラスの全光線透過率95.6％の透明度によって、正確な色調と明暗の階調をストレートに映し出せる。\nフィルム表面には、撥水・防汚効果のあるフッ素コートを施しているため指紋が付きにくく、指紋が付着してしまった場合でも簡単に拭き取れる。また、帯電防止効果もあるため静電気の発生が抑えられ、液晶画面にホコリやチリを寄せ付けない。\nさらに、ハードコート処理を施すことで表面硬度3Hを実現しており、フィルム表面にすり傷や爪あとなどが残りにくく、液晶画面を美しい状態のまま保てる。\nシリコン粘着層の自己吸着性によって、フィルムを画面に置くだけで自然に貼り付き、貼り付け時に入ってしまった気泡は自然に消え、微細なホコリならシリコン粘着層が取り込んで気泡を発生させない。また、貼り付けに失敗してしまった場合でも、吸着力を損なうことなく貼り直せる。\nそのほか、フィルム貼り付け前に油膜やホコリ、指紋といった汚れを拭き取る際に便利な、三菱ケミカルが開発した超極細繊維のクリーナーが付属している。\n3畳のスペースがあれば自宅が映画館に、ビックカメラ新宿西口店で「チェアスピーカー」を実演中\n大切なカメラを守る最適解、貼るだけ簡単・割れにくいCanon EOS Rシリーズ用の液晶保護フィルム\nハクバから「EOS R6 Mark III」専用液晶保護フィルム発売、硬度9H＆極上の透明感\n超低反射と高透明さを誇る、ハクバから「EOS R50 V」専用の液晶保護フィルム\n硬度9H、ハクバから「EX-GUARD 液晶保護フィルム」2製品\nハクバ写真産業＝https://www.hakubaphoto.co.jp/corporation/\n「Canon EOS R8 MarkII 専用 液晶保護フィルムIII」＝https://www.hakubaphoto.jp/products/detail/0101260033-00-00-00\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669882_ext_05_0.jpg",
+        "publish_date": "2026-10-21",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-22T13:47:14.417450",
+        "last_checked": "2026-10-22T13:47:14.417450"
+    },
+    {
+        "title": "ペットの鳴き声を言葉で受け取る？ AI翻訳機「PettiChat」が犬猫の気持ちをスマホで“見える化” - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261019_669804.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "ペットの鳴き声を言葉で受け取る？ AI翻訳機「PettiChat」が犬猫の気持ちをスマホで“見える化”\n2026.10.19 15:00\nスマホ・PC\nSHARE ON\n「うちの子は今、何を伝えたいのだろう」。そんな飼い主の長年の疑問に応えるAIガジェットが登場した。エスイレブンは、犬や猫の鳴き声をAIで解析し、気分や状態をメッセージとして表示するペット向けデバイス「PettiChat」の先行販売をMakuakeで開始した。価格は2万3599円から。約27gの軽量設計に加え、位置確認や双方向コミュニケーション機能も備え、ペットとの新しい関係づくりを提案している。\nPettiChat\n気分や状態をスマホへ通知\nPettiChatは、ペットの鳴き声を検知し、音の特徴などをもとに気分や状態を推測。人に分かりやすいメッセージとして届け、アプリで確認できる。応答時間は約1.2秒という。本体の重さは約27g。首輪やハーネスなどにクリップで取り付けて使用できる。カラーは、シルバーとピンクの2色を用意している。\n本体の重さは約27g\n飼い主の言葉をもとにペット向けの音声を再生する機能も搭載。ペットが鳴いたときにメッセージが確認できるほか、音声を再生して反応を見ることもできる。\nペット向けの音声を再生する機能を搭載\nいつもの場所に姿が見えないときには、居場所を探す手がかりにもなる。離れた場所からは、ペットの周囲にあるWi-Fi機器やBluetooth機器の信号を利用して、アプリに居場所の目安を表示。近くまできたら、本体のBluetooth信号をスマホで受信して探すことができる。過去の移動ルートもアプリで確認できる。\n居場所を探す手がかりにもなる\nPettiChatは、これまで想像するしかなかったペットの気持ちを“見える化”し、家族としての絆をさらに深めるきっかけとなりそうだ。\n写真ギャラリー\nルンバ史上最高の“モンスター”が誕生！ 吸引力5倍・温水ミスト搭載の「Roomba Monster」発売、掃除の常識を変えるか\n家族型ロボット「LOVOT」が約3.5cmのキーホルダーに しかもフワフワなフロッキー仕様\nAIはクラウド＋エッジのハイブリッド時代へ［道越一郎のカットエッジ・特別編］\n『もはや、ねこ。』シリーズに「三毛猫」をモチーフとしたこたつ布団が登場！\nおすすめのスマホを選び方と一緒に実売ランキングから紹介！ 今人気の本当に売れている製品をデータから徹底解説\nエスイレブン＝https://www.seleven.co.jp/\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669804_ext_05_0.jpg",
+        "publish_date": "2026-10-19",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-22T13:47:17.262566",
+        "last_checked": "2026-10-22T13:47:17.262566"
+    },
+    {
+        "title": "自宅に残っているカセットテープを再び楽しめる！　80年代レトロデザインの超大型CDラジカセ - BCN＋R",
+        "url": "https://www.bcnretail.com/news/detail/20261019_669811.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "自宅に残っているカセットテープを再び楽しめる！ 80年代レトロデザインの超大型CDラジカセ\n2026.10.19 14:29\nスマホ・PC\nSHARE ON\nドウシシャは11月4日に、80年代に流行した超大型ラジカセをコンセプトに、当時のデザインや機能を踏襲しつつ最新のデジタル機能を融合した「俺たちの青春ラジカセ」シリーズの、最大サイズとなる「ORION Bluetooth機能搭載 CDダブルステレオラジカセ SCR-B10」のプロジェクトを、クラウドファンディングサイトの「GREEN FUNDING」にて開始する。\nORION Bluetooth機能搭載 CDダブルステレオラジカセ SCR-B10\n当時のラジカセデザインにデジタル機能を融合\n今回、「GREEN FUNDING」にてプロジェクトが開始される「SCR-B10」は、全幅約75cm、重さは約15.6kgで、「俺たちの青春ラジカセ」シリーズにおいて、最大のサイズとなる。\n歴代「俺たちの青春ラジカセ」シリーズのサイズ比較（右端が「SCR-B10」）\n本体にはスピーカードライバー×8基、総合60W出力のDクラスアンプを搭載し、10W＋20W＋20W＋10Wの構成で各スピーカードライバーを駆動することによって、迫力のあるサウンドを楽しめる。\n直径約15cmのウーファードライバーを左右に備える背面バスレフ方式を採用することで、豊かな低音再生を実現するとともに、ウーファーの出力を左右それぞれ調節できる「左右独立レベルコントロール機能」を搭載して、好みに合わせた低音のバランスの調節を可能にした。\n直径約15cmのウーファードライバー\nあわせて、直径約15cmフルレンジドライバーのセンター同軸上に直径約2.5cmツイーターを配置し、高音域を担うツイーターとフルレンジドライバーの中心軸を合わせた、ボーカルや楽器などの音像定位を意識したスピーカー構成となっている。\n音像定位を意識したスピーカー構成を採用\nさらに、20kHz以上の高音域を再生するホーンタイプの「ピエゾスピーカー」によって、高音域の再生を補完する。\n高音域の再生を補完するピエゾスピーカーも搭載\n音楽再生機能としては、Bluetooth接続への対応によるスマートフォンなどの機器からのワイヤレス再生、FM補完放送（ワイドFM）の受信にも対応したデジタルチューナーによるAM／FM放送の受信、USBメモリーに保存したMP3データの再生、スロットローディング方式を採用したCDプレーヤーによるCD再生、Wカセットデッキによるカセットテープの再生ができる。また、音声入力信号に連動して点滅する「LEDレベルメーター」、高音・低音をそれぞれ調整可能な「独立コントロール機能」、左右のスピーカーの音量バランスを調整できる「左右スピーカーバランス機能」、低音域と高音域を補正する「ダイナミックモード」を搭載する。\nほかにも、カセットテープやUSBメモリーへの録音が可能で、テレビやフォノイコライザーアンプを内蔵したレコードプレーヤーなどを接続できる3.5mmステレオミニプラグ対応の外部入力端子、イヤホンで音楽を楽しめるステレオイヤホン端子も備えている。また、電子エコー機能とマイク音量調節機能、マイク入力端子×2系統を搭載し、カラオケのデュエットが楽しめるほか、拡声器としても使える。\nなお、家庭用電源に加えて、単1形乾電池×10本（別売）での駆動にも対応している。\n写真ギャラリー\n1台16役！ 次世代の自動調理家電「マルチグリルクッカー GRISIA」 11月発売\n音楽アーティスト「ずっと真夜中でいいのに。」とコラボレーションした多機能ラジカセ、追加受注販売！\n昭和レトロの空気感をBluetoothで楽しむ、ステレオラジオカセット「ORION SCR-B3」にレッド追加\nZUTOMAYOモデルのラジカセ、ついに解禁！ ドウシシャが販売\nドウシシャ、80年代に憧れた俺たちの青春「ドデカCDラジカセ」\nドウシシャ＝https://www.doshisha.co.jp/\n「SCR-B10」プロジェクトページ（GREEN FUNDING／プロジェクト開始時刻より公開予定）＝https://greenfunding.jp/lab/projects/9469\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\n売れてるもの\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669811_ext_05_0.jpg",
+        "publish_date": "2026-10-19",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-22T13:47:21.888369",
+        "last_checked": "2026-10-22T13:47:21.888369"
+    },
+    {
+        "title": "Lenovo Tabが首位に　Androidタブレット人気ランキングTOP10　2026/10/21 - BCN＋R",
+        "url": "https://www.bcnretail.com/ranking/research/detail/20261021_669836.html",
+        "source": "BCN",
+        "media": "BCN",
+        "source_type": "data",
+        "status": "ok",
+        "error": "",
+        "content": "BCNランキングTOP\n売れてるもの\nLenovo Tabが首位に Androidタブレット人気ランキングTOP10 2026/10/21\n2026.10.21 12:00\nタブレット端末\nAndroid\nSHARE ON\n「BCNランキング」2026年10月5日～11日の日次集計データによると、Androidタブレット端末の実売台数ランキングは以下の通りとなった。\n1位 Lenovo Tab\nZAEH0063JP（レノボ・ジャパン）\n2位 LAVIE Tab Lite\nTL103/KAL（NEC）\n3位 TCL TAB 10 Gen4\n8483A（TCL Communication Technology）\n3位 LUCA Tablet TE08D1M64 グレー\nTE08D1M64-KV1H（アイリスオーヤマ）\n5位 Galaxy Tab A11+\nSM-X230NZAAXJP（SAMSUNG）\n6位 LAVIE Tab T8\nT0855/KAS（NEC）\n7位 Lenovo Tab Plus\nZADX0061JP（レノボ・ジャパン）\n8位 LAVIE Tab T11N ルナグレー\nT1175/LAS（NEC）\n9位 LAVIE Tab T12N\nT1275/LAS（NEC）\n10位 LAVIE Tab T10\nT1055/KAS（NEC）\nLenovo Tab\n＊「BCNランキング」は、全国の主要家電量販店・ネットショップからパソコン本体、デジタル家電などの実売データを毎日収集・集計しているPOSデータベースで、日本の店頭市場の約4割（パソコンの場合）をカバーしています。\n写真ギャラリー\n※Amazonのアソシエイトとして、BCN＋Rは適格販売により収入を得ています。\nLenovo Tab ZAEH0063JP タブレット 10.1インチ | MediaTek Helio G85 4GB 64GB ルナグレー バッテリー駆動9.5時間 Android 14 タブレットpc\n￥26,731\nAmazonで見る\nTCL タブレット TAB 10 Gen4 10.1インチ 薄型 軽量 Android 15 フルHD IP54 最大9時間ストリーミング 純正フリップケース フィルム 同梱 フューチャー・ダスク グレー 【公式ステッカー付き】\n￥31,800\nSamsung Galaxy Tab A11+ 128GB （Wi-Fi）｜AI対応｜グレー｜タブレット｜Samsung純正 国内正規品｜2025年発売｜11.0インチ｜128GB(最大2TB拡張)｜バッテリー7,040mAh｜477.0g｜Android｜SM-X230NZAAXJP\n￥44,127\nNEC LAVIE T8 タブレット 8.7インチ wi-fiモデル Android 14 MediaTek Helio G85 4GB 64GB LED 広視野角液晶 ルナグレー TAB08H05\n￥28,061\nLenovo Tab Plus ZADX0061JP タブレット 11.5インチ | MediaTek Helio G99 8GB 256GB ルナグレー バッテリー駆動12時間 Android 14 タブレットpc\n￥42,500\nNEC LAVIE T11N タブレット 11インチ wi-fiモデル Android 15 MediaTek Dimensity 6300 8GB 128GB 広視野角液晶 ルナグレー TAB11Q02\n￥53,480\nノートPCも急速充電、車内が“オフィス”に変わる最大83W出力の車載用PD充電器\n2万6999円で買える！ 12.2インチ大画面タブレット「RebotAi AF12」が期間限定セール\n楽天モバイルが対面で「災害用伝言板」を伝える理由、「つながるための選択肢」を災害時に\nBCNランキング・データサービス＝https://www.bcnretail.com/dataservice/\nタブレット端末 週間売れ筋ランキング＝https://www.bcnretail.com/ranking/weekly/contents_type=148\nRECOMMEND\nおすすめの記事\nくらしを彩る\n折りたたみスマホのメリット・デメリットを徹底解説 向いている人やおすすめ製品も紹介\niPhone Duo発売直前 話題の折りたたみスマホの勢力図は？ 最新データではSAMSUNGの新モデルがアツい\n持ち運びに特化 全固体電池を採用したタブレット型モバイルバッテリー\n【PDF業務改善】定番ツールに頼りきらない新しい選択肢。AI搭載PDF編集ソフト「UPDF」が現場の文書作業を変える理由\n家電の電気代を一覧でチェック 冷蔵庫・洗濯機・エアコンなどのコストを徹底比較\n値上げ直前で駆け込みか、ワコム製品が急上昇、26年9月に売れたタブレット端末TOP10\n売れてるもの TOP\n売れてる分析\n家電とIT TOP\nスマホ・PC\nくらしを彩る TOP\n暮らしにプラス\nかしこく暮らす\n特集 TOP\nカラリと快適生活\n完全ワイヤレスイヤホン最前線\nおうちエンタメ、極上計画\nどうなるモバブ\n話題 TOP\nお役立ち TOP\nファイナンス\nBCN AWARD\n注目のキーワード\n完全ワイヤレスイヤホン\nヘッドホン・イヤホン\nモバイルバッテリー\nお問い合わせ\n登録情報変更\n個人情報保護ポリシー",
+        "image_url": "https://www.bcnretail.com/files/topics/669836_ext_05_0.jpg",
+        "publish_date": "2026-10-21",
+        "keywords": {
+            "core": {},
+            "downstream": {}
+        },
+        "prefilter_score": 0,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-22T13:47:26.117521",
+        "last_checked": "2026-10-22T13:47:26.117521"
+    },
+    {
+        "title": "两款燃油车重回乘用车销量榜前十,卡罗拉锐放以16865辆位列第六,RAV4荣放以16738辆排名第八",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MjA4MjA4MA%3D%3D&mid=2655387948&idx=6",
+        "source": "观察者网",
+        "media": "观察者网",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "据第一财经10月12日消息，在8月短暂退出榜单后，燃油车于2026年9月重回乘用车零售销量前十。\n\n懂车帝援引的乘联分会数据显示，两款上榜的燃油车均出自一汽丰田：卡罗拉锐放以16865辆位列第六，RAV4荣放以16738辆排名第八。榜单其余八席全部为新能源车型。\n\n8月，该榜单前十曾被新能源全部包揽，燃油车无一上榜，这是年内第二次；5月的前十榜单同样没有燃油车。6月，丰田凯美瑞、大众朗逸曾双双回到前十。\n\n9月榜单前三名仍由新能源把持。特斯拉Model Y以50359辆居首，吉利星愿44275辆位列第二，比亚迪元UP22767辆位列第三。\n\n与6月回榜的两款燃油轿车不同，此次留在前十的是两款丰田SUV，且都提供油电混动（双擎）版本。\n\n乘联分会分析称，9月燃油车全线收缩，纯燃料乘用车国内零售近乎腰斩式下滑，普混车型相对抗跌。\n\n乘联分会数据显示，2026年9月全国乘用车市场零售161.8万辆，同比下降28.0%，环比增长5.0%；1–9月乘用车累计零售1333.4万辆，同比下降21.7%。\n\n9月燃油车零售同比下降43%，其中纯燃油车同比下降49%，普通混合动力车同比增长25%。燃油车中自主同比下降47%，主流合资同比下降42%，豪华同比下降41%，均无差别地受到高油价剧烈冲击。\n\n乘联分会数据显示，截至9月24日调价落地，今年国内汽油价格累计上调2375元/吨，折合每升上涨约1.9至2.03元。该机构指出，行业库存持续低迷，高油价冲击燃油车明显，经销商新车进货更为谨慎，绝大部分经销商认为“金九银十”旺季效应明显弱于往年，经销商生存压力大、信心不足。\n\n新能源车同样受制于高基数。9月新能源乘用车零售108.4万辆，同比下降16.7%，降幅明显小于燃油车；当月新能源零售渗透率升至67.0%，较去年同期提高9.1个百分点，批发渗透率65.4%，均创历史新高。\n\n乘联分会在分析中把9月车市主线概括为“燃油加速萎缩、新能源韧性领跑”。从消费特征看，高油价继续抑制燃油车需求，“油电替代”加速，新能源渗透率在65%以上高位运行，消费者购车决策中用车成本权重持续上升。\n\n乘联分会预计，10月工作日与去年同期持平，中秋已过，有效销售时间更长，终端客流有望持续回暖；以旧换新补贴预计“前低后高”，与去年10月补贴逐步退出形成反差。\n\n来源|第一财经\n推荐阅读",
+        "image_url": "",
+        "publish_date": "2026-10-12",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "汽车销量": 14
+            }
+        },
+        "prefilter_score": 5,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-22T13:49:23.168719",
+        "last_checked": "2026-10-22T13:49:23.168719",
+        "channel": "wechat_sogou",
+        "query": "乘用车销量"
+    },
+    {
+        "title": "2026国内新能源乘用车销量预计跌12%",
+        "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792648099&ver=7041&signature=9rtI-wf9fw2nWm1QFK10EZT5ggf4IjxkbkGIfisAqr*U0VEjkzNr8cFdyY2Re0xcwVWZ6j5EeAA14SgG7Dz*Y-H96*80y-lFpJhJnzH5qpccqfe8hyKcd0l3S4fJbRpH&new=1",
+        "source": "电动汽车观察家",
+        "media": "电动汽车观察家",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "2026国内新能源乘用车销量预计跌12%\n\n2026年行至此时，大局的轮廓已现——国内销售大跌，出口撑起大局，总量差强人意。\n \n全年国内新能源乘用车销量预计1100万辆，相比2025年的1248.3万辆，预计下跌12%。\n \n不过，全年新能源汽车销量（新能源乘用车国内销量+新能源商用车国内销量+新能源汽车出口）预计可以达到1800万辆，还能增长约10%左右。\n \n前三季度的成绩单摆在这儿——\n \n2026年前9月国内新能源乘用车终端上险仅754.68万辆，同比下降13.56%。即便是“金九”也非常虚弱——9月国内新能源乘用车终端上险108.42万辆，同比下滑16.25%。\n \n不过，出口成为最重要的对冲力量。预计全年新能源汽车出口将暴增到580万辆。再加上新能源商用车的国内全年销售预计可达120万辆，新能源汽车总体销量才能保持增长。\n \n分动力类型看，覆巢之下无完卵。\n \n纯电车型相对更有韧性，9月国内终端上险76.58万辆，同比下滑9.39%，跌幅小于整体大盘。\n \n插混车型比增程稍晚受到“油改电”的压力，9月终端销量23.29万辆，同比大幅下滑32.40%，降幅持续拉大。\n \n增程车型去年下半年已经调整，因此跌幅持续收窄，9月上险8.56万辆，同比下滑18.49%。\n \n从车型品类来看，同样也是一损俱损。有意思的是，今年就新能源轿车而言，A0级比A级要好卖很多，当然B级、C级也相对A级要好得多。就现在的消费趋势，车确实越做越大，本来是大盘的A级，已经越来越弱势，甚至不如再做小一点好卖。\n\n具体车型方面，可以说是老牌畅销车“复辟”：特斯拉双雄分居细分市场前列；腾势D9回到MPV榜首。还有常青树——比亚迪秦、吉利星愿分居A级和A0级轿车榜首。A00呢？图表仅限20张无法列出，但冠军还是五菱宏光MINI。\n \n从品牌格局看，2026年1-9月新能源乘用车上险数据显示，比亚迪以134.50万辆遥遥领先，集团依靠多品牌矩阵稳住体量。吉利、零跑构成第二梯队，1-9月上险量分别为57.03万辆、47.34万辆；特斯拉、五菱、理想、小米紧随其后。\n \n当然，除了极氪、蔚来、零跑、方程豹，其他品牌都大跌，因此品牌的拼争也基本要看出口市场。\n\n喜欢作者\n\n 支持原创 \n\n北京\n,\n10月19日\n,",
+        "image_url": "",
+        "publish_date": "2026-10-19",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "电动车": 4,
+                "汽车销量": 8
+            }
+        },
+        "prefilter_score": 9,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-22T13:49:28.040104",
+        "last_checked": "2026-10-22T13:49:28.040104",
+        "channel": "wechat_sogou",
+        "query": "乘用车销量"
+    },
+    {
+        "title": "2月乘用车销量同比下滑,乡亲们是在等这几款刚上市新车吗?",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIwMzAwNTI3Mw%3D%3D&mid=2651348110&idx=4",
+        "source": "爱车兵团",
+        "media": "爱车兵团",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "3月8日\n\n乘联会对外公布了\n\n2019年2月乘用车产销数据\n\n整体而言\n\n2月份乘用车销量继续呈现下滑趋势\n\n同比下滑了19%\n\n至于和1月份的销量环比\n\n由于2月份正值中国传统春节\n\n所以不具参考性\n\n根据乘联会公布的车企销量排行榜\n\n吉利、长城、长安\n\n成为上榜前十的中国品牌\n\n其实影响2月销量的因素\n\n除了春节、经济环境\n\n还有节后休眠期、国五国六切换等\n\n例如如今在推的汽车下乡\n\n便是销量的助推剂\n\n至于汽车下乡的效果如何\n\n兵哥反而觉得\n\n与其预估汽车下乡的效果\n\n不如多留意近期上市的新车\n\n看看车企在2019年\n\n为国内消费者带来了哪些新产品\n\n3月6日，长安汽车旗下全新中型SUV CS85 COUPE正式在海南上市，定价13.69-16.99万元；在随后的3月9日，广州区域也迎来了CS85 COUPE的上市，携带“型”“动”“品”“智”四款车型，四大亮点，开启长安汽车产品发展的新篇章。作为长安汽车倾力打造的重量级车型，CS85 COUPE采用了穹顶流光式溜背设计，被誉为最美中国跨界SUV，搭载的蓝鲸D20TGDI增压直喷发动机，匹配上爱信8AT变速器，堪称同级最牛黄金动力组合。\n\n除了这些硬实力，CS85 COUPE还搭载了腾讯全新TAI汽车智能系统，由长安与腾讯合作的梧桐车联引入了海量腾讯优势内容生态，如QQ音乐、腾讯电台，还包括王者荣耀等热门IP资源。同时车载微信社交功能也将在CS85 COUPE上不断迭代升级。而在安全配置上，除了基本的主被动安全配置，CS85 COUPE还搭载了各种黑科技，例如IACC集成式自适应巡航系统、AEB预警辅助制动系统、APA4.0代客泊车系统等等。\n\n作为近期最受消费者关注的PHEV插班生之一，一汽丰田卡罗拉双擎E+在上周正式公布了售价，官方定价21.18-23.48万，综合补贴后的价格为18.98-21.28万元。虽然卡罗拉双擎E+补贴后的售价相比名爵6新能源有着较大的差距；但基于卡罗拉与卡罗拉双擎打下的良好市场口碑，卡罗拉双擎E+依然会是PHEV领域的热门选手。设计上，卡罗拉双擎E+与双擎的变化并不大，尽在一些细节上做了专属化处理；最大的变化在于搭载了一套由1.8L自然吸气发动机、双电机和电池组构成的插电混动系统，其纯电续航里程为55km，综合工况油耗为1.3L/100km。其实对于限牌城市想购买卡罗拉双擎的消费者，卡罗拉双擎E+的到来，还是有着不小的吸引力的。\n\n不论你怎么看待五菱宏光S3这款SUV车型，它的受众关注度就在那里。作为一款伴随消费升级而来的车型，五菱宏光S3背后是五菱品牌对三四线城市消费者的理解；为了进一步满足消费者更高的用车需求，上周，五菱宏光S3正式推出了自动离合版车型，定价6.68-7.68万元。自动离合版的最大亮点是在原来手动挡的基础上，增加了一套来自舍弗勒的自动换挡机构，该机构可以减少油离配合的操作，降低驾驶者开手动挡车型的上手难度以及长时间驾驶的劳累。\n\n随着市面上越来越多的6座车型，杰德作为早期登陆国内市场的6座车型，由于较长的服役时间，竞争力已经逐渐被许多新车赶超。但这并不意味着东风本田放弃了杰德这款产品，上周，杰德就正式推出了年度改款车型；新车保持了杰德原有的设计元素与定价，对配置进行了升级。例如1.5T豪华版车型配备了Honda SENSING安全超感系统，1.5T风尚版车型新增自动LED大灯+大灯自动调节，1.8L舒适版升级为全景天窗，1.8L经典版新增电动天窗。此外，2019款杰德还有一大变化，就是在产品阵容上取消了6座版本的车型，专注于5座乘用车市场。\n\n东风悦达起亚智跑新推的这两款车型，如果放在早几年，肯定会受到市场的质疑，不过在如今发动机小排量化、涡轮化的当下，一款紧凑型SUV匹配1.4T发动机已经得到了消费者的接受，而智跑新增的两款车型，便是搭载1.4T（国六）发动机，匹配7挡双离合变速箱的车型。在设计上，新车与在售车型保持一致，不过在内饰上增加了红色的配色，中控台也对应地升级为红色金属质感材质；并且新车还将搭载前方防撞辅助、车道保持辅助、车道偏离预警以及驾驶员疲劳提醒等多项智能驾驶辅助功能。所以，智跑1.4T车型的到来，并非拉低车型的入门门槛，而是站在2.0L车型的基础上，将产品阵容向上延伸。\n\n上周，迈锐宝XL新增三款名为535T 锐行版/锐动版/锐联版的车型，这三款新车与在售车型最大的区别在于，将在售车型搭载的2.0T发动机更换为1.3T发动机（国六），匹配CVT变速箱。对于一款中型轿车而言，1.3T的动力是否能够胜任呢？从该款发动机165马力的最大功率，240牛·米的峰值扭矩来看，动力反而并不是最需要关注的，更值得关注的是这样一台小排量发动机，在一辆中型轿车上的静谧性表现。\n\n在上周，斯柯达柯迪亚克也迎来了产品的年度改款，推出了2019款的车型。作为年度小改款，新车的改动并不大，只是针对配置进行了小幅提升，例如除顶配车型外的车型，都增加了斑马智行多媒体系统，换装9英寸大屏（顶配维持原来的配置）。动力上，新款柯迪亚克依旧搭载高低功率的2.0T发动机，匹配7挡双离合变速箱。\n\n上周，兵哥从广州市南沙区人民政府官网建设项目环境影响公示中获悉，丰田有计划推出一款代号为M15C的全新发动机，从相关消息了解到，该款发动机将会是一款三缸发动机，前期在广汽丰田投产，年产量为10.8万台，M15C在这台发动机在日后将会陆续替代丰田现有的1.6L和1.2T两款发动机，成为小型、紧凑型车的主流动力配备。\n\n上周，一则长城汽车股份有限公司与德国巴博斯汽车公司的合作新闻，成为了许多汽车媒体关注的热点。随后兵哥从官方获悉，在3月6日的日内瓦车展上，长城汽车与巴博斯汽车就已正式签署了合作框架协议；未来，长城汽车和巴博斯汽车将就在动力总成、内外饰设计以及整车调校上进行合作。参考奔驰与巴博斯之间的关系，我们有理由相信在不久的将来，长城汽车将会推出定制化、个性化的高端车型。\n\n上周，海南省正式发布了《海南省清洁能源汽车发展规划》，规划中明确提及海南省将在2030年全面停售燃油汽车，而这一目标的实现将会在2020年、2025年分阶段实施。目前海南省正在积极推动新能源配套设施的建设，截止2018年底，海南省累计建成充电桩4602个，其中新能源汽车总体电桩的比例接近4.5:1，远超国家之前关于新能源充电桩发展的目标（10:1）。\n\n作为中国消费者最为熟悉的现代车型，索纳塔的变迁就是韩系车在中国发展的见证；日前，现代官方发布了全新一代索纳塔的官方图片，从官图中我们看到了一款全新的索纳塔，全新的设计语言让索纳塔更具年轻化与运动感；据悉全新一代索纳塔还将会在配置、车身尺寸上进行全面升级；而在动力上，新车有望搭载2.4L、2.0T和2.0L混动三款动力。",
+        "image_url": "",
+        "publish_date": "2019-03-11",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "电动车": 1,
+                "汽车销量": 4
+            }
+        },
+        "prefilter_score": 5,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-22T13:49:39.872361",
+        "last_checked": "2026-10-22T13:49:39.872361",
+        "channel": "wechat_sogou",
+        "query": "乘用车销量"
+    },
+    {
+        "title": "3月国内乘用车销量192万辆 同比增长7.8%",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDc2ODM0MA%3D%3D&mid=406427632&idx=1",
+        "source": "盖世汽车社区",
+        "media": "盖世汽车社区",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "4月11日，全国乘用车市场信息联席会发布了2016年3月乘用车销量情况：3月，全国广义乘用车累计销量1923243辆，环比增长40.1%，同比增长7.8%。其中，轿车销量965724辆，同比下降4.1%；SUV销量663805辆，同比增长43.2%；MPV销量212,283辆，同比增长6.5%。\n\n在车企销量排行榜上，大众依旧以绝对优势领跑，上汽大众、一汽-大众分列3月国内狭义乘用车销量榜的前两名。\n\n来源：腾讯汽车\n\n热点内容推荐：（公众号回复数字阅读相应文章）\n\n121.整车生产流程 图文详解\n128.老外拆解中国车，国产车到底哪里差？\n\n133.世界先进模具工业地域布局及国内各省情况解析\n\n2016年盖世全年活动规划(←点击查看详情或报名)\n\n报名可点击下方的“阅读原文”填写报名信息\n\n↓↓↓",
+        "image_url": "",
+        "publish_date": "2016-04-12",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "汽车销量": 5
+            }
+        },
+        "prefilter_score": 5,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-22T13:49:43.901127",
+        "last_checked": "2026-10-22T13:49:43.901127",
+        "channel": "wechat_sogou",
+        "query": "乘用车销量"
+    },
+    {
+        "title": "2023年乘用车销量出炉:创5年来新高,出口量世界第一",
+        "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792648099&ver=7041&signature=PJYf4U0uHS5-q3ZMlh0fRXVHpnUYq-j9qsvLDso*pV52PgrLhdpgq*6Qz9-xwfMDZn5XSVYfbVdxGk0lbAIc1JMrUG7ew6tIfgOLEEyhMnfCWs0ZuICJKEhB-fdH*R1K&new=1",
+        "source": "汽车迷Pro",
+        "media": "汽车迷Pro",
+        "source_type": "news",
+        "status": "short",
+        "error": "正文抓取过短",
+        "content": "",
+        "image_url": "",
+        "publish_date": "2024-02-19",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "汽车销量": 1
+            }
+        },
+        "prefilter_score": 1,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-22T13:49:56.944850",
+        "last_checked": "2026-10-22T13:49:56.944850",
         "channel": "wechat_sogou",
         "query": "乘用车销量"
     }
