@@ -33,7 +33,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:28.300521",
-        "last_checked": "2026-10-22T13:50:09.172314"
+        "last_checked": "2026-10-23T09:01:28.477265"
     },
     {
         "title": "Europe’s Chinese car challenge is bigger than policymakers realize, UBS says",
@@ -51,7 +51,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:31.695131",
-        "last_checked": "2026-10-22T13:50:13.387018"
+        "last_checked": "2026-10-23T09:01:31.415255"
     },
     {
         "title": "China passenger car retail sales for Sept 1-20 down 22% year-on-year",
@@ -90,15 +90,15 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:39.699811",
-        "last_checked": "2026-10-22T13:50:47.430974"
+        "last_checked": "2026-10-23T09:02:05.468023"
     },
     {
         "title": "China Urges EU to Keep Auto Markets Open, Avoid Protectionism",
         "url": "https://www.bloomberg.com/news/articles/2026-09-22/china-urges-eu-to-keep-auto-markets-open-avoid-protectionism",
         "source": "OICA",
         "media": "Bloomberg",
-        "status": "failed",
-        "error": "HTTPSConnectionPool(host='www.bloomberg.com', port=443): Max retries exceeded with url: /news/articles/2026-09-22/china-urges-eu-to-keep-auto-markets-open-avoid-protectionism (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))",
+        "status": "timeout",
+        "error": "connect timeout",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -108,7 +108,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:44.014967",
-        "last_checked": "2026-10-22T13:51:01.707151"
+        "last_checked": "2026-10-23T09:02:39.512140"
     },
     {
         "title": "Indian first-time car buyers make a comeback as lower taxes boosts small-vehicle demand",
@@ -126,7 +126,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:48.924355",
-        "last_checked": "2026-10-22T13:51:35.777941"
+        "last_checked": "2026-10-23T09:03:14.371168"
     },
     {
         "title": "The Chinese commercial vehicle industry is challenging the European industry’s tariff consensus.",
@@ -144,7 +144,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:51.559875",
-        "last_checked": "2026-10-22T13:51:39.164592"
+        "last_checked": "2026-10-23T09:03:17.241281"
     },
     {
         "title": "EU asks China to voluntarily limit hybrid car exports",
@@ -162,7 +162,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:55.144641",
-        "last_checked": "2026-10-22T13:52:13.221552"
+        "last_checked": "2026-10-23T09:03:51.283643"
     },
     {
         "title": "2026 IAA Transportation: China, Fleet Goals, and More: The Biggest Challenges Facing the Trucking Industry",
@@ -180,7 +180,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:10:57.891175",
-        "last_checked": "2026-10-22T13:52:16.323790"
+        "last_checked": "2026-10-23T09:03:54.209678"
     },
     {
         "title": "Negotiations on emissions under the Automotive Package “are at a standstill” in the European Parliament",
@@ -205,8 +205,8 @@
         "url": "https://www.bloomberg.com/news/articles/2026-09-11/china-sets-70-ev-goal-for-new-car-sales-in-five-year-plan",
         "source": "OICA",
         "media": "Bloomberg",
-        "status": "failed",
-        "error": "HTTPSConnectionPool(host='www.bloomberg.com', port=443): Max retries exceeded with url: /news/articles/2026-09-11/china-sets-70-ev-goal-for-new-car-sales-in-five-year-plan (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))",
+        "status": "timeout",
+        "error": "connect timeout",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -219,7 +219,7 @@
         "prefilter_score": 2,
         "prefilter_pass": true,
         "first_seen": "2026-10-15T11:11:04.810432",
-        "last_checked": "2026-10-22T13:52:20.639848"
+        "last_checked": "2026-10-23T09:04:28.358226"
     },
     {
         "title": "The Italian ANFIA calls for 80% EU tariff on Chinese cars and parts",
@@ -237,15 +237,15 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:07.453703",
-        "last_checked": "2026-10-22T13:52:54.685507"
+        "last_checked": "2026-10-23T09:05:02.397943"
     },
     {
         "title": "Ford Rebuked by Trump Cabinet Member Over Chinese Auto Ties",
         "url": "https://www.bloomberg.com/news/articles/2026-09-08/duffy-lashes-out-at-ford-over-ties-to-chinese-auto-companies",
         "source": "OICA",
         "media": "Bloomberg",
-        "status": "failed",
-        "error": "HTTPSConnectionPool(host='www.bloomberg.com', port=443): Max retries exceeded with url: /news/articles/2026-09-08/duffy-lashes-out-at-ford-over-ties-to-chinese-auto-companies (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))",
+        "status": "timeout",
+        "error": "connect timeout",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -255,7 +255,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:10.369457",
-        "last_checked": "2026-10-22T13:52:59.015553"
+        "last_checked": "2026-10-23T09:05:36.449089"
     },
     {
         "title": "UK’s Jaguar Land Rover to cut nearly 10% of workforce under turnaround plan",
@@ -273,15 +273,15 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:12.703296",
-        "last_checked": "2026-10-22T13:53:33.082960"
+        "last_checked": "2026-10-23T09:06:10.485681"
     },
     {
         "title": "VW Approves Plan to Cut 50,000 More Jobs in Broad Overhaul",
         "url": "https://www.bloomberg.com/news/articles/2026-09-03/vw-board-gives-ceo-blume-unanimous-backing-to-overhaul-carmaker?srnd=homepage-europe",
         "source": "OICA",
         "media": "Bloomberg",
-        "status": "failed",
-        "error": "HTTPSConnectionPool(host='www.bloomberg.com', port=443): Max retries exceeded with url: /news/articles/2026-09-03/vw-board-gives-ceo-blume-unanimous-backing-to-overhaul-carmaker?srnd=homepage-europe (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))",
+        "status": "timeout",
+        "error": "connect timeout",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -291,7 +291,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:15.774268",
-        "last_checked": "2026-10-22T13:53:37.408075"
+        "last_checked": "2026-10-23T09:06:44.496851"
     },
     {
         "title": "Following a meeting with Elon Musk, France has authorized “road tests” of Tesla’s supervised autonomous driving system",
@@ -327,7 +327,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:21.913003",
-        "last_checked": "2026-10-22T13:54:11.444093"
+        "last_checked": "2026-10-23T09:07:18.518905"
     },
     {
         "title": "Renault swings to first-half profit on EVs despite rise of Chinese rivals",
@@ -347,15 +347,15 @@
         "prefilter_score": 1,
         "prefilter_pass": true,
         "first_seen": "2026-10-15T11:11:25.003774",
-        "last_checked": "2026-10-22T13:54:15.612760"
+        "last_checked": "2026-10-23T09:07:21.430267"
     },
     {
         "title": "Ford Boosts Outlook on Strong Demand for Profit-Rich SUVs",
         "url": "https://www.bloomberg.com/news/articles/2026-07-28/ford-raises-earnings-outlook-on-strong-sales-of-profit-rich-suvs",
         "source": "OICA",
         "media": "Bloomberg",
-        "status": "failed",
-        "error": "HTTPSConnectionPool(host='www.bloomberg.com', port=443): Max retries exceeded with url: /news/articles/2026-07-28/ford-raises-earnings-outlook-on-strong-sales-of-profit-rich-suvs (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))",
+        "status": "timeout",
+        "error": "connect timeout",
         "content": "",
         "image_url": "",
         "keywords": {
@@ -365,7 +365,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:27.728162",
-        "last_checked": "2026-10-22T13:54:19.907748"
+        "last_checked": "2026-10-23T09:07:55.473090"
     },
     {
         "title": "Porsche to Cut 5,000 Jobs and Invest 2.1 billion Euros",
@@ -383,7 +383,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:30.373826",
-        "last_checked": "2026-10-22T13:54:24.288400"
+        "last_checked": "2026-10-23T09:08:00.382935"
     },
     {
         "title": "Volkswagen Makes Its Corporate Restructuring Measurable",
@@ -401,7 +401,7 @@
         "prefilter_score": 0,
         "prefilter_pass": false,
         "first_seen": "2026-10-15T11:11:32.988076",
-        "last_checked": "2026-10-22T13:54:27.190718"
+        "last_checked": "2026-10-23T09:08:05.233338"
     },
     {
         "title": "Renault’s hit EV helps fend off Chinese rivals as quarterly sales rebound",
@@ -421,7 +421,7 @@
         "prefilter_score": 1,
         "prefilter_pass": true,
         "first_seen": "2026-10-15T11:11:35.264451",
-        "last_checked": "2026-10-22T13:55:01.229151"
+        "last_checked": "2026-10-23T09:08:39.272844"
     },
     {
         "title": "文灿股份:2026年半年度报告摘要",
@@ -4352,6 +4352,207 @@
         "prefilter_pass": true,
         "first_seen": "2026-10-22T13:49:56.944850",
         "last_checked": "2026-10-22T13:49:56.944850",
+        "channel": "wechat_sogou",
+        "query": "乘用车销量"
+    },
+    {
+        "title": "会员限免丨汽车一体化压铸势不可挡,这些标的获关注",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTU1OTI4NDM4MQ%3D%3D&mid=2652120107&idx=2",
+        "source": "第一财经资讯",
+        "media": "第一财经资讯",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "1. 一体化压铸｜汽车减重降本利器，一体化压铸势不可挡，这些标的仍存较多市场机会\n\n逻辑标签：【中线埋伏】\n\n随着大量一体化压铸车型的推出，一体化压铸件供应商也可能会迎来白热化竞争阶段。拥有良好主业做支撑，同时在一体化压铸领域具备领先优势的企业，有望获得龙头溢价。2023年未被市场挖掘充分的一体化压铸标的，可能存在较多机会。\n\n东方财富证券建议关注国内冲压零部件领跑者****（****.SZ），蔚来一体化压铸车身优质供应商****，中小铝合金压铸件优质供应商****（****.SH），超大型压铸机供应商****（****.SZ）。\n\n研报观点：\n\n①特斯拉推动一体化压铸技术应用\n\n......\n\n②国内车企积极布局一体化压铸，未来市场空间广阔\n\n......\n\n③当前一体化压铸在设备端、模具端、材料端、制造端均具有较高的壁垒\n\n......\n\n（研报及资料来源：东方财富证券）\n\n风险提示：......\n\n2.化肥｜钾肥自给对粮食安全具战略意义，产能扩张+降本增效，龙头价值亟待重估\n\n逻辑标签：【中线埋伏】\n\n市场将估值直接和钾肥价格正相关，安信证券认为忽略了****（****.SZ）的成长性和成本下降潜力、区位和资源优势以及钾肥自给对我国粮食安全的战略意义。预计公司2022年-2024年的净利润分别为21.0亿元、25.0亿元、33.1亿元，给予“买入-A”投资评级。\n\n研报观点：\n\n①矿产资源丰富，产能扩建持续进行\n\n......\n\n②区位优势明显，规模化效应和非钾业务共筑成本优势\n\n......\n\n③中长期钾肥价格较2021年前中枢上移，单吨底部利润有支撑\n\n......\n\n（研报及资料来源：安信证券）\n\n风险提示：......\n\n扫码免费解锁全文，加入会员专属社群",
+        "image_url": "",
+        "publish_date": "2023-03-30",
+        "keywords": {
+            "core": {
+                "压铸": 13,
+                "一体化压铸": 11,
+                "铝合金": 1
+            },
+            "downstream": {}
+        },
+        "prefilter_score": 33,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-23T08:59:30.363813",
+        "last_checked": "2026-10-23T08:59:30.363813",
+        "channel": "wechat_sogou",
+        "query": "一体化压铸"
+    },
+    {
+        "title": "一体化压铸:汽车轻量化重要途径,关注四大环节",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3Njc4MDczMw%3D%3D&mid=2470389084&idx=1",
+        "source": "乐晴智库精选",
+        "media": "乐晴智库精选",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "查行业数据，就用行行查\n\n🕒 欢迎至网站探索：www.hanghangcha.com\n\n新能源汽车市场规模持续扩大以及节能减排双碳政策下，实现车身减重将成为各汽车厂商未来的重要发展目标。\n\n一体化压铸是实现轻量化的重要途径。\n目前汽车制造多采用“冲压+焊接”方法，即先用压力机生产小零件、再用机器人将零件进行焊接。\n对应这一制造方法，如今工厂普遍使用的是锁模力小于5000kN的小型压铸机，用于该过程中汽车零部件的制造。\n但由于“冲压+焊接”方法所需仪器设备繁多、且受技术限制无法实现在车身制造中大量使用铝合金，难以适应未来发展。\n因此，改变传统车身生产流程先生产结构件后焊接组装的一体化压铸技术应运而。一体化压铸所需生产零部件数量骤减，同时大幅减少焊接、涂胶环节，极大简化了车身整体生产流程。\n\n01 \n一体化压铸概览\n\n一体化压铸是新工艺技术，链条上的大型压铸装备、免热材料、压铸零部件工艺模具、整车诉求与验证等都有全新的要求和探索，上下游的合作研发也变得更加重要。\n一体化压铸最大优势在于较低的单车制造成本，而短期最大痛点在于高昂的全新设备投入、新材料技术应用、以及经验积累。\n随着一体化压铸工艺渗透率的提升，单车一体化压铸件的价值量也会逐步提升。当前新能源车单件一体化压铸后底板重量约为50-60kg，以50~60元/kg的产品定价模式预计，一体化压铸后底板单车价值量约为3000元。若将一体化铸件拓展车身及底盘全系，单车价值量将有望达到2.14~2.36万元。\n一体化压铸技术是车身与底盘向更高集成度发展的基础核心技术，受益集成化加速产业景气高增，量价齐飞的逻辑支撑一体化压铸市场空间迅速扩大。\n\n02\n一体化压铸产业链\n整体来看，一体化压铸技术发展初期需要产业链整体联动。\n1. 一体化压铸材料端\n\n从行业格局来看，一体化压铸材料端格局好于压铸端。\n在免热铝合金材料环节，目前全球仅莱茵菲尔登、美国铝业以及立中拥有专利，立中集团是国内唯一，孙公司保定隆达铝业于2020年取得免热材料专利证书（LDHM-02免热处理合金材料），保护时间为20年。\n除此以外，海外的特斯拉，国内的帅翼驰、蔚来、华人运通&上海交大、广东鸿图&中铝苏州研究院等也都宣布具备了免热处理铝合金材料开发能力。\n\n2. 冷室压铸机\n\n在2021年国内存量冷室压铸机企业市场份额中，力劲科技以近50%的市场份额排名第一；其次是伊之密，市占率为14%；东芝、东洋、布勒分别占比8%、5%、3%。其他企业由于在技术上不具有竞争优势，规模较小、研发投入偏低，整体技术水平仍然有提升空间。\n\n3. 一体压铸厂\n\n国内多家铝合金压铸零部件公司开始布局一体化压铸技术，购入多台巨型压铸机用于车身结构件等领域的一体化压铸。\n一体化压铸具有流程简便、生产效率高、轻量化程度高等优点 .\n随着一体化压铸规模扩大，生产成本也将逐渐降低。\n一体化压铸企业供应链格局向好，目前国内已试件一体化压铸成功的压铸企业有：广东鸿图、拓普集团、文灿股份等。\n2021年11月18日，文灿股份采用6000T压铸机生产的一体化压铸成型汽车零部件成功下线。\n2022年1月22日，广东鸿图采用首台国产6800T压铸机生产的新能源汽车底盘一体化结构件正式下线。\n2022年2月25日，拓普集团首台使用7200T压铸机产出的超大压铸一体化后舱下线。\n资料来源：公司公告，东方证券\n\n4. 整车厂\n整车厂对一体化压铸车身结构件的要求高，压铸机需要在快速的大规模生产过程中保持高良率，实现生产部件的一致性和稳定性。\n特斯拉Model Y车身后地板首先实现一体化压铸。2020年特斯拉公布Model Y一体化压铸后地板方案，相比于Model 3车身后地板70个零部件，Model Y车身后地板零部件数量大幅减少，仅为2个；2022年Q1财报公布德州奥斯汀工厂生产的一体化压铸车身方案，可将前&后地板零部件数量从171个减少至2个，焊接点数量减少超1600个。\n从特斯拉财报中的官方图片中可以看出，上海超级工厂已有5台大型压铸设备用于ModelY后地板的生产，德州奥斯汀超级工厂也于3月开启量产，并在Model Y后地板的基础上，增加了前地板（前纵梁）的一体化压铸。\n下一步，特斯拉计划用 2-3 个大型压铸件替换由 370 个零件组成的整个下车体总成，重量将进一步降低 10%，对应续航里程可增加 14%。\n资料来源：特斯拉公告\n2022年随着特斯拉ModelY的继续放量引领，小鹏、蔚来、理想、零跑等新势力车的相关高端车型率先跟进，后续其它自主及品牌跟进。\n据各家新势力车新年推出的新车型与一体化压铸的公布进展来看，2022年仍以特斯拉modelY为主导，部分新势力车企2022年下半年开始放量，预计2023年可实现较快突破。\n\n车企一体化压铸布局：\n\n资料来源：东北证券\n\n除车厂采购压铸机自研一体化压铸后底盘外，车身结构件的压铸厂商以及电池包和电驱动壳体的压铸厂商同样进行着一体化压铸业务的布局。\n在当前新能源车销量高增以及大型压铸件使用不断扩张背景下，零部件厂商高度受益压铸件需求放量。\n未来将有更多整车企业采用一体化压铸技术，一体化压铸渗透率有望持续提升。\n\n《产业链图册》 首发\n\n首发赠送：十分钟看懂一个行业 视频课程\n\n👇👇👇 点击下图即刻抢购\n\n交流学习 | 商务合作 | 文章转载\n请后台留言或添加小助手微信：lqzk999\n\n👇来个“分享、点赞、在看”三连吧!",
+        "image_url": "",
+        "publish_date": "2023-01-08",
+        "keywords": {
+            "core": {
+                "压铸": 54,
+                "一体化压铸": 35,
+                "铝合金": 4
+            },
+            "downstream": {
+                "电动车": 2
+            }
+        },
+        "prefilter_score": 44,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-23T08:59:34.832811",
+        "last_checked": "2026-10-23T08:59:34.832811",
+        "channel": "wechat_sogou",
+        "query": "一体化压铸"
+    },
+    {
+        "title": "2026年9月汽车工业产销情况",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDkzNjE5MA%3D%3D&mid=2247484983&idx=1",
+        "source": "源企",
+        "media": "源企",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "据中国汽车工业协会分析，前三季度，我国汽车产销小幅下滑，市场总体呈现“内冷外热”运行态势。由于多重因素影响，国内汽车市场持续承压，尚未得到有效改善；尽管外部环境复杂严峻，出口继续保持高速增长，展现出强劲韧性；国内新动能持续释放，新能源汽车销量占比稳步提升。\n\n来源：中汽协会行业信息部\n\n声明：本文系转载，旨在分享，版权归原作者所有，内容为原作者个人观点，并不代表本公众号赞同其观点和对其真实性负责。如涉及作品版权问题，请与我们联系，我们将在第一时间删除内容！\n\n源企是信息侠生态体系内，专注于中国智能产品出海领域的专业数智化会议策划与资源整合平台。致力于为中资企业提供专业化、全链条的会议会展服务，涵盖策划执行、资源对接、数字化转型赋能三大核心、策划并落地包括行业高峰论坛、产业研讨会、标杆企业研学及精准供需对接会在内的高质量活动，构建高效、可信的产业协同枢纽，系统推进企业间的资源整合与价值链接。\n\n我们始终以“智海扬帆 链接全球”为使命，助力中资企业应对出海挑战、把握全球机遇，赋能企业在全球化竞争中构筑可持续的数字竞争力，成为中国智能产品出海进程中可信赖的战略伙伴与资源连接者。\n\n点赞\n\n分享\n\n收藏",
+        "image_url": "",
+        "publish_date": "2026-10-23",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "电动车": 1,
+                "汽车销量": 1
+            }
+        },
+        "prefilter_score": 2,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-23T09:00:09.457944",
+        "last_checked": "2026-10-23T09:00:09.457944",
+        "channel": "wechat_sogou",
+        "query": "汽车产销"
+    },
+    {
+        "title": "-4.2%!-2.8%!请看2018汽车产销双降最终数据 | 中国汽车报",
+        "url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HK-x2mqjXvugBXHKNVIICR45VemxTlb8WoDx5jhk&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3Fsrc%3D11%26timestamp%3D1792717206%26ver%3D7043%26signature%3DMIh-KUA46%2AO9QbqtfhN6iYRJTLV74P5JD0UtBJjkFX%2AzILBkCg0wK99cbIS1j5IK1hkUvWuw7jjd8E0y02FQlfNA8cKijECqmeFk2hqPIm8ud6j-kDvb2zHnXAoMiyJV%26new%3D1",
+        "source": "中国汽车报",
+        "media": "中国汽车报",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "产销同比分别下降4.2%和2.8%，2018年的产销数据终于尘埃落定。1月14日，中国汽车工业协会（以下简称“中汽协”）发布了2018年汽车产销数据，负增长已成事实。然而2800万辆的销量仍可谓一个相当不错的成绩，也使得我国连续第十年成为全球第一大汽车市场。\n\n下降5.2%和4.1% 乘用车拖后腿\n\n2018年，我国汽车产销分别为2780.9万辆和2808.1万辆，产销量比上年同期分别下降4.2%和2.8%。\n\n其中，乘用车产销分为2352.9万辆和2371万辆，比上年同期分别下降5.2%和4.1%，占汽车产销比重分别为84.6%和84.4%，分别低于上年0.9和1.2个百分点。\n\n乘用车作为消费主力的大幅下滑成为汽车总体市场下滑的最主要因素。而且，乘用车的四个细分市场都出现不同程度的下滑，降字当头，哪个细分市场都不太好看。\n\n其中，轿车产销比上年同期分别下降4%和2.7%；SUV产销比上年同期分别下降3.2%和2.5%；MPV产销比上年同期分别下降为17.9%和16.2%；交叉型乘用车产销比上年同期分别下降20.8%和17.3%。\n\n数据显示，下半年产销量的大幅下滑是造成今年车市产销下降的主要因素。“上半年产销量都是高于上年同期的，而下半年却开始下降，尤其是9月之后，降幅加大。每个月的降幅都超过10%。”中汽协秘书长助理陈士华强调，下半年产销量增速的下滑导致2018年车市总体增速出现1990年以来的首次下滑。\n\n不过值得关注的是，受1.6L及以下车型车船税减半等政策因素影响，促使2018年小排量车型增速回落明显，而1.6L-2.0L却是正增长，陈士华表示，这是当前我国汽车市场消费升级的表现。\n\n中国品牌乘用车的市场份额在2018年也出现了回落，尤其是SUV下降了2.6个百分点。不过轿车市场份额却有了0.9个百分点的提高，是难得的亮点。\n\n“市场不好的时候，竞争力差的企业波动会更大，汽车市场也不例外。”\n\n陈士华认为，在汽车市场总体下降的大趋势中，中国品牌面临更激烈的竞争和生存压力在所难免。中汽协副秘书长师建华则表示，2019年中国汽车市场的竞争一定会更激烈，中国品牌可能会面临残酷的竞争甚至兼并重组，需要企业在产品和品牌等硬实力上下功夫。\n\n“只有踏踏实实、认认真真、不忘初心提升产品力的企业才能在竞争中存活下来。”师建华说。\n\n商用车再创历史新高 重型载货车是亮点\n\n2018年，商用车产销再创新高，分别为428万辆和437.1万辆，比上年同期分别增长1.7%和5.1%，尤其是重型载货车产销量分别达到111.2万辆和114.8万辆，销量再创历史新高。\n\n这是继2010年4万亿元投资拉动市场之后的历史新高，陈士华表示，在今年我国固定资产投资总体下滑的大环境中，重型载货车的数据难能可贵。\n\n销售达125万辆 新能源汽车是最大亮点\n\n2018年，新能源汽车产销分别为127万辆和125.6万辆，比上年同期分别增长59.9%和61.7%。其中，纯电动汽车产销分别为98.6万辆和98.4万辆，比上年同期分别增长47.9%和50.8%；插电式混合动力汽车产销分别为28.3万辆和27.1万辆，比上年同期分别增长122%和118%；燃料电池汽车产销均完成1527辆。\n\n针对近期补贴退坡是否会给2019年的新能源汽车造成影响，电池创新联盟副秘书长王耀表示，中国新能源汽车的发展规律显示，政策尤其是补贴的“靴子”落地一定会对短期市场产生影响，何时落地都会对政策落地实施前后期的短期产生产销量造成影响，短期内这种影响还难以避免。\n\n纯电动乘用车产销分别为79.2万辆和78.8万辆，比上年同期分别增长65.5%和68.4%；插电式混合动力乘用车产销分别为27.8万辆和26.5万辆，比上年同期分别增长143.3%和139.6%。纯电动商用车产销分别为19.4万辆和19.6万辆，产销量比上年同期分别增长3%和6.3%；插电式混合动力商用车产销均为0.6万辆，比上年同期均下降58%。\n\n师建华表示，从满足市场和消费需求的角度看，插电式混合动力的增长可能会继续。\n\n2018年，汽车出口104.1万辆，比上年同期增长16.8%，继续呈现较快增长态势。\n\n虽然增速较上年有所放缓，但在国际贸易形式紧张等不利因素影响下，能突破100万辆，也不失为难能可贵的成绩，尤其是前三个季度月度出口量均较上年同期有所上升更值得肯定。\n\n文：王金玉  编辑：王琨\n\n爆料热线：\n\n010-56002742；qcb010@163.com",
+        "image_url": "",
+        "publish_date": "2019-01-14",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "电动车": 5,
+                "汽车销量": 8
+            }
+        },
+        "prefilter_score": 10,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-23T09:00:34.114039",
+        "last_checked": "2026-10-23T09:00:34.114039",
+        "channel": "wechat_sogou",
+        "query": "汽车产销"
+    },
+    {
+        "title": "丰田两款燃油车重回乘用车销量榜前10,其余8席全部为新能源车型,特斯拉Model Y居首",
+        "url": "https://mp.weixin.qq.com/s?__biz=MTIzNDg3NzY2MA%3D%3D&mid=2654080031&idx=4",
+        "source": "FM93交通之声",
+        "media": "FM93交通之声",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "在8月短暂退出榜单后，燃油车于2026年9月重回乘用车零售销量前十。\n\n懂车帝援引的乘联分会数据显示，两款上榜的燃油车均出自一汽丰田：卡罗拉锐放以16865辆位列第六，RAV4荣放以16738辆排名第八。榜单其余八席全部为新能源车型。\n\n8月，该榜单前十曾被新能源全部包揽，燃油车无一上榜，这是年内第二次；5月的前十榜单同样没有燃油车。6月，丰田凯美瑞、大众朗逸曾双双回到前十。\n\n9月榜单前三名仍由新能源把持。特斯拉Model Y以50359辆居首，吉利星愿44275辆位列第二，比亚迪元UP22767辆位列第三。\n\n来源：第一财经",
+        "image_url": "",
+        "publish_date": "2026-10-12",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "汽车销量": 3
+            }
+        },
+        "prefilter_score": 3,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-23T09:00:47.959188",
+        "last_checked": "2026-10-23T09:00:47.959188",
+        "channel": "wechat_sogou",
+        "query": "乘用车销量"
+    },
+    {
+        "title": "2023年乘用车销量出炉:创5年来新高,出口量世界第一",
+        "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792717245&ver=7043&signature=klik1CAvwvfOxJKoHhTQEe0xOH97ypfvi4EePTOaFaRS0TDeQDnw-Shl2bl*CF8HEUEW-8jo8xxvNgBiHFCu6mdtfQA6PUSSzuFrTDZWE8rlC*bflqc2Y7T-ItSe8VvN&new=1",
+        "source": "汽车迷Pro",
+        "media": "汽车迷Pro",
+        "source_type": "news",
+        "status": "short",
+        "error": "正文抓取过短",
+        "content": "",
+        "image_url": "",
+        "publish_date": "2024-02-19",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "汽车销量": 1
+            }
+        },
+        "prefilter_score": 1,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-23T09:01:07.941556",
+        "last_checked": "2026-10-23T09:01:07.941556",
+        "channel": "wechat_sogou",
+        "query": "乘用车销量"
+    },
+    {
+        "title": "乘联会:2月乘用车销量137万辆 同比下滑3.7%",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjIxNzczMg%3D%3D&mid=403298550&idx=3",
+        "source": "车威",
+        "media": "车威",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "3月8日，全国乘用车市场信息联席会（乘联会）发布了2016年2月乘用车销量数据。数据显示，由于2016年春节比2015年早了11天，形成了节前旺销期短，节后休眠期长的抑制零售因素。首次营销，2月乘用车市场销量同比出现了小幅下滑。\n\n具体来看，2月广义乘用车国内销量137.0万辆，环比1月下滑41.5%，同比去年2月下滑3.7%；狭义乘用车销售131.8万辆，环比下滑42.2%，同比下滑1.0%。其中，轿车销售67.7万辆，环比下滑43.8%，同比下滑17.6%；SUV销售47.7万辆，环比下滑42.0%，同比增长34.3%；MPV销售164.8万辆，环比下滑35.3%，同比增长5.7%\n\n车企销量排名方面（狭义乘用车国内销量），上汽大众、上汽通用五菱、一汽大众、上汽通用、长安汽车、北京现代、长城汽车、东风日产、长安福特与东风悦达起亚位居前十。\n\n以下是2月乘用车销量详细情况：",
+        "image_url": "",
+        "publish_date": "2016-03-08",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "汽车销量": 9
+            }
+        },
+        "prefilter_score": 5,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-23T09:01:13.760915",
+        "last_checked": "2026-10-23T09:01:13.760915",
+        "channel": "wechat_sogou",
+        "query": "乘用车销量"
+    },
+    {
+        "title": "12月乘用车销量报告",
+        "url": "https://mp.weixin.qq.com/s?__biz=MjM5MzM5MDY1MQ%3D%3D&mid=2658274461&idx=1",
+        "source": "芝能汽车",
+        "media": "芝能汽车",
+        "source_type": "news",
+        "status": "ok",
+        "error": "",
+        "content": "继续开启我们的乘用车12月报告的第一部分。\n\n11月，中国乘用车销量为161.9万，去年同期为175.8万台，同比-7.5%，这个数据如果展望下个月可能会更不好看。12月去年的基数为226.3万台，预期12月份目前的状态，汽车销售的这个同比的数据不太好看。1-11月国内销售1796.5万台，同比下降-4.5%，今年预估在2000万上下。从产业的视角来看今年的汽车行业，确实有点难。\n\n▲ 图1. 11月整个汽车国内终端销量概览\n\n1-11月中国汽车终端销量的概览，放在一个图里面，可以往下看。我们能看到在经济调整的时候，不管是自主品牌、外资品牌和新势力车企都在卷。\n\n▲ 图2.  1-11月全国不同企业的分类情况\n\nPart 1\n\n汽车企业概览\n\n● 自主品牌\n\n目前转型新能源的比亚迪销量17.6万，吉利9.76万台，长安9.67万台，排在自主前三名。SGWM、长城和奇瑞都在5万台，特别是五菱其实总量围绕纯电小车在做了。我们能看到2万多台车传统汽车企业，已经和开始往2万奔的新势力汽车的销量打在了一起。\n\n明年是混动大年，因为目前围绕传统燃油车SUV的自主车企，看到了今年DM-i单纯依靠动力总成的优势（节油率、落地价格对比和加速等特性），长安、吉利、长城、五菱和奇瑞，都会跟随这条道路来做。在动力总成领域，蹉跎的时间可以随着车型周期来进行调整。而第三梯队3万台以下的几家车企，销量上其实和新势力的峰值差不多了，确实到了淘汰赛阶段，已经到了怎么推产品，才能够让原本销售渠道维持下去的地步——产品力不提高，4S店不赚钱，怎么可能继续持续经营。\n\n备注：这里的长城是不包含皮卡的，这个系列也是很赚钱的\n\n▲ 图3. 自主品牌的11月终端销售情况\n\n从销量来看，比亚迪在9月以后走出了一波相对独立的走势，整个产业在Q4的终端销售都是存在困难的。这个如邱总所说，就是我们身边能感受到的。\n\n▲ 图4. 自主品牌的2022年终端销售情况\n\n● 外资品牌\n\n1月，除了特斯拉和豪华品牌（BMW、奔驰、雷克萨斯）以外，外资品牌都是下降的。大众、两田都是反映了当前汽车的消费比较真实的情况，有些话确实要说。整个中国汽车产业，从整车到供应链，承受了巨大的压力，当然按照目前的情况，可能整个汽车销售在2023年3月以后会逐步回暖。\n\n▲ 图5. 外资品牌的11月终端销售情况\n\n我理解三年来，外资企业的管理层，还有执行层的规划、产品开发，对中国市场的响应是不充分的。目前在全球能卖得动的燃油车，到国内在油耗、动力和科技感方面，都需要大幅提高本地化。目前观察，如果合资企业能够承担本土化开发，还是有机会的。如果继续等着国外的产品线更新，可能外资品牌的市场份额会继续拉低。\n\n▲ 图6. 外资品牌的2022年终端销售情况\n\n实际上，整个新能源汽车渗透率的过程不可逆，自主品牌的占有率高也是不可逆的。按照当前的趋势来看，我们能看到越来越多的外资品牌会逐步退出中国市场，可能再次交锋是在东南亚和全球市场。\n\nPart 2\n\n重点企业的思考\n\n● 比亚迪\n\n复盘这一轮插电混动的起来，最主要是围绕磷酸铁锂的PHEV电芯。这里的突破是把8kWh的电池包的成本压在了1.1元/Wh的价格，也就是说实现1万多的价格，这个价格配合一个OBC，就和丰田的HEV价格所差无几。然后这一波定价机制，配合油价的的起伏，就把整个市场引爆了。原本预估的围绕上海、杭州、深圳这样给牌的打法，完全变颠覆了。当然其他人做不到的地方，在于把油车停了，在失去了价格对比以后，消费者要么选PHEV，要么选BEV。\n\n▲ 图7. 比亚迪的插电和纯电对比\n\n比亚迪的纯电动汽车的销售，是一个很有特点的打法。\n\n◎ 首先，所有的电池都是采用了一种类型的电池。也就是说，随着售价区间在靠下的海豚和元Plus，其实也是不断扩大整个电池采购的规模。这就使得弗迪电池的量在整个动力市场的采购上有一定的议价权，特别是围绕LFP的领域，市场上除了宁王以外，还没有第三家能做得到。\n\n◎ 其次，在驱动系统领域，我最近和朋友拆解分析和海豹的8合1的设计，是比较有特点的。我有机会给大家仔细讲讲这个驱动系统的设计。\n\n本质上，也是通过集成化来降低成本。随着大家都涨价，确实使得纯电动由于电池原因，比燃油车贵的印象发生了，新势力带着纯电飞，也是加深了普通消费者购买比亚迪的意愿。这个逻辑有点像，比价比下来这个牌子的性价比最高，因此客观上这波拉动，和特斯拉溢出效应，新势力溢出效应一般。然后覆盖的销售区域和门店也支持这种扩张。\n\n当然问题是比亚迪用了目前最努力的办法，也就是压低弗迪的价格，来给一个最优惠的价格。\n\n▲ 图8. 比亚迪的纯电动销量\n\nE3平台车型上，打造差异化如果我们仔细比对的话，汉EV的销量没有太大的变化，我把几款其他放在一起比较明显。我觉得对于中国纯电动汽车来说，再想进一步渗透，这是个系统问题。并不是比亚迪一家企业的事情。\n\n▲ 图9. 比亚迪几款车型对比\n\n2022年纯电动领域最大的问题是，Elon Musk今年好像更关注别的事情，在特斯拉的经营上也不能给大家带来突破，特别是年初就给我们调低了预期。 如果我们摘掉补贴和油价因素，纯电动下一步的进步动力在哪里？\n\n这其实每个人都在找，我们之前是通过研究特斯拉，研究它的产品设计和供应链方面找新东西，2022年我们没办法摸着特斯拉过河了。这是我2022年最大的感受，最大的利剑生锈了，而新势力比如蔚来汽车和小鹏汽车，都试图走一条自己的路，目前也是在逐步努力中。\n\n▲ 图10. 特斯拉的2022年\n\n小结：这是月度报告里面的上半部分，我现在的创作先在微博里面写点东西，然后逐步整理好。2023年，都要更努力才是！",
+        "image_url": "",
+        "publish_date": "2022-12-10",
+        "keywords": {
+            "core": {},
+            "downstream": {
+                "电动车": 5,
+                "汽车销量": 3
+            }
+        },
+        "prefilter_score": 8,
+        "prefilter_pass": true,
+        "first_seen": "2026-10-23T09:01:18.394747",
+        "last_checked": "2026-10-23T09:01:18.394747",
         "channel": "wechat_sogou",
         "query": "乘用车销量"
     }
